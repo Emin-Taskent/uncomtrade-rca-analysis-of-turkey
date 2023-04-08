@@ -1,0 +1,1230 @@
+Product code,Product label,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022
+'0101,"Live horses, asses, mules and hinnies",120,84,365,233,159,168,230,85,246,179,209,293
+'0102,Live bovine animals,0,30,1159,1991,51,0,0,478,3534,4522,8197,12302
+'0104,Live sheep and goats,0,206,253,2076,864,33,0,2702,28949,28928,37295,64117
+'0105,"""Live poultry, """"fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls""""""",3425,4707,8809,19570,30819,24667,31021,51036,47993,46179,56165,48448
+'0106,"Live animals (excluding horses, asses, mules, hinnies, bovine animals, swine, sheep, goats, ...",2670,3114,2877,2851,2579,3106,3422,3666,3891,3599,4531,3854
+'0201,"Meat of bovine animals, fresh or chilled",401,421,155,151,284,436,437,449,633,2062,2650,517
+'0202,"Meat of bovine animals, frozen",237,424,7389,10143,174,264,30,611,12244,5368,8934,15427
+'0203,"Meat of swine, fresh, chilled or frozen",0,0,3085,3227,0,0,0,10,1773,2798,2956,3260
+'0204,"Meat of sheep or goats, fresh, chilled or frozen",97,209,1488,1449,399,1495,1405,1166,5592,1990,5565,32247
+'0206,"Edible offal of bovine animals, swine, sheep, goats, horses, asses, mules or hinnies, fresh, ...",794,791,2312,4078,3149,3731,11700,11220,8927,10217,12084,5268
+'0207,"Meat and edible offal of fowls of the species Gallus domesticus, ducks, geese, turkeys and ...",385363,527315,708853,806370,436827,361442,526544,568511,607152,545805,844459,1089127
+'0208,"""Meat and edible offal of rabbits, hares, pigeons and other animals, fresh, chilled or frozen ...",3105,2807,2803,2797,2142,2251,1759,2101,2526,954,1851,2441
+'0209,"Pig fat, free of lean meat, and poultry fat, not rendered or otherwise extracted, fresh, chilled, ...",1,4,1,1,1,0,0,0,0,0,0,48
+'0210,"Meat and edible offal, salted, in brine, dried or smoked; edible flours and meals of meat or ...",256,517,1170,1844,1472,1259,952,529,905,745,438,667
+'0301,Live fish,1316,10026,3656,2960,4086,4697,5299,5979,5804,5049,5238,6140
+'0302,"Fish, fresh or chilled (excluding fish fillets and other fish meat of heading 0304)",172375,167473,240550,335777,359282,404465,438796,472225,510927,540582,636734,642621
+'0303,Frozen fish (excluding fish fillets and other fish meat of heading 0304),50000,56486,81312,81323,60171,61544,70889,95387,121628,144018,238741,389683
+'0304,"Fish fillets and other fish meat, whether or not minced, fresh, chilled or frozen",97400,106497,117604,136500,157915,193306,202901,205792,218117,231787,323433,414963
+'0305,"Fish, fit for human consumption, dried, salted or in brine; smoked fish, fit for human consumption, ...",40827,41200,44135,46596,38904,42404,34143,38703,41677,39340,40685,40700
+'0306,"Crustaceans, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine, ...",4978,2417,5125,5830,6408,6964,7120,6191,9695,7519,13214,17686
+'0307,"Molluscs, fit for human consumption, even smoked, whether in shell or not, live, fresh, chilled, ...",28416,29648,31587,24744,16659,22590,21784,32416,30642,27969,22490,17115
+'0308,"Aquatic invertebrates other than crustaceans and molluscs, live, fresh, chilled, frozen, dried, ...",0,0,0,553,4061,8711,16323,22897,37898,18301,18164,20084
+'0401,"Milk and cream, not concentrated nor containing added sugar or other sweetening matter",18659,22176,23504,27107,18291,16641,28508,32346,25493,20061,15859,19904
+'0402,"Milk and cream, concentrated or containing added sugar or other sweetening matter",33634,7033,21157,62045,18398,88272,66666,46594,90017,52019,178075,172600
+'0403,"Buttermilk, curdled milk and cream, yogurt, kephir and other fermented or acidified milk and ...",10953,9857,10121,5885,14345,11056,16127,13808,10912,8626,6756,10337
+'0404,"Whey, whether or not concentrated or containing added sugar or other sweetening matter; products ...",14263,18595,33754,45089,19095,20247,30809,27924,39955,52965,81209,56409
+'0405,"Butter, incl. dehydrated butter and ghee, and other fats and oils derived from milk; dairy ...",3065,2407,5250,4857,2461,2036,6746,3580,23214,10596,17885,72997
+'0406,Cheese and curd,114197,128968,160823,179078,161577,150137,153635,166540,174917,185905,152058,202970
+'0407,"Birds' eggs, in shell, fresh, preserved or cooked",284054,350482,406442,412819,273457,289456,376146,430249,296843,256352,375058,395289
+'0408,"Birds' eggs, not in shell, and egg yolks, fresh, dried, cooked by steaming or by boiling in ...",3,28,38,112,11,13,45,82,105,67,418,698
+'0409,Natural honey,5206,6007,13020,18934,25072,14926,23385,25669,24763,26161,31148,46275
+'0410,"Turtles' eggs, birds' nests and other edible products of animal origin, n.e.s.",24,7,29,48,1,60,134,425,469,118,214,390
+'0501,"Human hair, unworked, whether or not washed or scoured; waste of human hair",1,21,6,18,1,0,10,0,0,7,27,72
+'0502,"Pigs', hogs' or boars' bristles and hair; badger hair and other brush making hair; waste of ...",32,44,0,31,11,32,81,33,33,0,0,0
+'0504,"Guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, ...",40281,50823,54158,65769,48534,44331,46574,51147,57892,70356,87053,86193
+'0505,"Skins and other parts of birds, with their feathers or down, feathers and parts of feathers, ...",0,2,408,243,3,167,86,131,310,294,384,1001
+'0506,"Bones and horn-cores and their powder and waste, unworked, defatted, simply prepared, treated ...",3,1,0,49,129,2,52,95,72,98,7,122
+'0507,"Ivory, tortoiseshell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and ...",0,0,126,119,23,3,4,2,1,2,0,0
+'0508,"Coral and similar materials, shells of molluscs, crustaceans or echinoderms, cuttle-bone, powder ...",4468,4106,6933,5726,3512,3356,4299,3895,4064,4097,4232,3250
+'0510,"Ambergris, castoreum, civet and musk; cantharides; bile, whether or not dried; glands and other ...",0,0,0,0,0,0,0,0,0,0,0,0
+'0511,"Animal products n.e.s.; dead animals of all types, unfit for human consumption",1113,1838,2464,2548,2024,2753,3534,4659,5258,4365,6712,12359
+'0601,"Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, dormant, in growth or in flower, ...",2306,2146,2043,1938,1576,1708,1293,1744,1411,1413,1922,1732
+'0602,"Live plants incl. their roots, cuttings and slips; mushroom spawn (excluding bulbs, tubers, ...",40181,34115,41071,43063,40924,45073,48145,55584,61831,58768,72942,73905
+'0603,"Cut flowers and flower buds of a kind suitable for bouquets or for ornamental purposes, fresh, ...",27183,30150,28190,32018,28301,27731,28853,34148,35952,36780,59448,49500
+'0604,"Foliage, branches and other parts of plants, without flowers or flower buds, and grasses, mosses ...",6287,6617,6812,6479,6628,7101,7221,7820,8246,9808,14579,13114
+'0701,"Potatoes, fresh or chilled",17375,10585,43208,4812,1427,23181,27719,26361,42112,24453,48071,21696
+'0702,"Tomatoes, fresh or chilled",432462,400691,391218,426491,365226,239880,290138,289827,303057,312031,360489,373595
+'0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled",27479,25396,36144,39321,21096,15157,44399,18835,59488,57561,58927,34729
+'0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled",3532,2462,2541,3415,4292,3448,5178,5051,5405,5841,12337,9919
+'0705,"""Lettuce """"Lactuca sativa"""" and chicory """"Cichorium spp."""", fresh or chilled""",732,751,450,4563,4248,1461,2633,3038,2796,1101,3742,2637
+'0706,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots, fresh ...",12611,10107,9477,6265,7495,11262,9697,14756,14416,17284,22758,21355
+'0707,"Cucumbers and gherkins, fresh or chilled",59176,67060,63956,77098,47887,28175,33825,41055,36774,50573,67506,71393
+'0708,"Leguminous vegetables, shelled or unshelled, fresh or chilled",1283,1415,1775,2224,1341,1457,1610,1574,1404,2187,2795,1896
+'0709,"""Other vegetables, fresh or chilled (excluding potatoes, tomatoes, alliaceous vegetables, edible ...",123804,121545,139082,141844,135875,144529,151018,187666,196427,231894,298089,303816
+'0710,"Vegetables, uncooked or cooked by steaming or boiling in water, frozen",53812,40470,52144,54177,55149,60393,62351,80308,71272,71821,109230,112191
+'0711,"Vegetables provisionally preserved, e.g. by sulphur dioxide gas, in brine, in sulphur water ...",11599,9462,9926,7557,5402,4495,5701,5675,5091,4327,8484,9055
+'0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared",72267,66600,79425,74812,72165,69445,68826,67828,69656,64091,69658,72212
+'0713,"Dried leguminous vegetables, shelled, whether or not skinned or split",254241,209380,372850,494588,318803,339368,298818,343791,463479,591594,690697,1076850
+'0714,"Roots and tubers of manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar ...",41,137,190,6,9,16,11,16,14,13,109,330
+'0801,"Coconuts, Brazil nuts and cashew nuts, fresh or dried, whether or not shelled or peeled",201,236,1700,6466,296,396,435,377,8845,14945,23831,28694
+'0802,"Other nuts, fresh or dried, whether or not shelled or peeled (excluding coconuts, Brazil nuts ...",1198792,1254255,1343679,1738961,1871646,1374958,1295574,1183912,1684819,1541917,1811131,1535400
+'0803,"Bananas, incl. plantains, fresh or dried",15,39,145460,165071,40,11,10,34,139863,100844,90567,2521
+'0804,"Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens, fresh or dried",185142,201103,249071,289037,260815,259085,306816,300637,304559,322015,374329,347115
+'0805,"Citrus fruit, fresh or dried",1065177,897411,932886,931611,829924,894107,852884,889970,752364,940974,933720,900575
+'0806,"Grapes, fresh or dried",681781,682784,696175,707159,570408,530689,603603,611294,724265,671913,683787,654788
+'0807,"Melons, incl. watermelons, and papaws (papayas), fresh",14163,9726,10568,14841,16957,15714,12112,23054,18141,28571,32270,51838
+'0808,"Apples, pears and quinces, fresh",49616,47436,70764,64475,69419,58050,93307,129750,126494,168595,247887,228774
+'0809,"Apricots, cherries, peaches incl. nectarines, plums and sloes, fresh",189252,242077,240000,219326,216565,247478,296914,311983,328758,463352,441780,440701
+'0810,"""Fresh strawberries, raspberries, blackberries, back, white or red currants, gooseberries and ...",91123,94208,137142,126323,119064,112243,110732,142888,127074,156199,193160,162601
+'0811,"Fruit and nuts, uncooked or cooked by steaming or boiling in water, frozen, whether or not ...",43005,48227,61093,71009,61251,56864,67368,75292,72277,111462,134896,123336
+'0812,"Fruit and nuts, provisionally preserved, e.g. by sulphur dioxide gas, in brine, in sulphur ...",10487,12587,12066,8431,10178,10876,5874,7197,8044,7197,8416,7506
+'0813,"""Dried apricots, prunes, apples, peaches, pears, papaws """"papayas"""", tamarinds and other edible ...",378763,315020,342123,386077,327501,311472,291669,280929,291200,300048,389216,457322
+'0814,"Peel of citrus fruit or melons, incl. watermelons, fresh, frozen, dried or provisionally preserved ...",1362,1309,1032,1697,1379,1929,2711,3289,3215,2394,2623,2521
+'0901,"Coffee, whether or not roasted or decaffeinated; coffee husks and skins; coffee substitutes ...",4656,6214,9283,13846,7162,9225,10704,12082,19877,30342,35122,65147
+'0902,"Tea, whether or not flavoured",10367,12201,19285,21390,23614,28585,24966,13090,16110,17835,21723,24751
+'0903,Mate,0,0,1,0,0,7,245,16,53,157,16,4
+'0904,Pepper of the genus Piper; dried or crushed or ground fruits of the genus Capsicum or of the ...,4391,4712,9917,11437,7311,7887,9097,8896,14125,17782,21091,22725
+'0905,Vanilla,709,799,1164,924,257,315,213,396,1264,1404,1166,1070
+'0906,Cinnamon and cinnamon-tree flowers,68,99,422,521,164,203,189,265,733,1552,2441,2961
+'0907,"Cloves, whole fruit, cloves and stems",38,84,182,218,110,151,172,104,535,665,1050,939
+'0908,"Nutmeg, mace and cardamoms",71,68,149,315,119,91,109,144,1395,3517,2111,3223
+'0909,"Seeds of anis, badian, fennel, coriander, cumin or caraway; juniper berries",26944,16683,41190,43607,23031,35813,22987,31994,39357,47791,46709,38162
+'0910,"""Ginger, saffron, turmeric """"curcuma"""", thyme, bay leaves, curry and other spices (excluding ...",63250,77835,103557,113025,106714,113885,109656,113700,118415,136087,139949,126774
+'1001,Wheat and meslin,2580,34248,106328,36399,32394,11439,14828,23906,48212,39492,97828,174217
+'1002,Rye,1,1022,0,13,0,1,1,0,0,0,1,1
+'1003,Barley,1047,26415,54,6412,55,1399,1596,3006,10329,2603,38731,88207
+'1004,Oats,31,5,0,15,2,4,35,23,14,16,21,325
+'1005,Maize or corn,27923,33820,112052,79514,51033,49044,53038,43878,173324,121037,143575,257396
+'1006,Rice,78268,74160,95931,178873,25031,40445,39771,31604,108594,121410,129402,154068
+'1007,Grain sorghum,2,2,17,1462,0,211,23,44,71,0,10,4690
+'1008,"Buckwheat, millet, canary seed and other cereals (excluding wheat and meslin, rye, barley, ...",263,686,6547,10703,145,229,217,429,4622,5411,7138,9774
+'1101,Wheat or meslin flour,891744,840817,947726,935162,978608,1078489,1052581,1006290,1051757,951074,1106563,1497903
+'1102,Cereal flours (excluding wheat or meslin),1333,1084,1557,3399,4148,6227,9763,9212,4590,6269,6497,8962
+'1103,"Cereal groats, meal and pellets",69177,48669,62280,93336,72894,77571,92206,88732,62403,65196,83717,122734
+'1104,"Cereal grains otherwise worked, e.g. hulled, rolled, flaked, pearled, sliced or kibbled; germ ...",85585,79033,25737,15345,20456,23180,18052,51288,84087,61343,119622,116933
+'1105,"Flour, meal, powder, flakes, granules and pellets of potatoes",26,50,35,4,23,153,1143,150,652,74,24,172
+'1106,"""Flour, meal and powder of peas, beans, lentils and other dried leguminous vegetables of heading ...",40566,37346,43767,44669,52604,44989,27797,22934,31031,30639,39057,33334
+'1107,"Malt, whether or not roasted",15,190,13,8,14,19,16,1479,1052,622,634,344
+'1108,Starches; inulin,9811,13261,34540,38681,47377,52594,51883,54894,73846,72263,81704,103704
+'1109,"Wheat gluten, whether or not dried",122,108,67,83,80,13,107,115,252,289,2142,17475
+'1201,"Soya beans, whether or not broken",6,10725,23100,24759,7129,109502,44854,12079,45785,37048,61700,86904
+'1202,"Groundnuts, whether or not shelled or broken (excluding roasted or otherwise cooked)",248,516,2046,3429,363,941,1614,3383,5204,6282,29012,26108
+'1204,"Linseed, whether or not broken",10,70,899,4629,72,77,1145,27,4513,3760,15157,29136
+'1205,"Rape or colza seeds, whether or not broken",25,2318,2714,2,636,183,4,27,3965,6443,3509,4737
+'1206,"Sunflower seeds, whether or not broken",81084,101082,119157,136424,76339,120415,138035,114590,172367,193595,226586,228048
+'1207,"Other oil seeds and oleaginous fruits, whether or not broken (excluding edible nuts, olives, ...",78101,67208,125192,110239,53129,78876,37432,115813,172725,97359,114300,196794
+'1208,Flours and meals of oil seeds or oleaginous fruits (excluding mustard),59,141,394,177,104,82,112,288,105,255,468,1172
+'1209,"Seeds, fruits and spores, for sowing (excluding leguminous vegetables and sweetcorn, coffee, ...",26552,17604,20836,28543,22095,27538,23729,35171,51021,46725,56513,52810
+'1210,"Hop cones, fresh or dried, whether or not ground, powdered or in the form of pellets; lupulin",1,0,1,0,0,3,4,0,0,253,303,1036
+'1211,"Plants and parts of plants, incl. seeds and fruits, of a kind used primarily in perfumery, ...",12944,11908,19983,25660,15676,16332,17577,20336,24399,26052,30709,32005
+'1212,"Locust beans, seaweeds and other algae, sugar beet and sugar cane, fresh, chilled, frozen or ...",25700,23255,28896,25659,19080,16334,18864,27081,32749,22594,39491,41781
+'1213,"Cereal straw and husks, unprepared, whether or not chopped, ground, pressed or in the form ...",2573,767,187,2012,1909,492,786,832,440,119,918,491
+'1214,"Swedes, mangolds, fodder roots, hay, alfalfa, clover, sainfoin, forage kale, lupines, vetches ...",2436,2711,3826,2627,3439,3197,585,2549,14375,5899,439,401
+'1301,"Lac; natural gums, resins, gum-resins, balsams and other natural oleoresins",431,300,569,714,401,594,513,502,360,664,737,1287
+'1302,"Vegetable saps and extracts; pectic substances, pectinates and pectates; agar-agar and other ...",6205,8104,10038,9069,8706,9689,11490,15885,18762,28260,36113,46298
+'1401,"Vegetable materials of a kind used primarily for plaiting, e.g. bamboos, rattans, reeds, rushes, ...",3499,2652,2551,1925,1330,1725,1212,997,1219,1971,3489,2917
+'1404,"Vegetable products, n.e.s.",29353,25766,18213,11300,16448,16017,19169,12423,12020,11419,29816,35372
+'1501,"Pig fat, incl. lard, and poultry fat, rendered or otherwise extracted (excluding lard stearin ...",40,0,0,0,0,207,64,1215,24,0,1,8
+'1502,"Fats of bovine animals, sheep or goats (excluding oil and oleostearin)",141,62,187,350,1,146,1,13,323,76,334,3738
+'1503,"Lard stearin, lard oil, oleostearin, oleo-oil and tallow oil (excluding emulsified, mixed or ...",11,0,3,1,157,161,121,25,0,0,1,9
+'1504,"Fats and oils and their fractions of fish or marine mammals, whether or not refined (excluding ...",8702,5689,11541,23997,12269,18271,7879,22140,13247,32466,15288,39638
+'1505,"Wool grease and fatty substances derived therefrom, incl. lanolin",165,287,30,53,11,57,7,58,146,384,231,173
+'1506,"Other animal fats and oils and their fractions, whether or not refined, but not chemically ...",0,2,79,239,515,424,394,278,324,170,481,392
+'1507,"Soya-bean oil and its fractions, whether or not refined (excluding chemically modified)",8092,4618,13188,3124,6928,25710,40389,59555,78585,146948,341969,452957
+'1508,"Groundnut oil and its fractions, whether or not refined, but not chemically modified",0,0,0,1,55,0,0,0,4,0,4,136
+'1509,Olive oil and its fractions obtained from the fruit of the olive tree solely by mechanical ...,49409,76500,294780,89586,60030,69625,200432,239601,143197,129296,170158,338442
+'1510,"Other oils and their fractions, obtained solely from olives, whether or not refined, but not ...",2858,4541,10820,3688,3354,3120,7206,22958,11483,11174,11670,27189
+'1511,"Palm oil and its fractions, whether or not refined (excluding chemically modified)",1971,2443,30607,9750,1105,2540,3558,2795,51676,119724,209783,290451
+'1512,"Sunflower-seed, safflower or cotton-seed oil and fractions thereof, whether or not refined, ...",341463,417808,496953,794431,685018,637296,550662,423047,500803,736898,937160,1898969
+'1513,"""Coconut """"copra"""", palm kernel or babassu oil and fractions thereof, whether or not refined, ...",2,0,7056,1030,9,26,20,50,1034,3335,6545,21303
+'1514,"Rape, colza or mustard oil and fractions thereof, whether or not refined, but not chemically ...",4487,1722,1035,1659,883,1004,2854,7876,1115,8837,17797,26312
+'1515,"Fixed vegetable fats and oils, incl. jojoba oil, and their fractions, whether or not refined, ...",53702,50204,88706,63836,52529,85051,59037,69017,80505,86008,143546,147032
+'1516,"Animal or vegetable fats and oils and their fractions, partly or wholly hydrogenated, inter-esterified, ...",370332,480575,329752,34860,11678,7728,6561,3265,9786,6683,14069,22854
+'1517,"Margarine, other edible mixtures or preparations of animal or vegetable fats or oils and edible ...",181229,152586,185731,180665,156966,189415,149248,136788,113086,97918,203826,245954
+'1518,"Animal or vegetable fats and oils and their fractions, boiled, oxidised, dehydrated, sulphurised, ...",2591,3370,1537,1940,2396,4171,5052,3929,3061,5305,5741,15533
+'1520,"Glycerol, crude; glycerol waters and glycerol lyes",544,256,179,163,329,209,111,474,260,902,1814,6745
+'1521,"Vegetable waxes, beeswax, other insect waxes and spermaceti, whether or not refined or coloured ...",92,222,207,250,127,97,86,198,365,283,340,694
+'1522,Degras; residues resulting from the treatment of fatty substances or animal or vegetable waxes,341,98,323,242,3,118,304,124,135,82,58,595
+'1601,"Sausages and similar products, of meat, offal or blood; food preparations based on these products",18027,25201,29141,29196,19866,12654,19164,19161,22058,26001,37351,42520
+'1602,"Prepared or preserved meat, offal or blood (excluding sausages and similar products, and meat ...",16298,17159,22629,26540,19082,15654,32457,43375,53664,49839,74495,115876
+'1603,"Extracts and juices of meat, fish or crustaceans, molluscs and other aquatic invertebrates",354,87,277,295,187,263,341,169,205,194,208,206
+'1604,Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs,10342,10990,28889,34608,26219,26829,39921,49047,31190,32975,55268,76763
+'1605,"Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved (excluding smoked)",20425,21093,18668,20396,17822,18795,17555,19019,21050,19257,23965,33058
+'1701,"Cane or beet sugar and chemically pure sucrose, in solid form",58171,25437,55176,40023,6004,10029,3196,24236,23766,23577,150940,28150
+'1702,"Other sugars, incl. chemically pure lactose, maltose, glucose and fructose, in solid form; ...",87076,76365,99246,122005,110028,104692,126116,129030,135649,159969,206509,246109
+'1703,Molasses resulting from the extraction or refining of sugar,34,34,194,101,27,28,35,367,272,200,254,237
+'1704,"Sugar confectionery not containing cocoa, incl. white chocolate",328887,402853,479617,530106,440970,413018,456602,446308,481523,487048,635899,795701
+'1801,"Cocoa beans, whole or broken, raw or roasted",2,1507,6066,8507,6961,9223,3128,5183,3676,12513,6463,1656
+'1802,"Cocoa shells, husks, skins and other cocoa waste",0,2,16,1,0,0,0,0,0,94,14,2
+'1803,"Cocoa paste, whether or not defatted",9292,7301,8990,6889,7240,7086,4660,5041,6148,7542,4291,8011
+'1804,"Cocoa butter, fat and oil",13121,14305,18297,19155,35271,22578,21774,44041,40011,25672,19594,26668
+'1805,"Cocoa powder, not containing added sugar or other sweetening matter",53657,48348,37572,28359,31129,34610,35092,42433,50335,52354,56759,64436
+'1806,Chocolate and other food preparations containing cocoa,433849,478542,545043,579363,475103,402986,458501,504426,565720,554842,688415,841811
+'1901,"Malt extract; food preparations of flour, groats, meal, starch or malt extract, not containing ...",28569,30538,35532,45474,27719,26475,27127,25107,44994,31002,28676,40622
+'1902,"Pasta, whether or not cooked or stuffed with meat or other substances or otherwise prepared, ...",285288,357850,494870,507160,418183,422354,490647,552416,608508,761284,777397,964539
+'1903,"Tapioca and substitutes therefor prepared from starch, in the form of flakes, grains, pearls, ...",276,86,2,0,0,1,2,2,2,5,2,5
+'1904,"""Prepared foods obtained by the swelling or roasting of cereals or cereal products, e.g. corn ...",101521,107007,141088,172783,144623,165324,158560,160250,177648,195494,174317,223418
+'1905,"Bread, pastry, cakes, biscuits and other bakers' wares, whether or not containing cocoa; communion ...",621535,739220,879795,940747,915033,886759,941935,1002490,1079946,1091251,1189948,1398952
+'2001,"Vegetables, fruit, nuts and other edible parts of plants, prepared or preserved by vinegar ...",184064,201296,235069,241598,215648,228329,232560,235967,240582,293828,323959,356231
+'2002,"Tomatoes, prepared or preserved otherwise than by vinegar or acetic acid",124551,142545,230968,271005,184401,192739,181626,192745,200334,206434,253698,521660
+'2003,"Mushrooms and truffles, prepared or preserved otherwise than by vinegar or acetic acid",499,442,455,388,382,285,418,331,552,481,531,865
+'2004,"Vegetables prepared or preserved otherwise than by vinegar or acetic acid, frozen (excluding ...",12731,11078,15361,13446,9026,29877,46881,40152,52749,40998,46919,132822
+'2005,"Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, not frozen ...",196432,189824,198801,209600,196973,186504,182179,204758,222960,248039,266124,298621
+'2006,"""Vegetables, fruit, nuts, fruit-peel and other edible parts of plants, preserved by sugar """"drained, ...",1866,1589,1474,1150,1384,1810,2171,1680,2128,1586,1838,1874
+'2007,"Jams, fruit jellies, marmalades, fruit or nut purée and fruit or nut pastes, obtained by cooking, ...",217911,236647,245732,330692,391702,280923,257431,227045,220730,272170,300360,279391
+'2008,"Fruits, nuts and other edible parts of plants, prepared or preserved, whether or not containing ...",695113,724320,735422,882370,1001265,745028,760953,725780,834388,907728,1028128,933109
+'2009,"Fruit juices, incl. grape must, and vegetable juices, unfermented, not containing added spirit, ...",220353,214392,226417,230920,186285,183075,215877,279382,313891,393289,474491,555041
+'2101,"Extracts, essences and concentrates, of coffee, tea or maté and preparations with a basis of ...",8740,21973,30952,31671,23128,18605,22557,23754,34421,43866,54173,64783
+'2102,"Yeasts, active or inactive; other dead single-cell micro-organisms, prepared baking powders ...",179986,195714,217469,219821,201566,202391,208917,211595,193997,202075,216902,243906
+'2103,"Sauce and preparations therefor; mixed condiments and mixed seasonings; mustard flour and meal, ...",50117,57903,61617,59070,53638,52901,46292,48120,61687,76534,71960,87513
+'2104,Soups and broths and preparations therefor; food preparations consisting of finely homogenised ...,44708,40883,68673,60401,48394,36277,28099,35877,29778,43408,35520,39432
+'2105,"Ice cream and other edible ice, whether or not containing cocoa",31274,36284,53751,51941,36388,34788,32784,34456,44881,43020,55317,75674
+'2106,"Food preparations, n.e.s.",400708,364924,388053,418817,332139,342228,348353,389426,399096,400436,443992,529423
+'2201,"Waters, incl. natural or artificial mineral waters and aerated waters, not containing added ...",33040,37345,44877,54844,62185,64201,66297,62288,61704,51460,58439,69540
+'2202,"Waters, incl. mineral waters and aerated waters, containing added sugar or other sweetening ...",97994,108448,130101,155729,145507,134527,162772,192413,184822,191155,279507,338883
+'2203,Beer made from malt,64240,71435,70092,59959,46962,37192,34759,39086,47122,40930,47636,60804
+'2204,"Wine of fresh grapes, incl. fortified wines; grape must, partly fermented and of an actual ...",8757,9271,14999,15046,10543,10125,9762,10147,14748,6851,8547,13626
+'2205,"Vermouth and other wine of fresh grapes, flavoured with plants or aromatic substances",0,38,87,60,31,34,35,34,23,22,10,3
+'2206,"Cider, perry, mead and other fermented beverages and mixtures of fermented beverages and non-alcoholic ...",289,240,314,274,455,335,566,656,441,384,308,220
+'2207,"Undenatured ethyl alcohol of an alcoholic strength of >= 80%; ethyl alcohol and other spirits, ...",25943,27877,3892,4438,964,454,808,714,4338,5167,11760,11550
+'2208,"Undenatured ethyl alcohol of an alcoholic strength of < 80%; spirits, liqueurs and other spirituous ...",25863,28374,46857,62420,45301,40351,41530,42969,43905,34935,40444,47764
+'2209,"Vinegar, fermented vinegar and substitutes for vinegar obtained from acetic acid",2596,2707,2889,3533,3206,3427,3651,4265,5048,7445,5483,5511
+'2301,"Flours, meals and pellets, of meat or meat offal, of fish or of crustaceans, molluscs or other ...",508,1152,745,2269,478,2079,7353,10630,17162,17975,8873,8289
+'2302,"Bran, sharps and other residues, whether or not in the form of pellets, derived from the sifting, ...",14264,2563,1442,1814,4821,5980,15137,29243,8597,2716,31233,57232
+'2303,"Residues of starch manufacture and similar residues, beet-pulp, bagasse and other waste of ...",680,78,3544,1119,1147,966,1841,4199,3126,5375,12806,18625
+'2304,"Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting ...",4508,6569,86573,144137,23110,19496,18273,22211,204280,197953,326168,537655
+'2305,"Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting ...",0,0,0,147,5,0,2,0,0,0,38,0
+'2306,"Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting ...",3323,3834,2900,5950,5250,5790,7072,14206,8904,7901,25829,35926
+'2307,Wine lees; argol,33,51,138,129,36,5,8,12,33,18,57,1
+'2308,"Acorns, horse-chestnuts, marc and other vegetable materials and vegetable waste, vegetable ...",88,4432,98,1578,335,70,1370,538,628,574,1513,1125
+'2309,Preparations of a kind used in animal feeding,27574,112421,191747,114215,75406,94803,135767,157945,162084,182901,294726,492919
+'2401,Unmanufactured tobacco; tobacco refuse,369464,427092,438925,517411,386138,358123,349636,382934,262472,267542,260938,261113
+'2402,"Cigars, cheroots, cigarillos and cigarettes of tobacco or of tobacco substitutes",247677,333402,534934,754745,452337,496021,479870,468843,471774,431135,342236,414908
+'2403,"""Manufactured tobacco and manufactured tobacco substitutes and """"homogenised"""" or """"reconstituted"""" ...",53484,81938,91093,93014,80017,152235,116693,157844,175546,210537,178505,165113
+'2404,"Products containing tobacco, reconstituted tobacco, nicotine, or tobacco or nicotine substitutes, ...",0,0,0,0,0,0,0,0,0,0,0,17
+'2501,"Salts, incl. table salt and denatured salt, and pure sodium chloride, whether or not in aqueous ...",30821,9167,12358,18497,26828,21407,25211,30439,40674,39547,42331,64250
+'2502,Unroasted iron pyrites,1,6,135,1227,508,504,578,768,525,456,6031,6127
+'2503,"Sulphur of all kinds (excluding sublimed sulphur, precipitated sulphur and colloidal sulphur)",10729,10361,6758,10362,17254,10651,17568,24601,17159,11732,42203,112031
+'2504,Natural graphite,983,1012,1240,950,759,614,967,1291,1399,924,1435,1700
+'2505,"Natural sands of all kinds, whether or not coloured (excluding gold- and platinum-bearing sands, ...",5137,6636,6945,6902,5568,4008,4613,6093,7327,7116,9020,7670
+'2506,"Quartz (excluding natural sands); quartzite, whether or not roughly trimmed or merely cut, ...",37290,42197,51837,62433,68161,68166,76142,74451,79927,68225,77706,77803
+'2507,"Kaolin and other kaolinic clays, whether or not calcined",2999,3629,3136,4019,5165,2260,4362,3204,5546,8418,14050,35740
+'2508,"Clays, andalusite, kyanite and sillimanite, whether or not calcined; mullite; chamotte or dinas ...",39212,42190,52146,50261,50199,62205,69315,79456,91859,102963,122024,160946
+'2509,Chalk,437,207,312,263,343,281,479,1767,83,178,447,601
+'2510,"Natural calcium phosphates and natural aluminium calcium phosphates, natural and phosphatic ...",239,201,10373,383,21,16,9,74,13,1,14,2119
+'2511,"""Natural barium sulphate """"barytes""""; natural barium carbonate """"witherite"""", whether or not ...",17122,21836,33326,45493,31471,21737,27223,40213,35567,29361,37719,53485
+'2512,"Siliceous fossil meals, e.g. kieselguhr, tripolite and diatomite, and similar siliceous earths, ...",1986,2361,3988,3238,3584,3866,5536,2308,156,225,255,328
+'2513,"Pumice stone; emery; natural corundum, natural garnet and other natural abrasives, whether ...",12738,11330,12690,15867,17329,18287,22223,23755,29002,28719,50045,36411
+'2514,"Slate, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or ...",229,208,566,638,373,374,520,470,302,276,480,170
+'2515,"Marble, travertine, ecaussine and other calcareous monumental or building stone of an apparent ...",770259,928201,1120411,975995,872015,859540,1103160,944193,864672,663406,787285,645312
+'2516,"Granite, porphyry, basalt, sandstone and other monumental or building stone, whether or not ...",23894,24397,18663,15576,9693,11359,9171,9548,13098,15089,22694,27223
+'2517,"Pebbles, gravel, broken or crushed stone, for concrete aggregates, for road metalling or for ...",39371,42079,36148,33038,25196,25578,21160,28961,31354,28329,30122,27712
+'2518,"""Dolomite, whether or not calcined or sintered, incl. dolomite roughly trimmed or merely cut, ...",2516,2613,5143,5993,2285,2588,2089,1924,2709,3029,2799,1367
+'2519,"""Natural magnesium carbonate """"magnesite""""; fused magnesia; dead-burned """"sintered"""" magnesia, ...",90466,83646,104494,100897,81681,91868,101075,131982,82907,79312,101320,111896
+'2520,"Gypsum; anhydrite; plasters consisting of calcined gypsum or calcium sulphate, whether or not ...",72123,76615,90484,78388,51517,55148,49457,52097,64571,83622,123535,113491
+'2521,"Limestone flux; limestone and other calcareous stone, of a kind used for the manufacture of ...",53,193,369,96,7521,8368,6372,6718,1037,1318,1660,532
+'2522,"Quicklime, slaked lime and hydraulic lime (excluding pure calcium oxide and calcium hydroxide)",14223,15881,14862,15450,11487,10054,8825,10070,11976,13242,11858,12919
+'2523,"Cement, incl. cement clinkers, whether or not coloured",911315,795553,735351,649072,549460,494787,530641,614327,929673,1218695,1368120,1663042
+'2524,Asbestos (excluding products made from asbestos),0,0,1,0,0,0,0,5,0,0,0,0
+'2525,"Mica, whether or not rifted into sheets or splittings; mica waste",343,354,206,121,154,211,119,246,192,269,323,356
+'2526,"Natural steatite, whether or not roughly trimmed or merely cut, by sawing or otherwise, into ...",1069,1042,609,822,899,1005,1135,1812,1736,1782,2165,4543
+'2528,"Borates, natural, and concentrates thereof, whether or not calcined, and natural boric acids ...",2468,187861,232975,266123,231840,224436,264999,275318,207364,146580,207461,254613
+'2529,"Feldspar; leucite, nepheline and nepheline syenite; fluorspar",130878,131974,142257,156284,145732,156854,179883,206892,217266,203247,292800,325257
+'2530,"Vermiculite, perlite and other mineral substances, n.e.s.",46110,39009,41127,38434,35772,35492,39609,43476,46561,45255,62429,70270
+'2601,"Iron ores and concentrates, incl. roasted iron pyrites",29212,31348,84688,82421,15540,17560,43662,45879,102592,190294,431451,269257
+'2602,"Manganese ores and concentrates, incl. ferruginous manganese ores and concentrates, with a ...",15709,16256,46755,13704,1449,3260,4813,6577,5686,1890,4995,6794
+'2603,Copper ores and concentrates,364876,441688,509540,369530,250418,177879,234846,122771,174833,304948,454719,523074
+'2604,Nickel ores and concentrates,16671,13913,4450,7946,3622,3813,9225,446,1574,16785,15279,11292
+'2605,Cobalt ores and concentrates,0,0,0,0,0,1,0,0,24,55,0,0
+'2606,Aluminium ores and concentrates,5409,5386,7231,8814,8785,13750,14855,32071,43594,37434,50455,66991
+'2607,Lead ores and concentrates,88808,137751,204673,143322,157209,117949,177808,194512,148357,172406,223521,216643
+'2608,Zinc ores and concentrates,202809,194715,202320,237797,168314,188636,388311,448785,350491,290106,469274,547356
+'2609,Tin ores and concentrates,128,16,10,12,7,0,23,0,0,67,28,18
+'2610,Chromium ores and concentrates,465389,418780,453594,342846,249937,244759,344753,306471,225703,130418,266255,340295
+'2611,Tungsten ores and concentrates,0,0,0,0,0,27,0,0,0,0,0,0
+'2612,Uranium or thorium ores and concentrates,0,0,0,0,0,0,0,0,0,0,0,0
+'2613,Molybdenum ores and concentrates,1309,0,13306,14611,8409,6015,23457,7288,9829,2252,554,7135
+'2614,Titanium ores and concentrates,494,77,10,4,378,71,84,41,143,0,480,3266
+'2615,"Niobium, tantalum, vanadium or zirconium ores and concentrates",68,103,0,0,10,0,23,1,9,161,359,5357
+'2616,Precious-metal ores and concentrates,516,63851,189286,134705,115291,126682,124710,125852,132056,191028,171816,170946
+'2617,"Ores and concentrates (excluding iron, manganese, copper, nickel, cobalt, aluminium, lead, ...",24520,20978,24146,14849,12396,10810,13217,10923,6228,7934,16399,17930
+'2618,"""Granulated slag """"slag sand"""" from the manufacture of iron or steel""",2121,980,2819,2235,998,1551,1935,3226,5151,13135,19839,17995
+'2619,"Slag, dross, scalings and other waste from the manufacture of iron or steel (excluding granulated ...",30563,35303,29647,20991,4284,7700,10055,12621,14059,9503,27341,22828
+'2620,"Slag, ash and residues containing metals, arsenic or their compounds (excluding those from ...",5967,10041,6968,4637,3434,3808,4785,6825,7466,8752,9263,16773
+'2621,"""Slag and ash, incl. seaweed ash """"kelp""""; ash and residues from the incineration of municipal ...",115,388,386,608,477,5301,1262,1191,1714,7191,4573,1926
+'2701,"Coal; briquettes, ovoids and similar solid fuels manufactured from coal",1690,1960,12630,4655,12759,4447,10961,10116,4291,6491,12895,280271
+'2702,"Lignite, whether or not agglomerated (excluding jet)",2635,2769,783,447,82,277,159,92,185,380,588,774
+'2703,"Peat, incl. peat litter, whether or not agglomerated",1539,1932,1159,764,777,669,703,827,1001,1161,1479,1691
+'2704,"Coke and semi-coke of coal, of lignite or of peat, whether or not agglomerated; retort carbon",557,390,2374,1508,909,1335,924,10435,229,449,6044,44150
+'2705,"Coal gas, water gas, producer gas, lean gas and similar gases (excluding petroleum gases and ...",55,9,18,46,9,2,4,59,25,6,19,9
+'2706,"Tar distilled from coal, from lignite or from peat, and other mineral tars, whether or not ...",24811,39234,38833,38636,20063,21581,37432,43898,45191,37011,63127,81308
+'2707,Oils and other products of the distillation of high temperature coal tar; similar products ...,138438,105219,146133,58591,87689,59022,65491,87645,423333,419835,708622,1200101
+'2708,"Pitch and pitch coke, obtained from coal tar or from other mineral tars",169,40,30,27,34,10,6,10,13,4,63,4
+'2709,"Petroleum oils and oils obtained from bituminous minerals, crude",0,0,1,0,0,0,0,0,0,0,0,0
+'2710,Petroleum oils and oils obtained from bituminous minerals (excluding crude); preparations containing ...,5816619,6782527,9255656,6870582,3966452,2784077,3671210,3726658,7144756,3718144,6524419,13057028
+'2711,Petroleum gas and other gaseous hydrocarbons,229596,315908,355775,182300,104647,81478,132688,92244,102919,107957,227961,397635
+'2712,"Petroleum jelly, paraffin wax, micro- crystalline petroleum wax, slack wax, ozokerite, lignite ...",37608,28733,19339,16897,13815,15811,18221,16276,16744,15432,34478,35057
+'2713,"Petroleum coke, petroleum bitumen and other residues of petroleum oil or of oil obtained from ...",8147,7233,4640,7387,15821,32820,35167,45271,283743,177238,490550,646899
+'2714,"Bitumen and asphalt, natural; bituminous or oil-shale and tar sands; asphaltites and asphaltic ...",121,377,312,976,82,216,55,3780,971,154,331,767
+'2715,"Bituminous mastics, cut-backs and other bituminous mixtures based on natural asphalt, on natural ...",1907,1718,2321,2488,1454,1842,2904,1771,1825,1942,1667,2515
+'2716,Electrical energy,148734,190202,28948,88836,73852,13589,81877,99621,104425,81804,248355,293267
+'2801,"Fluorine, chlorine, bromine and iodine",1033,957,1855,2365,1680,1320,1522,1558,10049,9173,1591,3926
+'2802,"Sulphur, sublimed or precipitated; colloidal sulphur",1433,1687,1343,1056,208,114,2690,8068,1585,661,27,218
+'2803,"""Carbon """"carbon blacks and other forms of carbon"""", n.e.s.""",1576,2652,1892,3683,1399,1506,2128,1211,1617,1434,2404,35484
+'2804,"Hydrogen, rare gases and other non-metals",3366,5276,4904,6852,4563,4341,3965,3756,5420,6569,15818,28462
+'2805,"Alkali or alkaline-earth metals; rare-earth metals, scandium and yttrium, whether or not intermixed ...",266,244,3772,14160,34,29,192,397,1006,341,346,1178
+'2806,"""Hydrogen chloride """"hydrochloric acid""""; chlorosulphuric acid""",569,527,622,663,629,503,305,411,735,668,644,2464
+'2807,Sulphuric acid; oleum,136,133,87,325,1059,265,2992,14732,11208,933,28660,34539
+'2808,Nitric acid; sulphonitric acids,200,354,246,380,461,347,402,661,337,341,483,1034
+'2809,"Diphosphorus pentaoxide; phosphoric acid; polyphosphoric acids, whether or not chemically defined",663,1190,1030,1232,1566,942,1025,1358,2556,782,2381,31437
+'2810,Oxides of boron; boric acids,1952,1135,1132,2298,715,564,1342,1407,1760,1021,2328,6316
+'2811,"""Inorganic acids and inorganic oxygen compounds of non-metals (excluding hydrogen chloride ...",35899,34267,30819,33873,30913,30541,36808,39819,36006,23920,42763,63137
+'2812,Halides and halide oxides of non-metals,172,73,103,177,42,52,17,51,72,11,131,247
+'2813,Sulphides of non-metals; commercial phosphorus trisulphide,1,3,0,1,1,0,0,17,1,0,0,19
+'2814,"Ammonia, anhydrous or in aqueous solution",35866,81867,32639,76672,91092,31251,14976,44983,15965,12052,81081,106214
+'2815,"""Sodium hydroxide """"caustic soda"""", potassium hydroxide """"caustic potash""""; peroxides of sodium ...",7212,7206,6850,4424,3939,4899,5260,8572,7976,10768,16435,33608
+'2816,"Hydroxide and peroxide of magnesium; oxides, hydroxides and peroxides, of strontium or barium",1,1,5,6,32,65,21,117,49,18,71,61
+'2817,Zinc oxide; zinc peroxide,24090,20904,27024,64443,61328,63238,60612,48828,48216,37333,70614,96105
+'2818,"Artificial corundum, whether or not chemically defined; aluminium oxide; aluminium hydroxide",5029,166,231,86,143,52,3246,2671,2549,2193,10767,9383
+'2819,Chromium oxides and hydroxides,51019,63064,60704,44893,46203,43894,35,24,22,4,51,113
+'2820,Manganese oxides,569,312,442,267,228,263,744,549,429,480,459,791
+'2821,Iron oxides and hydroxides; earth colours containing >= 70% by weight of combined iron evaluated ...,721,858,1055,810,1123,962,1345,924,1238,877,2727,3367
+'2822,Cobalt oxides and hydroxides; commercial cobalt oxides,27,9,53,36,68,30,106,44,210,92,727,347
+'2823,Titanium oxides,187,153,650,243,167,200,144,897,136,142,303,150
+'2824,Lead oxides; red lead and orange lead,687,562,247,105,190,183,306,541,120,267,546,325
+'2825,"Hydrazine and hydroxylamine and their inorganic salts; inorganic bases, metal oxides, hydroxides ...",2038,3282,2772,2604,3203,3220,3974,4663,2958,2183,3826,9086
+'2826,"Fluorides; fluorosilicates, fluoroaluminates and other complex fluorine salts (excluding inorganic ...",69,90,16,112,32,76,284,55,183,130,70,553
+'2827,"Chlorides, chloride oxides and chloride hydroxides; bromides and bromide oxides; iodides and ...",4281,2749,2671,2219,2135,2067,2828,3631,6720,4064,6259,9944
+'2828,Hypochlorites; commercial calcium hypochlorite; chlorites; hypobromites,6073,7320,9364,10336,8610,5959,5075,7330,5848,8862,6189,6786
+'2829,Chlorates and perchlorates; bromates and perbromates; iodates and periodates,158,100,20,24,15,290,122,102,31,61,38,246
+'2830,"Sulphides; polysulphides, whether or not chemically defined",315,234,85,181,405,268,375,350,300,156,692,1380
+'2831,Dithionites and sulfoxylates,740,2656,1272,1502,1782,2540,1976,2901,3685,4124,4588,4500
+'2832,Sulphites; thiosulphates,8282,10414,10226,11510,9743,9371,13519,18249,15728,13515,22178,33820
+'2833,"""Sulphates; alums; peroxosulphates """"persulphates""""""",18172,23567,20994,21852,25917,27433,49899,75625,94964,80946,114110,145636
+'2834,Nitrites; nitrates,2997,3607,2099,1763,2241,1753,2707,2657,3203,3979,5868,18434
+'2835,"""Phosphinates """"hypophosphites"""", phosphonates """"phosphites"""" and phosphates; polyphosphates, ...",17180,18569,21774,38869,34720,29235,27852,34873,45584,58847,72420,127700
+'2836,"""Carbonates; peroxocarbonates """"percarbonates""""; commercial ammonium carbonate containing ammonium ...",17499,25243,33207,31841,319304,380833,421211,714976,899235,809151,870709,1618191
+'2837,"Cyanides, cyanide oxides and complex cyanides",74,90,70,353,235,132,163,184,766,260,511,265
+'2839,Silicates; commercial alkali metal silicates (excluding inorganic or organic compounds of mercury),1713,1803,1371,1825,1001,1087,1482,1188,1250,1336,1675,2054
+'2840,"""Borates; peroxoborates """"perborates""""""",8519,6326,5111,7453,6904,7659,12423,18113,18485,20363,33982,49708
+'2841,Salts of oxometallic or peroxometallic acids,73,264,237,124,583,110,50,72,309,926,1035,2406
+'2842,"Salts of inorganic acids or peroxoacids, incl. aluminosilicates whether or not chemically defined ...",1241,2252,3309,3260,3202,2545,2145,2786,5892,8241,12888,11270
+'2843,"Colloidal precious metals; inorganic or organic compounds of precious metals, whether or not ...",3237,1800,894,1177,593,395,603,850,301,283,9635,36743
+'2844,"Radioactive chemical elements and radioactive isotopes, incl. their fissile or fertile chemical ...",5254,5906,6945,4625,4564,3790,4301,3964,6392,7503,11077,17402
+'2845,"Non-radioactive isotopes; inorganic or organic compounds of such isotopes, whether or not chemically ...",177,263,777,30,16,73,36,17,175,95,85,70
+'2846,"Compounds, inorganic or organic, of rare-earth metals, of yttrium or of scandium or of mixtures ...",313,35,149,105,85,65,60,89,6494,16562,1327,766
+'2847,"Hydrogen peroxide, whether or not solidified with urea",9499,8715,9150,8416,5455,5948,6698,14321,5461,4363,8281,43329
+'2848,"Phosphides, whether or not chemically defined (excluding ferrophosphorus, and inorganic or ...",0,0,0,343,0,0,0,0,0,0,0,0
+'2849,"Carbides, whether or not chemically defined",2753,3216,1998,1872,1375,509,467,233,274,193,711,716
+'2850,"Hydrides, nitrides, azides, silicides and borides, whether or not chemically defined (excluding ...",231,146,33,138,26,28,35,40,32,31,226,37
+'2852,"Compounds, inorganic or organic, of mercury, whether or not chemically defined (excluding amalgams)",18,5,7,100,393,277,14,3,8,6,10,14
+'2853,"Inorganic compounds, incl. distilled or conductivity water and water of similar purity, n.e.s.; ...",337,97,328,370,326,323,226,194,153,258,114,634
+'2901,Acyclic hydrocarbons,47846,30018,29049,28830,43592,48899,49471,46629,61821,76977,57935,47372
+'2902,Cyclic hydrocarbons,138484,307241,307429,229254,2550,4583,6096,7038,22682,9806,25411,59602
+'2903,Halogenated derivatives of hydrocarbons,3370,2702,2797,4271,4033,4236,3385,11452,11475,5684,6578,14957
+'2904,"Sulphonated, nitrated or nitrosated derivatives of hydrocarbons, whether or not halogenated",1455,781,980,965,315,348,293,678,750,980,1339,1651
+'2905,"Acyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives",39064,17460,43552,20850,6643,4752,12259,12192,13869,20861,44144,55932
+'2906,"Cyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives",86,95,296,221,171,154,148,172,619,832,564,813
+'2907,Phenols; phenol-alcohols,356,455,583,861,608,772,936,1425,917,1438,1651,2315
+'2908,"Halogenated, sulphonated, nitrated or nitrosated derivatives of phenols or phenol-alcohols",19,9,7,5,15,3,24,24,76,49,7,3
+'2909,"Ethers, ether-alcohols, ether-phenols, ether-alcohol-phenols, alcohol peroxides, ether peroxide, ...",10176,14104,12589,15173,13316,11322,15976,25336,25270,20737,34221,48579
+'2910,"Epoxides, epoxyalcohols, epoxyphenols and epoxyethers, with a three-membered ring, and their ...",115,197,264,179,242,249,244,198,344,235,302,323
+'2911,"Acetals and hemiacetals, whether or not with other oxygen function, and their halogenated, ...",3,0,0,8,40,55,78,21,13,1,13,18
+'2912,"Aldehydes, whether or not with other oxygen function; cyclic polymers of aldehydes; parafo ...",434,310,774,1182,1519,1767,3663,4834,3443,3412,5018,4959
+'2913,"Halogenated, sulphonated, nitrated or nitrosated derivatives of cyclic polymers of aldehydes ...",1,12,10,28,1,2,1,11,4,0,0,21
+'2914,"Ketones and quinones, whether or not with other oxygen function, and their halogenated, sulphonated, ...",10837,13079,16315,13863,14908,12647,20694,17910,17101,17227,24894,17551
+'2915,"Saturated acyclic monocarboxylic acids and their anhydrides, halides, peroxides and peroxyacids; ...",31705,27028,40499,38830,24146,23650,29015,35165,43046,54759,167167,169974
+'2916,"Unsaturated acyclic monocarboxylic acids, cyclic monocarboxylic acids, their anhydrides, halides, ...",5693,3915,3107,3818,3172,5759,12256,10748,21252,11296,32085,50502
+'2917,"Polycarboxylic acids, their anhydrides, halides, peroxides and peroxyacids; their halogenated, ...",88300,56954,55996,59682,34641,35581,67045,54749,47039,71482,207016,228839
+'2918,"Carboxylic acids with additional oxygen function and their anhydrides, halides, peroxides and ...",3436,3564,4463,5467,3460,3098,4377,4602,6700,8226,32004,40270
+'2919,"Phosphoric esters and their salts, incl. lactophosphates; their halogenated, sulphonated, nitrated ...",71,257,286,211,152,219,234,414,539,608,2138,1679
+'2920,"Esters of other inorganic acids of non-metals and their salts; their halogenated, sulphonated, ...",2036,5191,7044,4051,4284,3412,2021,2479,2633,1728,1157,4152
+'2921,Amine-function compounds,5138,5477,6605,7393,6384,5333,5421,5698,7107,8617,8934,18061
+'2922,Oxygen-function amino-compounds,3213,2527,2781,3076,2396,1651,3610,2687,9776,7020,9784,12776
+'2923,"Quaternary ammonium salts and hydroxides; lecithins and other phosphoaminolipids, whether or ...",716,595,891,506,710,850,783,1013,1083,1292,2042,4657
+'2924,Carboxyamide-function compounds; amide-function compounds of carbonic acid,24253,26124,22707,25932,17908,20160,20587,18465,15360,18058,26858,32741
+'2925,"Carboxyimide-function compounds, incl. saccharin and its salts, and imine-function compounds",3304,1368,502,2376,2086,1518,1802,2147,5769,3857,4080,4463
+'2926,Nitrile-function compounds,31178,33673,20396,17488,146,245,144,405,408,1288,873,1748
+'2927,"Diazo-, azo- or azoxy-compounds",1118,294,664,407,199,160,92,47,328,919,789,921
+'2928,Organic derivatives of hydrazine or of hydroxylamine,420,347,451,460,609,320,306,448,763,511,584,1171
+'2929,Compounds with other nitrogen function (excluding amine-function compounds; oxygen-function ...,2412,4088,1529,1909,932,1789,4899,5395,4469,7127,22312,37930
+'2930,Organo-sulphur compounds,1565,2537,2926,4371,2536,2308,2110,2827,4447,3656,5079,11059
+'2931,Separate chemically defined organo-inorganic compounds (excluding organo-sulphur compounds ...,1032,1488,1933,2844,2047,2849,3184,3776,4224,6448,10564,12468
+'2932,Heterocyclic compounds with oxygen hetero-atom[s] only,587,115,198,1364,404,555,339,314,277,682,1007,954
+'2933,Heterocyclic compounds with nitrogen hetero-atom[s] only,14027,9531,9106,11754,10268,11839,8828,8351,9160,14975,20356,23614
+'2934,"Nucleic acids and their salts, whether or not chemically defined; heterocyclic compounds (excluding ...",2133,2634,2196,3274,1990,3093,4595,2884,3588,2625,5744,3345
+'2935,Sulphonamides,454,583,94,320,248,231,58,11,241,1910,658,270
+'2936,"Provitamins and vitamins, natural or reproduced by synthesis, incl. natural concentrates, derivatives ...",1952,1578,2971,3436,2803,4511,8714,5885,7938,14594,10018,21708
+'2937,"""Hormones, prostaglandins, thromboxanes and leukotrienes, natural or reproduced by synthesis; ...",1243,201,350,1020,115,318,198,173,99,176,288,336
+'2938,"Glycosides, natural or reproduced by synthesis, and their salts, ethers, esters and other ...",153,5,704,1407,609,1369,601,771,226,1501,1152,1183
+'2939,"Vegetable alkaloids, natural or reproduced by synthesis, and their salts, ethers, esters and ...",44133,50779,45274,34552,48007,35749,19109,9545,12711,7207,2816,7876
+'2940,"Sugars, chemically pure (excluding sucrose, lactose, maltose, glucose and fructose); sugar ...",5,28,57,7,60,62,120,162,303,320,1149,2354
+'2941,Antibiotics,6106,5743,15726,9308,8324,5274,5731,6546,6676,3958,4566,9706
+'2942,"Separate chemically defined organic compounds, n.e.s.",62,92,185,389,282,172,298,322,377,303,321,1902
+'3001,"Dried glands and other organs for organo-therapeutic uses, whether or not powdered; extracts ...",584,685,474,800,676,73,550,463,744,211,5304,1539
+'3002,"Human blood; animal blood prepared for therapeutic, prophylactic or diagnostic uses; antisera ...",19635,36224,21796,133681,242480,185106,163702,393782,440325,652468,532389,556177
+'3003,Medicaments consisting of two or more constituents mixed together for therapeutic or prophylactic ...,12612,6581,8965,6328,8898,8109,6904,9323,15375,15232,14367,16433
+'3004,"""Medicaments consisting of mixed or unmixed products for therapeutic or prophylactic uses, ...",499520,581271,901750,847069,580770,588330,648503,702055,904907,1079974,1261878,1225516
+'3005,"Wadding, gauze, bandages and the like, e.g. dressings, adhesive plasters, poultices, impregnated ...",23500,27060,34601,32761,27251,23864,23957,30831,30159,35421,37151,41980
+'3006,Pharmaceutical preparations and products of subheadings 3006.10.10 to 3006.60.90,10946,9963,14001,17876,18072,21600,31695,36063,38917,42745,54156,57450
+'3101,"Animal or vegetable fertilisers, whether or not mixed together or chemically treated; fertilisers ...",1064,1287,1701,1795,1938,2734,3850,4117,4453,7706,6602,10243
+'3102,"Mineral or chemical nitrogenous fertilisers (excluding those in pellet or similar forms, or ...",80705,48659,44680,67592,27383,13214,62410,105477,166715,135798,177440,526180
+'3103,"Mineral or chemical phosphatic fertilisers (excluding those in tablets or similar forms, or ...",222,1806,4673,4255,586,94,415,13363,759,1261,4137,9086
+'3104,"Mineral or chemical potassic fertilisers (excluding those in tablets or similar forms, or in ...",3642,2097,5676,2815,3763,8232,4360,2028,14591,8597,11251,22344
+'3105,"Mineral or chemical fertilisers containing two or three of the fertilising elements nitrogen, ...",114966,93548,103471,183020,100765,122544,92138,126415,159771,222252,274070,414717
+'3201,"Tanning extracts of vegetable origin; tannins and their salts, ethers, esters and other derivatives",844,1562,2000,2294,1953,1286,2393,2251,3002,2347,3686,4848
+'3202,"Synthetic organic tanning substances; inorganic tanning substances; tanning preparations, whether ...",81718,71874,83227,85892,80438,69750,6594,7242,6409,4850,7305,11164
+'3203,"Colouring matter of vegetable or animal origin, incl. dye extracts (excluding animal black), ...",636,724,728,2092,2285,2296,2276,2569,4263,7562,10131,12235
+'3204,"Synthetic organic colouring matter, whether or not chemically defined; preparations based on ...",44629,52179,74726,83455,54175,57296,71126,91137,136733,130095,163240,186301
+'3205,Colour lakes (other than Chinese or Japanese lacquer and paints); preparations based on colour ...,683,841,296,731,745,441,600,448,323,196,437,686
+'3206,"Inorganic or mineral colouring matter, n.e.s.; preparations based on inorganic or mineral colouring ...",29661,31259,34406,38081,36114,37342,51630,60847,65094,66411,81050,100053
+'3207,"Prepared pigments, prepared opacifiers and prepared colours, vitrifiable enamels and glazes, ...",42353,53864,66349,65105,57524,56647,65201,70294,71881,85092,110443,159381
+'3208,"Paints and varnishes, incl. enamels and lacquers, based on synthetic polymers or chemically ...",118659,114687,129245,133188,125897,116952,118835,130218,124239,138959,177652,255518
+'3209,"Paints and varnishes, incl. enamels and lacquers, based on synthetic polymers or chemically ...",93386,135810,122800,104288,79064,58653,58028,63254,66639,71106,79875,90903
+'3210,"Paints and varnishes, incl. enamels, lacquers and distempers (excluding those based on synthetic ...",32510,35853,31325,34544,24666,21727,23929,20380,22105,17460,19350,26436
+'3211,Prepared driers,10764,9771,9391,10653,9192,9309,9443,12200,12136,10709,14794,18229
+'3212,"Pigments, incl. metallic powders and flakes, dispersed in non-aqueous media, in liquid or paste ...",4764,5664,6394,4366,3745,3158,3003,3963,4332,5158,7244,10933
+'3213,"Artist's, student's or signboard painter's colours, modifying tints, amusement colours and ...",1779,1729,1990,2124,1738,1952,1738,2000,1810,2512,3391,3043
+'3214,"Glaziers' putty, grafting putty, resin cements, caulking compounds and other mastics; painters' ...",119706,154146,173504,182406,163341,153204,160441,207067,228614,238963,323827,404787
+'3215,"Printing ink, writing or drawing ink and other inks, whether or not concentrated or solid",29579,31278,32974,34883,39997,50101,44478,40693,52080,54660,69298,117012
+'3301,"Essential oils, whether or not terpeneless, incl. concretes and absolutes; resinoids; extracted ...",22177,24794,25149,32244,33586,41292,49187,47481,40065,37894,37917,44419
+'3302,"Mixtures of odoriferous substances and mixtures, incl. alcoholic solutions, based on one or ...",27767,37194,49108,70733,74476,84761,101633,125145,157909,169120,196146,249402
+'3303,"Perfumes and toilet waters (excluding aftershave lotions, personal deodorants and hair lotions)",37758,43991,80215,77986,45689,47775,58686,60483,102518,117199,125145,137219
+'3304,"Beauty or make-up preparations and preparations for the care of the skin, incl. sunscreen or ...",125085,130456,146488,161437,139314,158610,174849,169241,216940,214315,232799,264149
+'3305,Preparations for use on the hair,118036,124808,173372,182332,152905,144391,155763,161252,182501,188476,234720,300943
+'3306,"""Preparations for oral or dental hygiene, incl. denture fixative pastes and powders; yarn used ...",9194,11168,24516,30271,25080,23580,15846,8357,10086,12116,12219,16534
+'3307,"Shaving preparations, incl. pre-shave and aftershave products, personal deodorants, bath and ...",218700,248797,307375,315717,224221,196036,206461,210961,218740,214149,272867,332156
+'3401,"Soap; organic surface-active products and preparations for use as soap, in the form of bars, ...",401431,453445,479343,516278,389365,345804,357695,349972,367324,525841,422083,511387
+'3402,"Organic surface-active agents (excluding soap); surface-active preparations, washing preparations, ...",274296,311237,370242,447845,404985,350413,350777,376402,410994,507714,479617,615476
+'3403,"Lubricant preparations, incl. cutting-oil preparations, bolt or nut release preparations, anti-rust ...",20981,19251,29937,20136,17183,17498,19622,22929,22667,25014,29430,70831
+'3404,Artificial waxes and prepared waxes,2299,4204,3182,4117,3022,3201,5462,7360,8024,7195,10041,16506
+'3405,"Shoe polish, furniture wax and floor waxes, polishes and creams for coachwork, glass or metal, ...",64775,62609,61213,57903,50169,38885,39375,39687,54028,48201,57015,58049
+'3406,"Candles, tapers and the like",3148,2769,2109,1156,1017,712,1009,797,1044,1345,3612,9146
+'3407,"""Modelling pastes, incl. those put up for children's amusement; preparations known as """"dental ...",806,915,1222,1497,2400,2917,5878,6699,7050,9530,13872,14916
+'3501,"Casein, caseinates and other casein derivatives; casein glues (excluding those packaged as ...",984,1163,1001,1090,881,638,581,601,708,922,702,1206
+'3502,"Albumins, incl. concentrates of two or more whey proteins containing by weight > 80% whey proteins, ...",153,168,193,85,49,126,5,73,78,26,592,455
+'3503,"Gelatin, whether or not in square or rectangular sheets, whether or not surface-worked or coloured, ...",4835,7271,7734,11957,20139,21531,26976,32258,41448,46038,70438,117034
+'3504,"Peptones and their derivatives; other protein substances and their derivatives, n.e.s.; hide ...",274,366,1917,1040,21,109,40,19,773,1457,9902,30317
+'3505,"Dextrins and other modified starches, e.g. pregelatinised or esterified starches; glues based ...",6261,7370,8318,9985,9210,8850,10320,11848,16774,21068,30947,49773
+'3506,"Prepared glues and other prepared adhesives, n.e.s.; products suitable for use as glues or ...",105808,147353,155987,135939,121003,121004,122030,111464,135433,135940,183900,245084
+'3507,"Enzymes; prepared enzymes, n.e.s.",17255,19752,23928,24186,24226,30234,36437,35598,40143,45543,44221,51130
+'3601,Propellent powders,243,1599,2825,2944,4491,4278,2780,743,1316,540,1333,1014
+'3602,Prepared explosives (excluding propellent powders),5376,5154,6358,8399,9008,7248,8062,6650,4080,5084,6016,15246
+'3603,Safety fuses; detonating fuses; percussion or detonating caps; igniters; electric detonators ...,5903,10172,8484,11343,10850,9940,5924,3917,8686,6330,8746,18002
+'3604,"Fireworks, signalling flares, rain rockets, fog signals and other pyrotechnic articles (excluding ...",405,462,76,116,172,279,133,78,131,67,1127,1185
+'3605,Matches (excluding pyrotechnic articles of heading 3604),1718,1498,2053,1605,1260,1026,1006,1088,1074,695,1070,1951
+'3606,"Ferro-cerium and other pyrophoric alloys in all forms; metaldehyde, hexamethylenetetramine ...",4661,4689,13958,13482,4483,4329,6638,6094,11757,10285,11714,19217
+'3701,"Photographic plates and film in the flat, sensitised, unexposed, of any material other than ...",6151,9878,15912,10837,6927,5569,7735,6942,11255,9394,9921,12947
+'3702,"Photographic film in rolls, sensitised, unexposed, of any material other than paper, paperboard ...",1120,1321,4355,4418,335,657,603,620,1741,1712,2458,2247
+'3703,"Photographic paper, paperboard and textiles, sensitised, unexposed",641,720,1026,512,434,458,402,366,2273,444,746,1251
+'3704,"Photographic plates, film, paper, paperboard and textiles, exposed but not developed",85,78,64,41,76,44,108,142,112,2,26,18
+'3705,"Photographic plates and film, exposed and developed (excluding products made of paper, paperboard ...",218,103,160,131,112,18,14,35,47,8,8,1
+'3706,"Cinematographic film, exposed and developed, whether or not incorporating soundtrack or consisting ...",397,248,107,3,9,0,250,0,7,0,408,80
+'3707,"Chemical preparations for photographic uses (excluding varnishes, glues, adhesives and similar ...",9034,13088,12301,8332,4630,4734,4569,3405,4216,2719,2537,3505
+'3801,Artificial graphite; colloidal or semi-colloidal graphite; preparations based on graphite or ...,789,747,1191,945,970,1077,1553,2458,1393,953,1249,1979
+'3802,"Activated carbon; activated natural mineral products; animal black, whether or not spent",4432,5145,4443,9273,8617,7463,9832,8114,11774,15973,25027,44383
+'3803,"Tall oil, whether or not refined",118,39,21,111,181,206,442,696,836,498,645,880
+'3804,"""Residual lyes from the manufacture of wood pulp, whether or not concentrated, desugared or ...",423,837,701,830,484,152,290,176,498,431,751,1791
+'3805,"Gum, wood or sulphate turpentine and other terpenic oils produced by the distillation or other ...",122,206,137,167,304,545,447,503,2285,407,924,957
+'3806,"Rosin, resin acids and derivatives thereof; rosin spirit and rosin oils; run gums",2951,2823,2815,2045,2238,1911,2772,2931,4031,3339,3669,8665
+'3807,Wood tar; wood tar oils; wood creosote; wood naphtha; vegetable pitch; brewer's pitch and similar ...,239,508,612,112,160,57,23,116,110,243,203,748
+'3808,"Insecticides, rodenticides, fungicides, herbicides, anti-sprouting products and plant-growth ...",72009,75946,83192,94272,94797,88959,93392,104137,150121,375591,176248,186075
+'3809,"Finishing agents, dye carriers to accelerate the dyeing or fixing of dyestuffs and other products ...",33875,40772,45651,48563,52844,56505,60799,74240,77615,83889,114841,127230
+'3810,"Pickling preparations for metal surfaces; fluxes and other auxiliary preparations for soldering, ...",2355,6744,5696,5764,6996,5674,6315,7625,8430,7923,10552,14288
+'3811,"Anti-knock preparations, oxidation inhibitors, gum inhibitors, viscosity improvers, anti-corrosive ...",4182,7197,4896,3019,1802,1486,1979,1749,8764,9707,4459,12649
+'3812,"Prepared rubber accelerators; compound plasticisers for rubber or plastics, n.e.s.; anti-oxidising ...",65992,76664,79161,77490,68007,79193,90112,102836,107529,108569,122343,140835
+'3813,Preparations and charges for fire-extinguishers; charged fire-extinguishing grenades (excluding ...,497,765,1272,1402,546,579,685,1812,1089,859,1391,1513
+'3814,"Organic composite solvents and thinners, n.e.s.; prepared paint or varnish removers (excluding ...",17420,18200,17923,16855,13603,11774,11965,12422,13113,14053,19535,32680
+'3815,"Reaction initiators, reaction accelerators and catalytic preparations, n.e.s. (excluding rubber ...",4634,5148,19810,16448,4018,19294,5504,7572,8938,43207,61162,30991
+'3816,"Refractory cements, mortars, concretes and similar compositions (excluding preparations based ...",62862,61879,71785,81009,58576,60980,64356,76461,63656,66083,78144,91478
+'3817,Mixed alkylbenzenes and mixed alkylnaphthalenes produced by the alkylation of benzene and naphthalene ...,156,177,58,223,165,83,74,125,82,105,49,3597
+'3818,"Chemical elements and compounds doped for use in electronics, in the form of discs, wafers, ...",13,9,9,23,27,65,179,586,30,9,259,493
+'3819,Hydraulic brake fluids and other prepared liquids for hydraulic transmission not containing ...,2365,2410,2841,2419,2745,2568,3418,3919,4222,3548,3646,8993
+'3820,Anti-freezing preparations and prepared de-icing fluids (excluding prepared additives for mineral ...,8992,10320,11243,11903,8055,5531,6174,5026,6261,6049,7069,12289
+'3821,"""Prepared culture media for the development or maintenance of micro-organisms """"incl. viruses ...",586,881,882,1609,1663,1020,981,2755,2075,9291,10163,8255
+'3822,"Diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents ...",17367,19042,26686,28975,29556,26540,29184,38583,47370,149127,236894,179020
+'3823,Industrial monocarboxylic fatty acids; acid oils from refining; industrial fatty alcohols,17411,12784,17625,16861,17900,13119,9401,8323,5179,10070,51661,93838
+'3824,Prepared binders for foundry moulds or cores; chemical products and preparations for the chemical ...,131713,147543,159071,176995,171875,177717,175769,222321,236188,229822,271120,361800
+'3825,"Residual products of the chemical or allied industries, n.e.s.; municipal waste; sewage sludge; ...",135,71,273,35,66,114,18,29,33,67,74,46
+'3826,"Biodiesel and mixtures thereof, not containing or containing < 70 % by weight of petroleum ...",0,25,67996,254,200,232,656,446,3045,17677,19519,16587
+'3827,"Mixtures containing halogenated derivatives of methane, ethane or propane, n.e.s.",0,0,0,0,0,0,0,0,0,0,0,29140
+'3901,"Polymers of ethylene, in primary forms",150921,171147,125896,138108,52327,35051,32298,52440,93952,73920,224490,353606
+'3902,"Polymers of propylene or of other olefins, in primary forms",38925,37610,26305,31001,38868,32370,34880,38320,37645,35616,150543,163177
+'3903,"Polymers of styrene, in primary forms",17937,60551,48789,50388,41575,30176,43080,80538,132944,131488,351892,399133
+'3904,"Polymers of vinyl chloride or of other halogenated olefins, in primary forms",37382,29751,28372,30126,20403,21302,21465,25788,35062,31839,63902,145861
+'3905,"Polymers of vinyl acetate or of other vinyl esters, in primary forms; other vinyl polymers, ...",19483,22853,30367,35086,41933,41560,41696,51480,55788,51175,80408,81623
+'3906,"Acrylic polymers, in primary forms",179990,194947,211756,228020,198768,185564,207975,240961,257409,251712,450132,510322
+'3907,"Polyacetals, other polyethers and epoxide resins, in primary forms; polycarbonates, alkyd resins, ...",269674,280148,366441,422212,330269,321946,397819,439803,604156,569943,1046283,1371001
+'3908,"Polyamides, in primary forms",18934,22204,37938,48931,26061,23945,30072,42032,83714,70166,125909,159286
+'3909,"Amino-resins, phenolic resins and polyurethanes, in primary forms",73657,73413,89123,98577,90686,85838,120322,137896,154943,163267,249480,330608
+'3910,Silicones in primary forms,11873,14784,17391,19347,20188,21688,19620,22973,24698,21486,26293,45331
+'3911,"Petroleum resins, coumarone-indene resins, polyterpenes, polysulphides, polysulphones and other ...",1136,1678,2032,2765,2065,2398,3790,5441,6856,7705,7669,16096
+'3912,"Cellulose and its chemical derivatives, n.e.s., in primary forms",45435,47107,56036,55678,51783,42956,47192,65293,71821,59030,81857,133744
+'3913,"Natural polymers, e.g. alginic acid, and modified natural polymers, e.g. hardened proteins, ...",645,945,2175,2123,1186,960,986,1023,1057,1026,2024,4087
+'3914,"Ion-exchangers based on polymers of heading 3901 to 3913, in primary forms",502,260,246,239,491,515,575,332,744,610,3032,2487
+'3915,"Waste, parings and scrap, of plastics",27914,19801,23224,17317,16057,12582,16589,17308,10336,10457,12644,19924
+'3916,"Monofilament of which any cross-sectional dimension > 1 mm, rods, sticks and profile shapes, ...",295648,354650,412780,413138,296430,250470,269246,295768,328732,340118,445837,461679
+'3917,"Tubes, pipes and hoses, and fittings therefor, e.g. joints, elbows, flanges, of plastics",745337,842550,897312,924776,707964,552555,522729,551232,608687,613645,767600,808934
+'3918,"Floor coverings of plastics, whether or not self-adhesive, in rolls or in the form of tiles; ...",38037,38761,41858,39327,29613,25657,26893,24652,33731,49422,70368,99616
+'3919,"Self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes, of plastics, whether ...",97905,106721,136518,145377,115258,113323,99020,97410,100259,104740,134096,168796
+'3920,"Plates, sheets, film, foil and strip, of non-cellular plastics, not reinforced, laminated, ...",733460,756172,1023370,1104517,914227,923189,975757,1096888,1305715,1412401,1835950,2075666
+'3921,"Plates, sheets, film, foil and strip, of plastics, reinforced, laminated, supported or similarly ...",268435,320251,336930,405885,385556,401856,415838,438415,443120,479980,645235,716837
+'3922,"Baths, shower-baths, sinks, washbasins, bidets, lavatory pans, seats and covers, flushing cisterns ...",82508,90846,111396,129816,107214,100030,104231,113117,113327,119395,164080,183315
+'3923,"Articles for the conveyance or packaging of goods, of plastics; stoppers, lids, caps and other ...",650948,661965,770804,827572,808987,809140,889427,1009116,1033430,1041803,1264075,1386776
+'3924,"Tableware, kitchenware, other household articles and toilet articles, of plastics (excluding ...",221995,260866,324325,397880,345793,355905,398691,437416,447848,473476,619662,664122
+'3925,"Builders' ware of plastics, n.e.s.",287875,302694,323090,327565,264377,217283,218654,242228,259798,277369,392127,438751
+'3926,"Articles of plastics and articles of other materials of heading 3901 to 3914, n.e.s.",263704,300226,324894,381431,350673,359192,417594,415237,417375,481130,568946,606253
+'4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar natural gums, in primary ...",2477,2238,4994,2333,1664,2427,992,1052,1719,2430,6467,3323
+'4002,"Synthetic rubber and factice derived from oils, in primary forms or in plates, sheets or strip; ...",55722,50430,52106,50174,33748,34590,43458,46399,45033,65960,75477,160383
+'4003,"Reclaimed rubber in primary forms or in plates, sheets or strip",883,190,786,266,285,188,156,320,285,211,298,334
+'4004,"Waste, parings and scrap of soft rubber and powders and granules obtained therefrom",1287,1177,3010,2573,1098,590,650,1353,1046,935,946,1531
+'4005,"Compounded rubber, unvulcanised, in primary forms or in plates, sheets or strip (excluding ...",66782,78970,91977,102616,76097,75529,84623,91946,79152,65538,93917,102534
+'4006,"Rods, bars, tubes, profiles and other forms of unvulcanised rubber, incl. mixed rubber, and ...",10952,8390,8783,8311,8656,8959,7756,8391,7771,4528,6412,6295
+'4007,Vulcanised rubber thread and cord (excluding ungimped single thread with a diameter of > 5 ...,2697,2292,1800,1436,1381,1796,2680,2904,3621,3061,5174,4905
+'4008,"Plates, sheets, strip, rods and profile shapes, of vulcanised rubber (excluding hard rubber)",34943,40937,50060,53706,38916,41046,42870,47877,50371,54698,72230,74521
+'4009,"Tubes, pipes and hoses, of vulcanised rubber other than hard rubber, with or without their ...",419467,389031,396250,432772,344828,345389,417466,506306,440558,397348,556537,594870
+'4010,"Conveyor or transmission belts or belting, of vulcanised rubber",34993,44240,49548,59038,44553,43860,53620,61004,59783,62086,75989,98427
+'4011,"New pneumatic tyres, of rubber",1373786,1229115,1171239,1169525,979172,991350,1147985,1379376,1532264,1295687,1699313,1848985
+'4012,"Retreaded or used pneumatic tyres of rubber; solid or cushion tyres, tyre treads and tyre flaps, ...",7383,9161,8621,7183,5383,6191,11575,6439,5966,3193,5116,7756
+'4013,"Inner tubes, of rubber",1565,1499,2268,3187,2853,3575,2684,1809,2628,3227,3774,3024
+'4014,"Hygienic or pharmaceutical articles, incl. teats, of vulcanised rubber (excluding hard rubber), ...",2239,2195,2365,2529,2160,2008,1671,1971,2031,2043,971,1022
+'4015,"Articles of apparel and clothing accessories, incl. gloves, mittens and mitts, for all purposes, ...",4792,7115,6999,6630,4363,4600,5828,11222,6043,61431,88021,28852
+'4016,"Articles of vulcanised rubber (excluding hard rubber), n.e.s.",566450,553121,677755,759703,613014,634839,665280,649958,663164,629893,759321,763063
+'4017,"Hard rubber, e.g. ebonite, in all forms, incl. waste and scrap; articles of hard rubber, n.e.s.",6605,4769,7198,8645,7355,6226,4997,3961,4000,3910,5110,8260
+'4101,"""Raw hides and skins of bovine """"incl. buffalo"""" or equine animals, fresh, or salted, dried, ...",499,442,139,173,372,265,581,444,420,311,317,1250
+'4102,"Raw skins of sheep or lambs, fresh, or salted, dried, limed, pickled or otherwise preserved, ...",2996,2381,5116,3711,1278,959,1926,953,3319,1900,6678,9505
+'4103,"Other raw hides and skins, fresh, or salted, dried, limed, pickled or otherwise preserved, ...",30,49,77,78,51,88,20,5,295,142,131,53
+'4104,"""Tanned or crust hides and skins of bovine """"incl. buffalo"""" or equine animals, without hair ...",28294,26806,32279,48827,33690,37029,52485,50930,50583,32332,70290,54755
+'4105,"Tanned or crust skins of sheep or lambs, without wool on, whether or not split (excluding further ...",3395,2458,11942,7098,3596,6871,5506,2804,13711,9117,9630,10656
+'4106,"Tanned or crust hides and skins of goats or kids, pigs, reptiles and other animals, without ...",885,309,1365,1355,491,2339,2957,2790,4032,1569,2023,2375
+'4107,"""Leather further prepared after tanning or crusting """"incl. parchment-dressed leather"""", of ...",64349,74071,95334,104489,80078,80287,93626,101432,100381,64962,99173,96001
+'4112,"""Leather further prepared after tanning or crusting """"incl. parchment-dressed leather"""", of ...",32606,46255,61681,65997,57175,51931,49617,47420,54661,38428,56803,77478
+'4113,"""Leather further prepared after tanning or crusting """"incl. parchment-dressed leather"""", of ...",3318,4817,6891,4476,1455,1651,1605,1066,1964,2021,1739,1559
+'4114,"Chamois leather, incl. combination chamois leather (excluding glacé-tanned leather subsequently ...",138,494,3606,3777,29,14,78,398,3087,4053,4493,3649
+'4115,"Composition leather with a basis of leather or leather fibre, in slabs, sheets or strip, whether ...",2099,3236,3971,3911,2919,2789,1613,1958,1648,1148,1846,2831
+'4201,"Saddlery and harness for any animal, incl. traces, leads, knee pads, muzzles, saddle cloths, ...",1405,710,902,497,423,518,500,631,1324,2028,3679,4334
+'4202,"Trunks, suitcases, vanity cases, executive-cases, briefcases, school satchels, spectacle cases, ...",186314,197099,204988,210251,154968,131163,143522,170690,193851,154223,246419,324396
+'4203,"Articles of apparel and clothing accessories, of leather or composition leather (excluding ...",222736,200600,218951,217105,156081,149160,148326,141745,140729,113934,141620,164360
+'4205,Articles of leather or composition leather (excluding saddlery and harness bags; cases and ...,9441,11963,11935,17193,12008,13965,10747,9872,15342,14646,21637,20218
+'4206,"Articles of gut, goldbeater's skin, bladders or tendons (excluding silkworm gut, sterile catgut, ...",0,0,1,0,0,0,9,0,0,0,0,0
+'4301,"Raw furskins, incl. heads, tails, paws and other pieces or cuttings suitable for use in furriery ...",14,54,269,380,165,12,44,21,379,117,21,4076
+'4302,"Tanned or dressed furskins, incl. heads, tails, paws and other pieces, scraps and remnants, ...",76966,84565,108134,92974,59287,44969,54919,58308,58378,33725,51669,52101
+'4303,"Articles of apparel, clothing accessories and other furskin articles (excluding gloves made ...",184899,189198,181617,148380,76763,78344,100581,115289,102172,67750,100848,106612
+'4304,"Artificial fur and articles thereof (excluding gloves made of leather and artificial fur, footware ...",24,119,200,397,470,425,358,332,843,232,418,310
+'4401,"Fuel wood, in logs, billets, twigs, faggots or similar forms; wood in chips or particles; sawdust ...",120,117,218,1560,557,671,880,2143,2675,2633,4642,36442
+'4402,"Wood charcoal, incl. shell or nut charcoal, whether or not agglomerated (excluding wood charcoal ...",92,57,421,742,526,819,2727,3097,5472,7447,12377,14638
+'4403,"Wood in the rough, whether or not stripped of bark or sapwood, or roughly squared (excluding ...",1732,3604,3089,2837,2772,2610,3068,7227,9163,8271,10185,7419
+'4404,"Hoopwood; split poles; piles, pickets and stakes of wood, pointed but not sawn lengthwise; ...",231,272,63,83,295,53,63,100,42,104,172,254
+'4405,"""Wood wool; wood flour """"wood powder able to pass through a fine"""", 0,63 mm mesh, sieve with ...",3,47,25,152,7,18,0,0,3,2,26,33
+'4406,"""Railway or tramway sleepers """"cross-ties"""" of wood""",620,398,70,235,269,117,2,142,42,198,138,123
+'4407,"Wood sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or end-jointed, ...",14078,12588,12186,11195,10087,10461,11316,15928,35154,46072,84618,74001
+'4408,"Sheets for veneering, incl. those obtained by slicing laminated wood, for plywood or for other ...",25185,27781,23402,26134,25885,25915,29372,30592,28451,29030,41461,60614
+'4409,"""Wood, incl. strips and friezes for parquet flooring, not assembled, continuously shaped """"tongued, ...",20749,20850,14509,14847,13545,8256,9940,8431,12441,10602,16719,24546
+'4410,"""Particle board, oriented strand board """"OSB"""" and similar board """"e.g. waferboard"""" of wood ...",76207,73667,77932,105780,80627,107996,138397,179843,167937,158822,240409,288514
+'4411,"Fibreboard of wood or other ligneous materials, whether or not agglomerated with resins or ...",286848,294229,280263,313598,276231,263524,346959,353122,377096,488998,738031,834355
+'4412,"Plywood, veneered panel and similar laminated wood (excluding sheets of compressed wood, cellular ...",14401,14051,18381,18830,14172,13538,15488,12812,27043,20681,43485,96626
+'4413,"Metallised wood and other densified wood in blocks, plates, strips or profile shapes",33633,18515,27975,35988,36162,39274,1895,1816,1470,1641,2077,4157
+'4414,"Wooden frames for paintings, photographs, mirrors or similar objects",1310,1230,1851,1966,1305,1372,1516,1553,1394,1320,1873,3086
+'4415,"Packing cases, boxes, crates, drums and similar packings, of wood; cable-drums of wood; pallets, ...",36368,35274,27983,29562,31182,29710,28572,30809,20498,17895,29735,45742
+'4416,"Casks, barrels, vats, tubs and other coopers' products parts thereof, of wood, incl. staves",157,188,260,256,151,117,100,120,108,92,123,377
+'4417,"Tools, tool bodies, tool handles, broom or brush bodies and handles, of wood; boot or shoe ...",370,793,1144,1224,1386,1274,1391,1635,2537,2828,4297,5934
+'4418,"Builders' joinery and carpentry, of wood, incl. cellular wood panels, assembled flooring panels, ...",121725,126293,198947,250872,175083,148788,143525,149816,156526,156327,198075,264612
+'4419,"Tableware and kitchenware, of wood (excluding interior fittings, ornaments, cooperage products, ...",1385,2316,2390,2893,2562,3734,5216,5504,7091,6910,12614,15836
+'4420,"Wood marquetry and inlaid wood; caskets and cases for jewellery or cutlery, and similar articles, ...",1177,816,2277,1869,1676,1808,4322,2924,2061,1834,6096,7958
+'4421,"Other articles of wood, n.e.s.",16535,24869,22237,18448,18272,15868,18141,19021,17688,15317,26630,34225
+'4501,"Natural cork, raw or merely surface-worked or otherwise cleaned; cork waste; crushed, powdered ...",9,4,6,7,8,25,15,40,39,38,15,13
+'4502,"Natural cork, debacked or roughly squared, or in square or rectangular blocks, plates, sheets ...",24,25,21,17,24,9,16,1,19,11,15,4
+'4503,"Articles of natural cork (excluding cork in square or rectangular blocks, plates, sheets or ...",98,126,133,239,239,44,132,118,111,95,168,381
+'4504,"Agglomerated cork, with or without a binding substance, and articles of agglomerated cork (excluding ...",584,357,501,624,408,359,471,477,479,658,607,5138
+'4601,"Plaits and similar products of plaiting materials, whether or not assembled into strips; plaiting ...",293,482,624,1770,3628,5966,897,1083,943,1117,1564,1283
+'4602,"Basketwork, wickerwork and other articles, made directly to shape from plaiting materials or ...",431,454,516,857,394,446,304,382,581,836,1207,2410
+'4701,"Mechanical wood pulp, not chemically treated",125,87,408,59,150,198,79,45,45,18,70,246
+'4702,"Chemical wood pulp, dissolving grades",0,0,0,11,9,0,3,9,7,9,13,2086
+'4703,"Chemical wood pulp, soda or sulphate (excluding dissolving grades)",2411,1732,22214,27370,14113,14922,12859,11303,37989,52776,59724,124337
+'4704,"Chemical wood pulp, sulphite (excluding dissolving grades)",15,20,7,12,3,17,10,41,26,136,73,247
+'4705,Wood pulp obtained by a combination of mechanical and chemical pulping processes,0,0,0,0,20,0,0,0,4,48,2,1
+'4706,"""Pulps of fibres derived from recovered """"waste and scrap"""" paper or paperboard or of other ...",209,168,228,164,53,12,3,41,59,250,379,403
+'4707,"""Recovered """"waste and scrap"""" paper or paperboard (excluding paper wool)""",25037,6470,6757,7603,9912,8841,8872,21129,19719,7474,18086,41640
+'4801,"Newsprint as specified in Note 4 to chapter 48, in rolls of a width > 36 cm or in square or ...",504,1763,1972,829,667,510,670,1441,1735,813,984,3642
+'4802,"Uncoated paper and paperboard, of a kind used for writing, printing or other graphic purposes, ...",14460,22400,16681,16093,14750,18791,19091,22899,40957,29386,36120,34450
+'4803,"Toilet or facial tissue stock, towel or napkin stock and similar paper for household or sanitary ...",116863,173945,213906,195532,190046,265267,314139,362646,317771,265895,318308,564122
+'4804,"Uncoated kraft paper and paperboard, in rolls of a width > 36 cm or in square or rectangular ...",19469,19425,12454,9551,9274,11322,13655,16985,20815,18908,25080,32810
+'4805,"Other paper and paperboard, uncoated, in rolls of a width > 36 cm or in square or rectangular ...",59576,43972,42919,54656,97859,112611,164947,204035,148559,138225,155120,238569
+'4806,"Vegetable parchment, greaseproof papers, tracing papers and glassine and other glazed transparent ...",1318,2855,3360,3380,4676,3453,4332,4251,4499,4609,5720,6756
+'4807,"""Composite paper and paperboard """"made by sticking flat layers of paper or paperboard together ...",4128,5366,5578,5060,6286,6856,7592,9262,8459,8503,11235,13871
+'4808,"""Corrugated paper and paperboard """"with or without glued flat surface sheets"""", creped, crinkled, ...",4033,3717,3991,5599,4796,6333,7283,5187,5178,4379,4677,6429
+'4809,"Carbon paper, self-copy paper and other copying or transfer papers, incl. coated or impregnated ...",1355,796,884,1150,1335,5255,885,844,2035,557,888,2959
+'4810,"""Paper and paperboard, coated on one or both sides with kaolin """"China clay"""" or other inorganic ...",44456,39862,42363,34761,43529,34934,38730,36334,61910,41160,47360,91709
+'4811,"Paper, paperboard, cellulose wadding and webs of cellulose fibres, coated, impregnated, covered, ...",86050,117681,153671,213288,218823,239154,207968,203386,250790,247652,249738,327382
+'4812,"Filter blocks, slabs and plates, of paper pulp",163,58,158,226,157,211,232,361,694,480,864,1268
+'4813,"Cigarette paper, whether or not cut to size or in the form of booklets or tubes",3042,1653,4330,2992,1407,1482,1506,2910,4025,4731,10180,23293
+'4814,Wallpaper and similar wallcoverings of paper; window transparencies of paper,10633,19788,13053,19264,7556,4758,9580,13331,18898,17066,24621,24667
+'4816,"Carbon paper, self-copy paper and other copying or transfer papers, in rolls of a width of ...",471,736,395,704,1448,1381,2170,1024,3483,4859,5567,4957
+'4817,"Envelopes, letter cards, plain postcards and correspondence cards, of paper or paperboard; ...",10951,13967,15690,17241,12174,12669,11845,13201,13842,13822,16755,19476
+'4818,"Toilet paper and similar paper, cellulose wadding or webs of cellulose fibres, of a kind used ...",636653,117003,124849,108849,101572,98452,98691,116684,149422,169945,157898,183034
+'4819,"Cartons, boxes, cases, bags and other packing containers, of paper, paperboard, cellulose wadding ...",293939,319305,336120,343470,335262,396257,470770,523702,534955,566658,801526,908864
+'4820,"Registers, account books, notebooks, order books, receipt books, letter pads, memorandum pads, ...",22983,24000,26312,33795,23205,23946,27666,34065,40426,35012,43699,60839
+'4821,"Paper or paperboard labels of all kinds, whether or not printed",47125,50403,49404,53546,53552,53052,52575,55836,55639,52066,72072,79823
+'4822,"Bobbins, spools, cops and similar supports of paper pulp, paper or paperboard, whether or not ...",8626,9518,8400,7249,9677,10705,11265,15485,10566,9436,12232,13295
+'4823,"Paper, paperboard, cellulose wadding and webs of cellulose fibres, in strips or rolls of a ...",40457,44883,51842,58077,47464,47174,54782,71918,90768,91256,162359,201182
+'4901,"Printed books, brochures and similar printed matter, whether or not in single sheets (excluding ...",37956,40117,40056,41039,40041,34593,43034,50194,59017,62549,66803,120995
+'4902,"Newspapers, journals and periodicals, whether or not illustrated or containing advertising ...",12061,8930,8200,6722,5174,3074,1866,1761,562,351,538,642
+'4903,"Children's picture, drawing or colouring books",272,353,421,1024,5069,3314,721,628,399,547,969,1144
+'4904,"Music, printed or in manuscript, whether or not bound or illustrated",0,0,0,0,0,0,1,5,0,0,23,112
+'4905,"Maps and hydrographic or similar charts of all kinds, incl. atlases, wall maps, topographical ...",220,178,152,112,372,71,1084,29,176,299,113,331
+'4906,"Plans and drawings for architectural, engineering, industrial, commercial, topographical or ...",280,363,3145,2326,1779,731,638,400,521,134,139,260
+'4907,"Unused postage, revenue or similar stamps of current or new issue in the country in which they ...",0,0,0,0,0,6,0,0,0,0,12,8
+'4908,"""Transfers """"decalcomanias""""""",4149,2589,7119,11455,5898,5749,7098,3121,3050,4038,8090,7539
+'4909,"Printed or illustrated postcards; printed cards bearing personal greetings, messages or announcements, ...",3006,3156,4708,4980,4518,4254,3979,4721,2681,1032,2415,3881
+'4910,"Calendars of any kinds, printed, incl. calendars blocks",3420,3259,3080,3081,1949,2391,2725,2079,3062,3517,4143,6233
+'4911,"Printed matter, incl. printed pictures and photographs, n.e.s.",28396,29832,28420,25709,22359,20891,18790,36828,54715,59877,70851,78631
+'5001,Silkworm cocoons suitable for reeling,31,666,361,0,64,307,531,0,227,451,1205,213
+'5002,"""Raw silk """"non-thrown""""""",0,0,0,0,0,0,0,310,0,0,20,1
+'5003,"Silk waste, incl. cocoons unsuitable for reeling, yarn waste and garnetted stock",18,6,2,16,0,20,89,60,162,409,176,79
+'5004,Silk yarn (excluding that spun from silk waste and that put up for retail sale),93,226,402,307,379,122,26,110,5,1,68,92
+'5005,Yarn spun from silk waste (excluding that put up for retail sale),17,43,0,11,12,40,43,11,32,2,2,10
+'5006,"Silk yarn and yarn spun from silk waste, put up for retail sale; silkworm gut",87,73,77,139,129,122,72,375,71,103,134,183
+'5007,Woven fabrics of silk or of silk waste,3292,2003,2580,2281,2042,1830,2615,1795,2659,8128,4319,1100
+'5101,"Wool, neither carded nor combed",31228,30307,43680,53910,43708,25614,54148,56898,17556,14707,21999,16670
+'5102,"Fine or coarse animal hair, neither carded nor combed (excluding wool, hair and bristles used ...",947,534,632,575,135,199,193,201,477,359,1855,393
+'5103,"Waste of wool or of fine or coarse animal hair, incl. yarn waste (excluding garnetted stock, ...",109,77,92,71,109,201,173,150,9,8,29,16
+'5104,"Garnetted stock of wool or of fine or coarse animal hair, neither carded nor combed",14,0,5,15,16,13,0,0,0,0,0,0
+'5105,"Wool and fine or coarse animal hair, carded or combed, incl. combed wool in fragments",3024,981,3046,3602,3684,1985,1937,3707,3645,1774,2878,2766
+'5106,Carded wool yarn (excluding that put up for retail sale),17677,15675,12826,12815,6548,6996,7137,7681,9820,6048,9891,12004
+'5107,Yarn of combed wool (excluding that put up for retail sale),12999,13474,10273,10346,13462,7470,7486,9619,5427,5702,6046,4297
+'5108,Carded or combed yarn of fine animal hair (excluding that of wool or that put up for retail ...,13,27,6,18,39,214,9,21,16,212,17,28
+'5109,"Yarn of wool or fine animal hair, put up for retail sale",27994,30098,28480,24569,15226,14511,17705,18752,18753,19386,27424,25801
+'5110,"Yarn of coarse animal hair or of horsehair, incl. gimped horsehair yarn, whether or not put ...",444,152,119,112,78,26,3,64,4,7,12,518
+'5111,Woven fabrics of carded wool or of carded fine animal hair (excluding fabrics for technical ...,2428,3277,2264,2514,3608,2485,2245,1654,1629,1305,1499,1641
+'5112,Woven fabrics of combed wool or of combed fine animal hair (excluding fabrics for technical ...,104106,94284,82131,77047,64215,57932,54011,49259,31431,16776,14018,22421
+'5113,Woven fabrics of coarse animal hair or of horsehair (excluding fabrics for technical uses of ...,3173,6401,5844,2074,3669,4513,4030,6074,5281,1759,2201,2125
+'5201,"Cotton, neither carded nor combed",146264,106889,182249,194625,76441,124591,115659,178585,229206,159812,332513,394719
+'5202,"Cotton waste, incl. yarn waste and garnetted stock",119270,89468,81183,74917,59123,55916,64886,60624,63801,47936,51013,74515
+'5203,"Cotton, carded or combed",3121,1946,2497,2952,3526,4714,8322,7038,4167,5050,5696,4374
+'5204,"Cotton sewing thread, whether or not put up for retail sale",7826,6528,8991,9410,8238,7024,6205,15670,19530,16123,11224,3215
+'5205,"Cotton yarn other than sewing thread, containing >= 85% cotton by weight (excluding that put ...",422901,393083,396924,382883,385271,381766,430882,502206,416436,374452,772620,670118
+'5206,"Cotton yarn containing predominantly, but < 85% cotton by weight (excluding sewing thread and ...",59851,54198,55864,65007,60328,52691,58702,71189,74494,68253,100612,114659
+'5207,Cotton yarn put up for retail sale (excluding sewing thread),8845,10670,12190,12137,12525,11654,15540,17454,24258,26997,38796,32015
+'5208,"Woven fabrics of cotton, containing >= 85% cotton by weight and weighing <= 200 g/m²",285617,249836,290998,291819,294007,281419,248952,249149,230463,223701,281714,276005
+'5209,"Woven fabrics of cotton, containing >= 85% cotton by weight and weighing > 200 g/m²",559533,560895,600613,559306,473256,484331,488636,448978,428778,345701,451167,453777
+'5210,"Woven fabrics of cotton, containing predominantly, but < 85% cotton by weight, mixed principally ...",130330,126324,120553,111430,85654,88489,74692,66708,64147,54464,67410,82173
+'5211,"Woven fabrics of cotton, containing predominantly, but < 85% cotton by weight, mixed principally ...",168037,177076,211781,220066,235210,220273,198135,200719,167968,133811,142555,148664
+'5212,"Woven fabrics of cotton, containing predominantly, but < 85% cotton by weight, other than those ...",10478,8617,5382,9022,9583,7389,6877,8513,9194,7151,10486,9755
+'5301,"Flax, raw or processed, but not spun; flax tow and waste, incl. yarn waste and garnetted stock",81,48,185,184,164,248,105,33,85,70,74,80
+'5302,"""True hemp """"Cannabis sativa L."""", raw or processed, but not spun; tow and waste of true hemp, ...",2,7,7,4,1,3,1,2,1,17,31,25
+'5303,"Jute and other textile bast fibres, raw or processed, but not spun; tow and waste of such fibres, ...",5,35,34,131,167,64,93,85,28,748,243,54
+'5305,"""Coconut, abaca """"Manila hemp or Musa textilis Nee"""", ramie, agave and other vegetable textile ...",3,17,6,6,2,4,37,21,39,28,62,40
+'5306,Flax yarn,419,534,363,2646,889,456,490,236,352,223,877,349
+'5307,Yarn of jute or of other textile bast fibres of heading 5303,4862,3882,6286,4002,3947,3986,5596,7131,10053,12538,14673,12135
+'5308,"Yarn of vegetable textile fibres; paper yarn (excluding flax yarn, yarn of jute or of other ...",635,1128,1234,1310,1302,1446,1796,1723,1780,1763,2291,1446
+'5309,Woven fabrics of flax,18279,17630,17304,15938,15447,22317,23075,32829,33844,28393,45157,50918
+'5310,Woven fabrics of jute or of other textile bast fibres of heading 5303,173,340,365,57,30,101,186,210,123,50,151,118
+'5311,Woven fabrics of other vegetable textile fibres; woven fabrics of paper yarn (excluding those ...,336,113,130,137,181,869,1003,2229,2412,1308,1860,549
+'5401,"Sewing thread of man-made filaments, whether or not put up for retail sale",25162,21775,22614,22795,23455,27354,31171,31628,31068,26053,31546,31971
+'5402,"Synthetic filament yarn, incl. synthetic monofilaments of < 67 decitex (excluding sewing thread ...",508412,497870,590804,625899,574075,560374,605166,673782,680539,585068,916096,850159
+'5403,"Artificial filament yarn, incl. artificial monofilament of < 67 decitex (excluding sewing thread ...",2054,1940,3151,3966,1515,2926,2359,954,751,1159,1447,2002
+'5404,Synthetic monofilament of >= 67 decitex and with a cross sectional dimension of <= 1 mm; strip ...,6393,6905,9039,11576,14133,11225,9202,14420,16132,14653,25270,29919
+'5405,Artificial monofilament of >= 67 decitex and with a cross sectional dimension of <= 1 mm; strip ...,61,49,28,5,2,7,3,39,541,502,3,0
+'5406,"Man-made filament yarn, put up for retail sale (excluding sewing thread)",674,1516,2835,3574,1526,2583,4790,9811,7552,1780,4763,6741
+'5407,"Woven fabrics of synthetic filament yarn, incl. monofilament of >= 67 decitex and with a cross ...",836050,875859,971296,999612,877402,812544,816800,804245,712802,647193,824988,884985
+'5408,"Woven fabrics of artificial filament yarn, incl. monofilament of >= 67 decitex and a maximum ...",68053,72176,71934,75467,72019,70177,69624,79199,71496,57113,67593,77725
+'5501,Synthetic filament tow as specified in Note 1 to chapter 55,1189,1360,1111,482,158,186,153,325,173,98,452,755
+'5502,Artificial filament tow as specified in Note 1 to chapter 55,1458,598,1145,1614,50,411,733,762,2339,1107,506,3711
+'5503,"Synthetic staple fibres, not carded, combed or otherwise processed for spinning",63988,68190,66891,61198,61963,55023,53567,58683,59897,101966,203207,248063
+'5504,"Artificial staple fibres, not carded, combed or otherwise processed for spinning",220,144,150,169,121,587,916,509,1118,717,364,2994
+'5505,"Waste of man-made staple fibres, incl. noils, yarn waste and garnetted stock",14761,13626,11572,13173,12564,13716,10251,11756,10902,8901,13284,11300
+'5506,"Synthetic staple fibres, carded, combed or otherwise processed for spinning",7223,8304,4129,3033,58413,51774,2090,1366,1560,1493,2269,2699
+'5507,"Artificial staple fibres, carded, combed or otherwise processed for spinning",2777,2100,775,1462,22,160,927,1699,1644,1169,2473,803
+'5508,"Sewing thread of man-made staple fibres, whether or not put up for retail sale",12967,15667,16105,13979,14829,13096,12599,14262,11395,10482,13454,19108
+'5509,Yarn of synthetic staple fibres (excluding sewing thread and yarn put up for retail sale),292564,260299,289993,261094,239941,275665,328953,278522,270505,221316,408628,498106
+'5510,Yarn of artificial staple fibres (excluding sewing thread and yarn put up for retail sale),96747,145844,87014,96299,65058,86339,58461,65301,55094,43811,61832,69616
+'5511,"Yarn of man-made staple fibres, put up for retail sale (excluding sewing thread)",127366,141943,175242,203882,165124,161903,193703,183433,155076,188253,247218,191153
+'5512,Woven fabrics containing >= 85% synthetic staple fibres by weight,11745,13941,14409,18245,22067,18461,27872,34265,33939,25667,36350,38773
+'5513,"Woven fabrics containing predominantly, but < 85% synthetic staple fibres by weight, mixed ...",17923,15223,16572,17361,13364,9337,6788,7001,9180,6749,10204,8786
+'5514,"Woven fabrics containing predominantly, but < 85% synthetic staple fibres by weight, mixed ...",4721,5743,6769,9217,14236,18099,23246,19096,17362,11808,15751,21044
+'5515,"Woven fabrics containing predominantly, but < 85% synthetic staple fibres by weight, other ...",210534,220657,210639,232657,241411,227306,228135,249728,210198,133100,152439,221793
+'5516,Woven fabrics of artificial staple fibres,137316,134467,132384,154229,174722,169520,179628,233044,216210,137255,181498,186463
+'5601,"""Wadding of textile materials and articles thereof; textile fibres with a length of <= 5 mm ...",42693,47135,51162,54698,43048,46778,41449,46869,69486,73953,77741,104816
+'5602,"Felt, whether or not impregnated, coated, covered or laminated, n.e.s.",31286,34603,43160,53793,41658,35820,34900,42324,44052,51902,68204,74603
+'5603,"Nonwovens, whether or not impregnated, coated, covered or laminated, n.e.s.",226674,272294,306408,350914,365191,433145,478776,592641,585987,693143,751237,767071
+'5604,"Textile-covered rubber thread and cord; textile yarn, strip and the like of heading 5404 and ...",6634,6624,6468,8733,13133,10399,9849,13276,15175,18828,19458,24586
+'5605,"Metallised yarn, whether or not gimped, being textile yarn, or strip or the like of heading ...",3991,5109,8613,10530,6965,8848,9928,12682,11841,9098,10586,14476
+'5606,"Gimped yarn, gimped strip and the like of heading 5404 or 5405; chenille yarn, incl. flock ...",82228,92150,81389,76864,78152,50747,34744,42105,40026,43779,61486,60059
+'5607,"Twine, cordage, ropes and cables, whether or not plaited or braided and whether or not impregnated, ...",8924,12848,12879,16968,13903,19323,24527,26453,30191,43685,57359,45979
+'5608,"Knotted netting of twine, cordage or rope, by the piece or metre; made-up fishing nets and ...",2962,4110,2620,4446,5691,4743,9651,11586,13418,15494,17474,23669
+'5609,"Articles of yarn, strip or the like of heading 5404 or 5405, or of twine, cordage, ropes or ...",1226,1857,2314,2338,2457,2801,3079,4639,4814,5876,9935,11578
+'5701,"Carpets and other textile floor coverings, of textile materials, knotted, whether or not made ...",166316,129303,123897,116073,77053,50960,45303,42181,48320,24301,47627,51229
+'5702,"Carpets and other textile floor coverings, woven, not tufted or flocked, whether or not made ...",1278948,1680247,1884048,2024144,1712444,1624253,1843014,1908491,2132703,2230168,2711538,2286847
+'5703,"""Carpets and other textile floor coverings, tufted """"needle punched"""", whether or not made ...",138988,171534,173011,208351,207750,225483,260516,299581,354163,343022,443595,441831
+'5704,"Carpets and other floor coverings, of felt, not tufted or flocked, whether or not made up",572,1018,1739,1249,505,1291,1097,1041,1461,1875,3544,4941
+'5705,"""Carpets and other textile floor coverings, whether or not made up (excluding knotted, woven ...",16975,15183,14011,12861,11603,11148,11823,12981,17253,21679,34010,34669
+'5801,Woven pile fabrics and chenille fabrics (excluding terry towelling and similar woven terry ...,267890,262749,299885,274071,208504,184339,181654,177240,168030,146960,165060,158963
+'5802,"Terry towelling and similar woven terry fabrics, tufted textile fabrics (excluding narrow woven ...",17640,19122,22922,22096,11830,11465,13333,14635,16417,15111,17694,19251
+'5803,Gauze (excluding narrow woven fabrics of heading 5806),245,94,38,41,53,56,85,29,208,272,338,484
+'5804,"Tulles and other net fabrics (excluding woven, knitted or crocheted fabrics); lace in the piece, ...",72800,88083,93286,97888,87077,102154,102411,82707,70738,59524,89028,80070
+'5805,"Hand-woven tapestries of the type Gobelin, Flanders, Aubusson, Beauvais and the like, and needle-worked ...",292,123,32,4,62,43,19,1,17,16,240,312
+'5806,"""Narrow woven fabrics of textile materials, with a width of <= 30 cm (excluding labels, badges ...",31567,34340,35335,35483,26924,31113,35022,38013,39450,45491,53418,55205
+'5807,"Labels, badges and similar articles, of textile materials, in the piece, in strips or cut to ...",18924,18512,21739,22788,21947,22285,22051,20997,19459,16708,30282,31271
+'5808,"Braids of textile materials, in the piece; ornamental trimmings of textile materials, in the ...",16991,16697,15926,18958,14906,14807,16545,14618,13337,19234,23727,20875
+'5809,"Woven fabrics of metal thread and woven fabrics of metallised yarn of heading 5605, of a kind ...",196,111,399,161,284,163,81,135,52,33,50,200
+'5810,"Embroidery on a textile fabric ground, in the piece, in strips or in motifs",91089,102728,112307,113346,102945,97695,103325,104587,87902,73801,82142,75246
+'5811,"Quilted textile products in the piece, composed of one or more layers of textile materials ...",11209,6350,6910,7563,5341,21064,4737,1867,1212,1604,2318,2119
+'5901,"Textile fabrics coated with gum or amylaceous substances, of a kind used for the outer covers ...",110,282,286,131,225,147,205,281,325,538,1111,1193
+'5902,"Tyre cord fabric of high-tenacity yarn of nylon or other polyamides, polyesters or viscose ...",199049,158900,146318,150634,141223,133671,131072,138676,125930,91454,116719,141534
+'5903,"Textile fabrics impregnated, coated, covered or laminated with plastics (excluding tyre cord ...",110168,101090,138424,135902,117571,108604,111765,112929,114449,114307,129914,135796
+'5904,"Linoleum, whether or not cut to shape; floor coverings consisting of a coating or covering ...",1483,1311,1382,1729,1497,1548,1479,781,863,412,407,819
+'5905,Textile wallcoverings,197,56,644,373,172,207,222,179,347,388,439,439
+'5906,Rubberised textile fabrics (excluding tyre cord fabric of high-tenacity yarn of nylon or other ...,7354,4658,5068,3493,3705,4522,5352,5681,4519,3948,3608,3203
+'5907,"Impregnated, coated or covered textile fabrics; painted canvas being theatrical scenery, studio ...",21631,17266,19797,19819,14280,19717,18079,19763,18816,13420,10830,7354
+'5908,"Textile wicks, woven, plaited or knitted, for lamps, stoves, lighters, candles or the like; ...",176,317,671,404,175,188,508,262,88,58,106,72
+'5909,"Textile hosepiping and similar textile tubing, whether or not impregnated or coated, with or ...",681,932,1958,961,847,250,517,814,972,807,1060,878
+'5910,"Transmission or conveyor belts or belting, of textile material, whether or not impregnated, ...",1148,1746,2885,3709,3317,4394,4899,2633,2472,2352,10585,9111
+'5911,"Textile products and articles, for technical use, specified in Note 7 to chapter 59",10835,12453,16875,20153,19976,20241,24808,32815,28936,28888,33383,35086
+'6001,"""Pile fabrics, incl. """"long pile"""" fabrics and terry fabrics, knitted or crocheted""",68205,71671,70207,62100,43206,35968,36949,40785,48354,50286,79550,90197
+'6002,"""Knitted or crocheted fabrics, of a width <= 30 cm, containing by weight >= 5% of elastomeric ...",3024,4034,2793,3957,4412,4941,6339,8910,7375,15968,21174,13817
+'6003,"""Knitted or crocheted fabrics, of a width <= 30 cm (excluding those containing by weight >= ...",1450,1937,1501,2136,1507,1224,2073,1964,2349,2115,1641,1355
+'6004,"""Knitted or crocheted fabrics, of a width > 30 cm, containing by weight >= 5% of elastomeric ...",389138,435234,469456,472689,414101,454164,486538,469223,454925,479884,655331,539845
+'6005,"""Warp knit fabrics """"incl. those made on galloon knitting machines"""", of a width of > 30 cm ...",166749,182533,224107,215966,184035,195678,193015,190035,147273,101359,135345,119207
+'6006,"""Fabrics, knitted or crocheted, of a width of > 30 cm (excluding warp knit fabrics """"incl. ...",854283,865219,915382,944856,793530,806833,828263,824533,886147,860761,1263723,1287999
+'6101,"Men's or boys' overcoats, car coats, capes, cloaks, anoraks, incl. ski jackets, windcheaters, ...",40285,37215,35756,38253,37936,30457,33945,29732,34718,24374,43212,72332
+'6102,"Women's or girls' overcoats, car coats, capes, cloaks, anoraks, incl. ski jackets, windcheaters, ...",30817,27998,30498,38007,38985,35390,31004,21334,20405,22095,28989,32081
+'6103,"Men's or boys' suits, ensembles, jackets, blazers, trousers, bib and brace overalls, breeches ...",215840,253197,375881,403963,338565,346576,355822,384714,427903,376167,629226,740744
+'6104,"Women's or girls' suits, ensembles, jackets, blazers, dresses, skirts, divided skirts, trousers, ...",1123845,1107212,1246250,1387959,1272641,1213588,1161440,1238186,1260740,1127093,1515166,1403453
+'6105,"Men's or boys' shirts, knitted or crocheted (excluding nightshirts, T-shirts, singlets and ...",199125,224745,245363,261464,237394,255385,245969,245441,231704,169274,220929,361066
+'6106,"Women's or girls' blouses, shirts and shirt-blouses, knitted or crocheted (excluding T-shirts ...",622049,560842,535021,575937,541147,511730,464602,466495,439056,339047,398863,368521
+'6107,"Men's or boys' underpants, briefs, nightshirts, pyjamas, bathrobes, dressing gowns and similar ...",90991,107606,118479,150867,164908,161888,135168,123245,126338,139791,189760,214724
+'6108,"Women's or girls' slips, petticoats, briefs, panties, nightdresses, pyjamas, négligés, bathrobes, ...",269726,283180,293167,319828,311989,274983,241563,252522,266200,280097,357787,302417
+'6109,"T-shirts, singlets and other vests, knitted or crocheted",3049125,3087438,3310218,3596543,2979430,2930762,2874066,2798011,2774268,2302830,2702589,2759552
+'6110,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted (excluding ...",1320569,1397226,1640794,1770252,1613796,1626031,1795768,1931887,1989998,1989524,2609952,2661889
+'6111,"Babies' garments and clothing accessories, knitted or crocheted (excluding hats)",103612,117206,142944,146895,144418,175674,181069,180473,204381,215825,284257,278318
+'6112,"Track-suits, ski-suits and swimwear, knitted or crocheted",69746,62713,75299,76906,79172,83671,97973,106559,131442,158702,234376,201419
+'6113,"Garments, knitted or crocheted, rubberised or impregnated, coated or covered with plastics ...",408,176,302,660,865,316,516,927,1392,3469,3989,5655
+'6114,"Special garments for professional, sporting or other purposes, n.e.s., knitted or crocheted",150264,119865,115501,85843,85516,105555,93057,115435,121914,118836,151856,208094
+'6115,"Pantyhose, tights, stockings, socks and other hosiery, incl. graduated compression hosiery ...",1056734,991656,1152330,1217298,1024658,1037284,1058479,1079665,1098080,1048556,1312477,1335126
+'6116,"Gloves, mittens and mitts, knitted or crocheted (excluding for babies)",2945,2471,2669,3337,3297,3325,3595,3113,4391,5483,6975,7404
+'6117,"Made-up clothing accessories, knitted or crocheted; knitted or crocheted parts of garments ...",39554,37871,41766,53956,52542,62994,65995,65372,74009,66560,93667,58677
+'6201,"Men's or boys' overcoats, car coats, capes, cloaks, anoraks, incl. ski jackets, windcheaters, ...",81330,73098,90441,103267,93111,84216,91511,118156,148895,139194,178887,207961
+'6202,"Women's or girls' overcoats, car coats, capes, cloaks, anoraks, incl. ski jackets, windcheaters, ...",96503,104444,115080,152443,111356,107994,98155,101385,120194,100557,159991,170230
+'6203,"Men's or boys' suits, ensembles, jackets, blazers, trousers, bib and brace overalls, breeches ...",1382184,1473559,1629652,1700665,1492852,1510660,1419465,1465894,1610608,1290093,1618975,2028500
+'6204,"Women's or girls' suits, ensembles, jackets, blazers, dresses, skirts, divided skirts, trousers, ...",2069654,2202108,2358130,2498876,2195336,2269394,2475070,2744911,3109985,2523670,3416172,3781501
+'6205,"Men's or boys' shirts (excluding knitted or crocheted, nightshirts, singlets and other vests)",546768,539902,608006,707145,606952,574648,553709,566364,580307,403004,489965,634957
+'6206,"Women's or girls' blouses, shirts and shirt-blouses (excluding knitted or crocheted and vests)",511728,565707,680662,782652,735730,721738,697827,702110,667223,518176,630659,663079
+'6207,"Men's or boys' singlets and other vests, underpants, briefs, nightshirts, pyjamas, bathrobes, ...",47635,39758,42911,46947,52407,49579,53666,47683,54013,49422,66890,61506
+'6208,"Women's or girls' singlets and other vests, slips, petticoats, briefs, panties, nightdresses, ...",150675,163394,205093,217773,219521,196277,201425,176822,182300,164876,225183,205465
+'6209,Babies' garments and clothing accessories of textile materials (excluding knitted or crocheted ...,38601,43737,55317,75054,86704,93938,73014,68463,79331,77447,112815,110681
+'6210,"Garments made up of felt or nonwovens, whether or not impregnated, coated, covered or laminated; ...",15688,18593,24736,27815,27721,22266,11787,15540,20087,928791,241721,124798
+'6211,"Tracksuits, ski suits, swimwear and other garments, n.e.s. (excluding knitted or crocheted)",65612,83160,95062,132462,134246,132407,118815,112093,151813,287949,225356,298830
+'6212,"Brassieres, girdles, corsets, braces, suspenders, garters and similar articles and parts thereof, ...",67524,64212,63667,69822,53887,48104,49374,42113,46172,49916,62980,79363
+'6213,"Handkerchiefs, of which no side exceeds 60 cm (excluding knitted or crocheted)",253,449,417,810,668,1088,966,896,954,1236,1445,1472
+'6214,"Shawls, scarves, mufflers, mantillas, veils and similar articles (excluding knitted or crocheted)",34226,43892,59478,68755,91000,100579,86033,79050,81344,51841,58537,68286
+'6215,"Ties, bow ties and cravats of textile materials (excluding knitted or crocheted)",3318,3735,3989,4503,4533,4760,4691,4758,4335,2328,3761,4791
+'6216,"Gloves, mittens and mitts, of all types of textile materials (excluding knitted or crocheted ...",854,965,1140,1182,735,900,895,1054,1405,1299,2595,2322
+'6217,"Made-up clothing accessories and parts of garments or clothing accessories, of all types of ...",11906,10555,12047,11004,9857,10345,11442,15162,15034,10786,19569,21158
+'6301,"Blankets and travelling rugs of all types of textile materials (excluding table covers, bedspreads ...",53719,74785,76323,77696,53407,50895,52208,49665,57401,48398,61701,69544
+'6302,"Bedlinen, table linen, toilet linen and kitchen linen of all types of textile materials (excluding ...",1207540,1095315,1353556,1397011,1148365,1205651,1214092,1195168,1200074,1168723,1453543,1353019
+'6303,"Curtains, incl. drapes, and interior blinds; curtain or bed valances of all types of textile ...",122910,100968,132283,135700,121060,109968,113113,117244,135846,158137,189718,178313
+'6304,"Articles for interior furnishing, of all types of textile materials (excluding blankets and ...",274954,182143,354808,338331,123269,118902,139667,154535,136005,131763,209380,215155
+'6305,"Sacks and bags, of a kind used for the packing of goods, of all types of textile materials",391166,360904,389175,379203,330301,316605,338053,357838,312977,342840,404490,392183
+'6306,"Tarpaulins, awnings and sunblinds; tents; sails for boats, sailboards or landcraft; camping ...",25352,20276,22324,39313,29306,47551,36754,37788,50006,48918,54382,75207
+'6307,"Made-up articles of textile materials, incl. dress patterns, n.e.s.",46656,53934,85288,102754,79501,91231,108558,125097,157914,561094,455769,414388
+'6308,"Sets consisting of woven fabric and yarn, whether or not with accessories, for making up into ...",2000,2732,4195,3618,3036,3411,3490,3826,4857,4281,6521,4001
+'6309,"Worn clothing and clothing accessories, blankets and travelling rugs, household linen and articles ...",74,209,31857,43914,1010,1463,3213,5483,54413,52056,53073,62163
+'6310,"Used or new rags, scrap twine, cordage, rope and cables and worn-out articles thereof, of textile ...",14194,12249,12778,12707,10148,9089,7578,5853,5212,5276,6541,7641
+'6401,"Waterproof footwear with outer soles and uppers of rubber or of plastics, the uppers of which ...",6247,7100,13326,12500,12484,11410,13358,14619,10627,10443,13843,16997
+'6402,Footwear with outer soles and uppers of rubber or plastics (excluding waterproof footwear of ...,100931,116363,142030,167000,160453,183120,189665,196902,270648,251145,310653,341010
+'6403,"Footwear with outer soles of rubber, plastics, leather or composition leather and uppers of ...",200013,251889,317534,347067,281933,268064,327065,405008,420616,356049,466855,599610
+'6404,"Footwear with outer soles of rubber, plastics, leather or composition leather and uppers of ...",54956,88646,106677,104936,116592,138948,139254,163901,137776,117380,148887,187946
+'6405,"Footwear with outer soles of rubber or plastics, with uppers other than rubber, plastics, leather ...",36029,45388,45999,51505,55360,62044,58919,67182,66751,44402,79564,85082
+'6406,"Parts of footwear, incl. uppers whether or not attached to soles other than outer soles; removable ...",43071,36536,122375,58304,43610,40788,37709,40015,52036,50030,62090,80098
+'6501,"Hat-forms, hat bodies and hoods of felt, neither blocked to shape nor with made brims; plateaux ...",223,562,672,573,456,239,328,406,447,273,423,516
+'6502,"Hat-shapes, plaited or made by assembling strips of any material (excluding blocked to shape, ...",12,20,4,3,5,5,27,7,9,3,178,77
+'6504,"Hats and other headgear, plaited or made by assembling strips of any material, whether or not ...",216,260,306,560,437,730,1470,2982,3164,3579,5598,6177
+'6505,"Hats and other headgear, knitted or crocheted, or made up from lace, felt or other textile ...",13651,16596,19826,25615,23900,26185,31929,33080,33385,40103,51750,61594
+'6506,"Headgear, whether or not lined or trimmed, n.e.s.",2330,3187,5445,6466,4011,3265,3205,3435,4680,7602,7695,35477
+'6507,"Headbands, linings, covers, hat foundations, hat frames, peaks and chinstraps, for headgear ...",530,545,601,1208,2282,1161,804,808,654,1577,1647,1055
+'6601,"Umbrellas and sun umbrellas, incl. walking-stick umbrellas, garden umbrellas and similar umbrellas ...",10686,5920,4829,4374,3664,4489,4128,5221,5579,5492,7932,10756
+'6602,"Walking sticks, seat-sticks, whips, riding-crops and the like (excluding measure walking sticks, ...",30,38,31,65,53,71,51,95,94,89,115,349
+'6603,"Parts, trimmings and accessories for umbrellas and sun umbrellas of heading 6601 or for walking ...",1704,1292,486,839,818,673,1202,1330,1748,2016,3452,3951
+'6701,"Skins and other parts of birds with their feathers or down, feathers, parts of feathers, down ...",4,5,48,28,1,2,0,12,21,53,121,77
+'6702,"Artificial flowers, foliage and fruit and parts thereof, and articles made of artificial flowers, ...",641,941,1303,921,1343,1428,2081,2460,3334,2848,5355,7106
+'6703,"Human hair, dressed, thinned, bleached or otherwise worked; wool, other animal hair or other ...",256,452,683,537,263,940,19,26,70,34,245,542
+'6704,"Wigs, false beards, eyebrows and eyelashes, switches and the like, of human or animal hair ...",107,221,393,374,406,395,442,402,355,278,1192,1709
+'6801,"Setts, curbstones and flagstones, of natural stone (excluding slate)",4476,2398,1859,2519,4123,5767,4362,6565,9203,12030,27735,42242
+'6802,"Monumental or building stone, natural (excluding slate), worked, and articles; mosaic cubes ...",863736,941785,1071595,1124831,1016102,923939,926841,942059,974886,1042085,1254380,1384245
+'6803,"Worked slate and articles of slate or of agglomerated slate (excluding slate granules, chippings ...",733,348,2151,982,429,236,604,477,1269,871,838,2113
+'6804,"Millstones, grindstones, grinding wheels and the like, without frameworks, for milling, grinding, ...",21256,22204,26020,27341,22115,24448,26938,25963,28446,26418,33004,35582
+'6805,"Natural or artificial abrasive powder or grain, on a base of textile material, paper, paperboard ...",31369,35330,38649,45548,42807,44860,54343,53108,59931,62713,83247,89393
+'6806,"Slag-wool, rock-wool and similar mineral wools; exfoliated vermiculite, expanded clays, foamed ...",19190,22160,25143,22437,19291,18379,19074,30674,25056,20311,55129,89347
+'6807,"Articles of asphalt or of similar materials, e.g. petroleum bitumen or coal tar pitch",31236,37618,37923,30849,16163,14992,17717,26881,26807,30402,33832,46562
+'6808,"Panels, boards, tiles, blocks and similar articles of vegetable fibre, of straw or of shavings, ...",1215,896,1306,1688,1903,998,1509,1736,1260,879,1645,3710
+'6809,Articles of plaster or of compositions based on plaster (excluding plaster bandages for straightening ...,32312,29702,35214,38112,36386,30589,37463,46051,62617,70493,99678,100024
+'6810,"Articles of cement, concrete or artificial stone, whether or not reinforced",59335,69026,63948,66545,51411,58277,59230,74482,122834,96201,162641,159388
+'6811,"Articles of asbestos-cement, cellulose fibre-cement or the like",12646,22789,15910,9232,7582,6961,8290,21608,23627,21405,32760,36712
+'6812,Fabricated asbestos fibres; mixtures with a basis of asbestos or with a basis of asbestos and ...,420,361,204,222,279,359,297,242,120,856,218,140
+'6813,"Friction material and articles thereof, e.g., sheets, rolls, strips, segments, discs, washers, ...",7475,8300,13906,13182,8966,8318,7792,8557,9627,8314,9379,11886
+'6814,"Worked mica and articles of mica, incl. agglomerated or reconstituted mica, whether or not ...",415,675,430,679,461,637,528,645,766,1079,1499,1797
+'6815,"Articles of stone or of other mineral substances, incl. carbon fibres, articles of carbon fibres ...",34023,30174,42333,45607,37438,33351,39086,55657,75485,80557,65443,87055
+'6901,"Bricks, blocks, tiles and other ceramic goods of siliceous fossil meals, e.g. kieselguhr, tripolite ...",310,179,239,236,96,151,661,834,1275,1915,4846,8876
+'6902,"Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods (excluding ...",65460,70609,75025,59295,43983,44743,48615,82918,76945,61596,68062,89371
+'6903,"Retorts, crucibles, mufflers, nozzles, plugs, supports, cupels, tubes, pipes, sheaths, rods ...",8334,10608,13327,20882,18749,10525,19171,12225,14607,10604,14541,57102
+'6904,"Ceramic building bricks, flooring blocks, support or filler tiles and the like (excluding those ...",2380,3369,3515,4010,2487,2048,2959,3360,4072,4253,7022,18051
+'6905,"Roofing tiles, chimney pots, cowls, chimney liners, architectural ornaments and other ceramic ...",4387,3174,4261,3993,3930,4008,4639,4733,3844,4297,7258,9839
+'6906,"Ceramic pipes, conduits, guttering and pipe fittings (excluding of siliceous fossil meals or ...",153,231,298,185,105,80,130,32,75,66,243,287
+'6907,"Unglazed ceramic flags and paving, hearth or wall tiles; unglazed ceramic mosaic cubes and ...",73674,82322,76976,87745,72549,78555,551363,597710,667013,782873,981154,1061973
+'6908,"Glazed ceramic flags and paving, hearth or wall tiles; glazed ceramic mosaic cubes and the ...",447376,504285,528127,511239,427796,433984,0,0,0,0,0,0
+'6909,"Ceramic wares for laboratory, chemical or other technical uses; ceramic troughs, tubs and similar ...",847,2176,1939,724,2875,716,1030,2901,970,1929,1653,8373
+'6910,"Ceramic sinks, washbasins, washbasin pedestals, baths, bidets, water closet pans, flushing ...",178537,186878,206301,224291,198112,211985,230814,258522,272751,271040,342003,342232
+'6911,"Tableware, kitchenware, other household articles and toilet articles, of porcelain or china ...",74107,56850,59604,66145,66981,67696,79214,80727,86644,62493,110794,158581
+'6912,"Tableware, kitchenware, other household articles and toilet articles, of ceramics other than ...",20903,26190,27938,37824,30800,23355,22219,26401,29398,35814,63118,67609
+'6913,"Statuettes and other ornamental ceramic articles, n.e.s.",3181,4613,4226,4839,4667,4261,5739,5174,5985,5096,9085,14100
+'6914,"Ceramic articles, n.e.s.",3068,2820,2915,3816,2273,3052,3244,3479,3268,5566,6532,22177
+'7001,Cullet and other waste and scrap of glass; glass in the mass (excluding glass in the form of ...,115,37,187,321,165,408,308,362,141,74,155,682
+'7002,"Glass in balls, rods or tubes, unworked (excluding glass microspheres <= 1 mm in diameter, ...",590,166,233,158,159,174,93,1023,351,183,180,823
+'7003,"Cast glass and rolled glass, in sheets or profiles, whether or not having an absorbent, reflecting ...",4870,8676,7234,7236,8150,8724,6635,4771,4834,3954,2469,3562
+'7004,"Sheets of glass, drawn or blown, whether or not having an absorbent, reflecting or non-reflecting ...",1208,2160,1491,2383,2781,2977,2498,2090,2537,2230,1031,1476
+'7005,"Float glass and surface ground or polished glass, in sheets, whether or not having an absorbent, ...",59040,30632,39759,58691,43051,45290,63197,56365,86210,45227,83348,129926
+'7006,"Sheets or profiles of glass, whether or not having an absorbent, reflecting or non-reflecting ...",18341,12207,13272,13055,12643,14465,16879,17657,20448,18113,22374,15315
+'7007,"""Safety glass, toughened """"tempered"""", laminated safety glass (excluding multiple-walled insulating ...",179887,176340,187524,200375,179256,180742,196939,216235,218115,223378,341534,391115
+'7008,Multiple-walled insulating units of glass,48767,52422,58648,59319,44304,49069,53944,62555,75597,80593,101421,128265
+'7009,"Glass mirrors, whether or not framed, incl. rear-view mirrors (excluding optical mirrors, optically ...",31934,30245,36588,43402,36371,33374,39293,49455,58465,46480,59516,65959
+'7010,"Carboys, bottles, flasks, jars, pots, phials, ampoules and other containers, of glass, of a ...",30996,36402,30594,31241,32162,58134,61625,84044,141289,194590,193782,243650
+'7011,"Glass envelopes, incl. bulbs and tubes, open, and glass parts thereof, without fittings, for ...",207,461,552,673,124,132,149,79,72,125,138,240
+'7013,"""Glassware of a kind used for table, kitchen, toilet, office, indoor decoration or similar ...",469501,460675,473215,487486,390037,359310,338825,325640,307458,259481,338050,390022
+'7014,"Signalling glassware and optical elements of glass, not optically worked (excluding clock or ...",2722,2325,2485,2596,2044,3361,2781,3029,2903,2451,3178,3014
+'7015,"Clock or watch glasses and similar glasses, glasses for non-corrective or corrective spectacles, ...",111,160,64,85,92,67,89,51,59,80,144,101
+'7016,"Paving blocks, slabs, bricks, squares, tiles and other articles of pressed or moulded glass, ...",10254,11844,10823,10489,12969,8092,7699,8511,9759,9797,14348,17729
+'7017,"Laboratory, hygienic or pharmaceutical glassware, whether or not graduated or calibrated (excluding ...",4533,5175,4565,5111,4354,4022,5065,4759,5181,4247,4996,5436
+'7018,"Glass beads, imitation pearls, imitation precious or semi-precious stones and similar glass ...",2842,2262,4059,16420,152790,67745,3517,3130,3355,3334,5596,6560
+'7019,"Glass fibres, incl. glass wool, and articles thereof (excluding mineral wools and articles ...",100338,104361,98312,99040,91150,84873,89865,105698,86666,93219,149461,171555
+'7020,"Articles of glass, n.e.s.",11450,19196,20930,29646,29641,32856,26457,20989,74125,64806,36036,50781
+'7101,"Pearls, natural or cultured, whether or not worked or graded, but not strung, mounted or set, ...",4,46,46,6,4,9,10,2,6,58,19,7
+'7102,"Diamonds, whether or not worked, but not mounted or set (excluding unmounted stones for pick-up ...",3086,1889,2284,4654,9258,14537,10799,33203,57044,37113,31158,24990
+'7103,"Precious stones and semi-precious stones, whether or not worked or graded, but not strung, ...",1018,588,436,408,400,1105,1671,834,1717,1170,961,1507
+'7104,"Precious and semi-precious stones, synthetic or reconstructed, whether or not worked or graded ...",303,251,344,521,611,196,280,259,123,244,609,774
+'7105,Dust and powder of natural or synthetic precious or semi-precious stones,236,87,82,306,22,32,77,7,6,57,80,155
+'7106,"Silver, incl. silver plated with gold or platinum, unwrought or in semi-manufactured forms, ...",222894,216867,154786,65993,60929,98924,45994,22386,31072,110276,348653,688645
+'7107,"Base metals clad with silver, not further worked than semi-manufactured",81,44,33,140,38,82,141,437,39,8,43,69
+'7108,"Gold, incl. gold plated with platinum, unwrought or not further worked than semi-manufactured ...",1474546,13344554,3348410,3210085,7381135,8248539,6606350,2587680,2000620,2779978,3482598,1051002
+'7109,"Base metals or silver, clad with gold, not further worked than semi-manufactured",1,3,2,40,0,0,0,0,0,0,24,24
+'7110,"Platinum, incl. palladium, rhodium, iridium, osmium and ruthenium, unwrought or in semi-manufactured ...",2927,9990,5980,8303,5222,9575,7466,7806,16121,41581,69230,66312
+'7111,"Base metals, silver or gold, clad with platinum, not further worked than semi-manufactured",1,826,1,2,2,0,19,74,15,0,5,48
+'7112,Waste and scrap of precious metal or of metal clad with precious metal; other waste and scrap ...,64790,52967,44119,48292,25740,18767,45273,72630,74330,111398,131777,102843
+'7113,"Articles of jewellery and parts thereof, of precious metal or of metal clad with precious metal ...",1949762,2673372,3414818,4354347,3756564,3760968,4134706,4412230,5108523,3573641,6807848,8169939
+'7114,"Articles of goldsmiths' or silversmiths' wares and parts thereof, of precious metal or of metal ...",2778,4601,6475,6734,6385,6417,7149,9893,18264,22141,27397,31346
+'7115,"Articles of precious metal or of metal clad with precious metal, n.e.s.",3776,6670,11655,7475,2351,2530,3493,7144,16543,7588,5395,614
+'7116,"""Articles of natural or cultured pearls, precious or semi-precious stones """"natural, synthetic ...",75,171,74,1129,408,2752,5680,180,185,299,1563,3247
+'7117,Imitation jewellery,12471,12290,13049,13445,14432,12130,10136,17555,8233,6139,52799,64675
+'7118,"Coin, incl. legal tender (excluding medals, jewellery made from coins, collectors' items of ...",15,0,0,0,0,10,0,0,0,1744,2040,229
+'7201,"Pig iron and spiegeleisen, in pigs, blocks or other primary forms",5684,4773,2818,1646,2743,3316,2831,2017,623,3087,2539,10521
+'7202,Ferro-alloys,131410,122670,149529,169346,121656,197405,248294,219221,181916,161117,345257,431681
+'7203,"Ferrous products obtained by direct reduction of iron ore and other spongy ferrous products, ...",1151,564,40,10,59,20,48,56,38,3,1,30
+'7204,"Ferrous waste and scrap; remelting scrap ingots of iron or steel (excluding slag, scale and ...",204197,146293,136960,235796,146854,147273,189148,218848,163808,180432,309215,294602
+'7205,"""Granules and powders of pig iron, spiegeleisen, iron or steel (excluding granules and powders ...",23206,19703,18160,17821,13384,13210,17033,20349,19839,14458,20536,20217
+'7206,"Iron and non-alloy steel in ingots or other primary forms (excluding remelting scrap ingots, ...",529,680,55,166,460,224,343,308,758,742,175,191
+'7207,Semi-finished products of iron or non-alloy steel,1530858,1751660,824523,289303,100728,89053,349904,469534,640358,271039,598916,491567
+'7208,"Flat-rolled products of iron or non-alloy steel, of a width >= 600 mm, hot-rolled, not clad, ...",1237237,688892,903396,944557,777586,832851,1417717,2395975,1773789,1398467,2468912,1747220
+'7209,"""Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, cold-rolled """"cold-reduced"""", ...",125135,92723,72913,105095,96717,164681,272446,331838,221968,216469,716786,472538
+'7210,"""Flat-rolled products of iron or non-alloy steel, of a width >= 600 mm, hot-rolled or cold-rolled ...",410132,576708,491246,376407,271626,309165,711005,1007628,994113,1171223,2860385,1826051
+'7211,"""Flat-rolled products of iron or non-alloy steel, of a width of < 600 mm, hot-rolled or cold-rolled ...",32400,36755,32925,29454,31682,29729,49962,49398,41463,56166,148569,173087
+'7212,"""Flat-rolled products of iron or non-alloy steel, of a width of < 600 mm, hot-rolled or cold-rolled ...",37021,41939,44464,42737,30135,28427,41284,67607,79050,63494,157545,160087
+'7213,"Bars and rods of iron or non-alloy steel, hot-rolled, in irregularly wound coils",849107,688644,561160,554921,342195,372284,656016,1030313,922496,578733,1034762,916067
+'7214,"Bars and rods, of iron or non-alloy steel, not further worked than forged, hot-rolled, hot-drawn ...",4744088,5402295,4832524,4333110,3077928,2666938,2582984,3363334,2798917,2568787,4754329,4209812
+'7215,"Bars and rods, of iron or non-alloy steel, cold-formed or cold-finished, whether or not further ...",50292,50892,61509,57721,40214,33835,55067,75063,72454,66881,127750,140844
+'7216,"Angles, shapes and sections of iron or non-alloy steel, n.e.s.",1290732,1235444,1136208,1169283,798251,678430,787160,1116506,1072171,1006329,1641507,1617649
+'7217,"Wire of iron or non-alloy steel, in coils (excluding bars and rods)",146685,137418,156998,194038,124001,107681,170567,297604,254991,185648,292314,288117
+'7218,Stainless steel in ingots or other primary forms (excluding remelting scrap ingots and products ...,322,477,476,319,962,174,207,381,780,951,635,2948
+'7219,"""Flat-rolled products of stainless steel, of a width of >= 600 mm, hot-rolled or cold-rolled ...",75829,58421,79065,208795,232385,181240,218089,252869,255572,214943,495157,626051
+'7220,"""Flat-rolled products of stainless steel, of a width of < 600 mm, hot-rolled or cold-rolled ...",9207,10880,12319,13110,9258,9266,16578,21933,20427,21632,40889,44686
+'7221,"Bars and rods of stainless steel, hot-rolled, in irregularly wound coils",32,20,3,287,10,0,4,10,0,44,29,4
+'7222,"Other bars and rods of stainless steel; angles, shapes and sections of stainless steel, n.e.s.",7867,8452,11832,26198,16389,8493,10494,14718,18772,14116,15133,27320
+'7223,"Wire of stainless steel, in coils (excluding bars and rods)",1156,1262,1226,2040,1796,1777,1578,2349,1944,2851,2547,2924
+'7224,"Steel, alloy, other than stainless, in ingots or other primary forms, semi-finished products ...",92069,95365,86465,93571,81349,54992,84547,124109,93282,79654,129589,144294
+'7225,"""Flat-rolled products of alloy steel other than stainless, of a width of >= 600 mm, hot-rolled ...",8854,3428,10147,50350,26444,38674,64039,125884,95555,95149,280252,261693
+'7226,"""Flat-rolled products of alloy steel other than stainless, of a width of < 600 mm, hot-rolled ...",8283,2845,1439,1457,6212,9985,9807,21445,35334,26500,39392,52727
+'7227,"Bars and rods of alloy steel other than stainless, hot-rolled, in irregularly wound coils",37,354,892,2732,84,12393,38318,40963,14440,105959,28470,20458
+'7228,"Other bars and rods of alloy steel other than stainless, angles, shapes and sections of alloy ...",170061,121636,130439,161127,141272,128834,165177,234024,173081,164712,286309,342355
+'7229,"Wire of alloy steel other than stainless, in coils (excluding bars and rods)",31747,31291,25976,36688,64360,66697,69758,42151,72363,133623,277820,302636
+'7301,"Sheet piling of iron or steel, whether or not drilled, punched or made from assembled elements; ...",3624,4439,5104,3805,6116,5558,4843,6051,9090,3668,6656,7766
+'7302,"""Railway or tramway track construction material of iron or steel, the following : rails, check-rails ...",48398,26978,34509,29508,72038,51982,60330,48633,30452,21907,31894,38968
+'7303,"Tubes, pipes and hollow profiles, of cast iron",15064,26188,35020,51534,24627,15332,12312,25777,48414,42857,42421,58558
+'7304,"Tubes, pipes and hollow profiles, seamless, of iron or steel (excluding products of cast iron)",52149,54249,59674,50152,43183,30572,32958,40080,42224,36828,48017,74630
+'7305,"""Tubes and pipes, having circular cross-sections and an external diameter of > 406,4 mm, of ...",230027,234911,161247,141427,193877,180047,124297,323118,257534,249844,195317,432874
+'7306,"""Tubes, pipes and hollow profiles """"e.g., open seam or welded, riveted or similarly closed"""", ...",1336920,1426372,1347003,1357741,1018790,832299,1154676,1266626,1124429,1007657,1687386,1922813
+'7307,"""Tube or pipe fittings """"e.g. couplings, elbows, sleeves"""", of iron or steel""",129589,133665,127425,141943,121873,102993,107538,127451,138477,128779,176472,196007
+'7308,"""Structures and parts of structures """"e.g., bridges and bridge-sections, lock-gates, towers, ...",1101595,1344289,1472573,1475314,1244994,1000592,1047421,1213400,1377381,1406207,1837795,2455473
+'7309,"""Reservoirs, tanks, vats and similar containers, of iron or steel, for any material """"other ...",89613,94898,92073,108640,96182,83356,77829,90250,106459,79298,77693,100317
+'7310,"""Tanks, casks, drums, cans, boxes and similar containers, of iron or steel, for any material ...",128945,113834,116876,121218,122299,112155,123728,126699,133061,141486,185102,233634
+'7311,"Containers of iron or steel, for compressed or liquefied gas (excluding containers specifically ...",110695,119984,175234,148143,140529,130211,125959,143118,182484,183838,240493,288369
+'7312,"Stranded wire, ropes, cables, plaited bands, slings and the like, of iron or steel (excluding ...",146670,132149,135213,129026,96355,90556,113368,146939,157999,120475,194646,234539
+'7313,"Barbed wire of iron or steel; twisted hoop or single flat wire, barbed or not, and loosely ...",9797,9467,7366,8096,8358,6101,4750,8270,10038,15996,20113,25115
+'7314,"Cloth, incl. endless bands, grill, netting and fencing, of iron or steel wire, expanded metal ...",55397,42562,50092,44495,40209,40906,37626,57132,65587,88488,141395,176260
+'7315,"Chain and parts thereof, or iron or steel (excluding watch chains, necklace chains and the ...",14137,17231,19319,24188,21793,17512,24001,23768,22633,21535,29922,39414
+'7316,"Anchors, grapnels and parts thereof, of iron or steel",744,1649,2319,1863,2027,1741,1967,2564,2701,4213,4085,5065
+'7317,"Nails, tacks, drawing pins, corrugated nails, staples and similar articles of iron or steel, ...",26610,27511,34798,36814,40899,35531,43908,57362,64502,64638,102558,113027
+'7318,"Screws, bolts, nuts, coach screws, screw hooks, rivets, cotters, cotter pins, washers, incl. ...",266316,248009,284855,330605,287405,308678,365430,470141,487336,446478,645840,803915
+'7319,"Sewing needles, knitting needles, bodkins, crochet hoods, embroidery stilettos and similar ...",1332,1160,1015,1671,1100,842,1056,1001,1069,764,804,1203
+'7320,"Springs and leaves for springs, of iron or steel (excluding clock and watch springs, springs ...",76943,90532,101522,114659,99004,110561,106773,119684,110958,91712,124147,143228
+'7321,"Stoves, ranges, grates, cookers, incl. those with subsidiary boilers for central heating, barbecues, ...",343277,361866,394018,438857,326695,305391,345939,352252,427109,436708,579031,578499
+'7322,"Radiators for central heating, non-electrically heated, and parts thereof, of iron or steel; ...",447533,455519,451057,451750,387750,366453,426344,457568,462303,434144,656950,527702
+'7323,"Table, kitchen or other household articles, and parts thereof, of iron or steel; iron or steel ...",215843,232547,281118,313454,254582,225124,233932,252313,286940,277667,381366,389753
+'7324,"Sanitary ware, and parts thereof, of iron or steel (excluding cans, boxes and similar containers ...",82718,80862,86242,83751,65861,60953,59517,63040,68571,65644,91147,91785
+'7325,"Articles of iron or steel, cast, n.e.s.",188556,182332,200795,210499,161263,172422,197390,253520,282123,264638,328715,411584
+'7326,"Articles of iron or steel, n.e.s. (excluding cast articles)",625514,629915,613750,628610,587733,679812,765098,857224,789903,727880,972382,1185046
+'7401,"""Copper mattes; cement copper """"precipitated copper""""""",13,4,4,122,10,97,882,5157,3803,3216,55,335
+'7402,"Copper, unrefined; copper anodes for electrolytic refining",487,1463,706,36,44,220,53,97,66,312,596,60
+'7403,"Copper, refined, and copper alloys, unwrought (excluding copper alloys of heading 7405)",89794,91475,135130,97745,48406,54562,75875,126106,125076,198410,272017,250732
+'7404,"Waste and scrap, of copper (excluding ingots or other similar unwrought shapes, of remelted ...",30464,56734,133202,105384,55487,46800,34794,57423,57205,31525,17506,48202
+'7405,"""Master alloys of copper (excluding phosphorus-copper compounds """"copper phosphide"""" containing ...",1214,611,20,47,148,313,14,9,12,44,81,356
+'7406,"Powders and flakes, of copper (excluding grains of copper and spangles of heading 8308)",6239,20318,7654,10386,4452,5058,5145,8256,7390,4383,8251,11613
+'7407,"Bars, rods and profiles, of copper, n.e.s.",65354,73763,60527,74880,69866,57988,83987,114486,67115,66561,131785,182018
+'7408,"Copper wire (excluding surgical sutures, stranded wire, cables, plaited bands and the like ...",453831,400958,363227,349953,357261,365412,476180,583402,478366,474458,814320,777284
+'7409,"Plates, sheets and strip, of copper, of a thickness of > 0,15 mm (excluding expanded sheet ...",113458,114149,111115,116541,102767,95462,128248,169592,115495,130655,266794,313597
+'7410,"""Copper foil """"whether or not printed or backed with paper, paperboard, plastics or similar ...",29158,29341,20851,18077,13945,10590,12726,21574,14852,13860,29444,25429
+'7411,Copper tubes and pipes,37813,35280,39215,35559,33076,31264,40361,48750,41927,48068,94617,107142
+'7412,"""Copper tube or pipe fittings """"e.g., couplings, elbows, sleeves""""""",79001,88486,108832,125886,108952,103105,124556,149432,157246,168770,227811,205084
+'7413,"Stranded wire, cables, plaited bands and the like, of copper (excluding electrically insulated ...",460553,440892,396330,380239,316452,280481,397504,449841,378381,361910,639169,616340
+'7415,"""Nails, tacks, drawing pins, staples and similar articles, of copper or with shafts of iron ...",3997,5357,6059,6216,5540,6194,6714,6108,6001,4891,6027,5241
+'7418,"Table, kitchen or other household articles, sanitary ware, and parts thereof, of copper; pot ...",3765,4000,5704,7160,6715,6064,5775,4929,4955,5042,7714,7559
+'7419,"Other articles of copper, n.e.s.",16236,21176,33190,21487,46072,51255,48774,48140,66641,68910,83709,112307
+'7501,"Nickel mattes, nickel oxide sinters and other intermediate products of nickel metallurgy :",0,10,0,0,1409,13897,34492,62428,31176,63129,87441,124624
+'7502,Unwrought nickel,2458,3457,5488,5446,1755,2037,2876,2379,9916,18121,24345,36937
+'7503,"Waste and scrap, of nickel (excluding ingots or other similar unwrought shapes, of remelted ...",4791,3865,4825,6892,3497,4380,4537,6107,8070,5950,10771,6465
+'7504,"Powders and flakes, of nickel (excluding nickel oxide sinters)",396,604,1396,1539,2096,1120,1269,2173,2332,2668,2028,3937
+'7505,"Bars, rods, profiles and wire, of nickel (excluding electrically insulated products)",232,156,294,564,948,942,1389,828,788,2718,268,1077
+'7506,"Plates, sheets, strip and foil, of nickel (excluding expanded plates, sheets or strip)",230,178,484,171,101,159,25,49,108,639,480,399
+'7507,"""Tubes, pipes and tube or pipe fittings """"e.g., couplings, elbows, sleeves"""", of nickel""",157,369,635,202,97,22,17,343,115,125,337,818
+'7508,"Articles of nickel, n.e.s. (excluding powder, flakes, bars, profiles, wire, plates, sheets, ...",1416,17210,13643,6448,2104,1352,1157,1019,25163,13995,15741,20352
+'7601,Unwrought aluminium,112864,81484,51466,89637,104559,58536,91101,144321,154552,85331,452100,729176
+'7602,"Waste and scrap, of aluminium (excluding slags, scale and the like from iron and steel production, ...",22273,15702,21469,32324,29654,28455,31259,47559,27888,23102,29718,40199
+'7603,"Powder and flakes, of aluminium (excluding pellets of aluminium, and spangles)",1597,3682,4582,6499,7566,6338,4099,6436,6606,1287,2330,6964
+'7604,"Bars, rods and profiles, of aluminium, n.e.s.",628797,613759,608560,655316,605666,576558,674486,824074,879431,995888,1791660,2383632
+'7605,"Aluminium wire (excluding stranded wire, cables, plaited bands and the like and other articles ...",29790,48593,39510,37647,68038,35114,33368,35332,21959,21293,17771,109614
+'7606,"Plates, sheets and strip, of aluminium, of a thickness of > 0,2 mm (excluding expanded plates, ...",551568,485051,499202,527049,503893,492887,525400,637694,642563,549364,1073118,1255642
+'7607,"""Aluminium foil, """"whether or not printed or backed with paper, paperboard, plastics or similar ...",191652,229429,242723,240426,260210,271133,317899,413501,391721,345163,474159,682393
+'7608,Aluminium tubes and pipes (excluding hollow profiles),38673,36080,42563,47762,35658,34973,35617,33594,33857,33245,38401,47747
+'7609,"""Aluminium tube or pipe fittings """"e.g., couplings, elbows, sleeves""""""",11753,11151,17557,19147,14244,15927,23628,22076,24804,20827,24491,25921
+'7610,"""Structures and parts of structures """"e.g., bridges and bridge-sections, towers, lattice masts, ...",206189,235724,279923,305915,233253,217288,217198,233923,345484,359141,434966,545106
+'7611,"Reservoirs, tanks, vats and similar containers, of aluminium, for any material (other than ...",2016,1788,2328,2503,2567,2374,1850,3674,4350,3268,5674,4776
+'7612,"Casks, drums, cans, boxes and similar containers, incl. rigid or collapsible tubular containers, ...",52113,62069,68819,66761,66620,63557,77324,83642,73997,67301,76725,99682
+'7613,Aluminium containers for compressed or liquefied gas,10601,9518,13117,16633,9981,9455,13198,17908,21721,24478,25218,19636
+'7614,"Stranded wire, cables, plaited bands and the like, of aluminium (excluding such products electrically ...",105091,111113,136409,164708,67629,43196,38905,43358,60318,85430,106868,156019
+'7615,"Table, kitchen or other household articles, sanitary ware, and parts thereof, of aluminium, ...",60283,76549,98103,116912,118094,116282,144492,170971,179036,196019,267962,219961
+'7616,"Articles of aluminium, n.e.s.",206294,182912,217240,241845,236077,251252,282391,276955,248560,249760,352581,381623
+'7801,Unwrought lead :,1683,5008,4943,2158,1800,1362,3651,3712,13213,10337,8286,32020
+'7802,"""Lead waste and scrap (excluding ashes and residues from lead production """"heading No 2620"""", ...",1,1,97,2,43,4,2,1,0,2,1,0
+'7804,"Lead plates, sheets, strip and foil; lead powders and flakes (excluding grains of lead, and ...",1550,841,1339,2373,3201,2437,2817,1635,1665,943,962,1183
+'7806,"Articles of lead, n.e.s.",4427,3881,8543,11294,13694,23024,19247,16743,14638,17989,30950,29249
+'7901,Unwrought zinc :,3726,4421,5054,4950,6464,5769,3943,5328,5172,3183,6515,134290
+'7902,"""Zinc waste and scrap (excluding ash and residues from zinc production """"heading 2620"""", ingots ...",4566,4153,2968,2302,1151,1637,710,1073,1000,263,737,217
+'7903,"Zinc dust, powders and flakes (excluding grains of zinc, and spangles of heading 8308)",133,246,94,114,327,597,408,240,187,40,94,129
+'7904,"Zinc bars, rods, profiles and wire, n.e.s.",994,933,551,825,805,788,1403,2070,475,824,884,1659
+'7905,"Zinc plates, sheets, strip and foil",467,596,870,603,234,235,434,78,261,81,547,1963
+'7907,"Articles of zinc, n.e.s.",6925,8200,8064,10111,13638,16231,16888,7131,3851,2762,7746,5414
+'8001,Unwrought tin,1421,930,868,166,159,1301,1298,1964,5580,5548,12905,32586
+'8002,"Tin waste and scrap (excluding ash and residues from the manufacture of tin of heading 2620, ...",32,0,252,306,698,439,299,2,143,259,199,351
+'8003,"Tin bars, rods, profiles and wire, n.e.s.",701,266,81,103,58,89,75,132,1322,1561,2162,4728
+'8007,"Articles of tin, n.e.s.",9,2,278,677,242,141,76,7,15,7,39,155
+'8101,"""Tungsten """"wolfram"""" and articles thereof, n.e.s.; tungsten waste and scrap (excluding ash ...",5338,3925,4727,5370,1249,2609,4995,7603,5196,3755,11834,12907
+'8102,"Molybdenum and articles thereof, n.e.s.; molybdenum waste and scrap (excluding ash and residues ...",102,70,43,26,164,88,50,264,27,26,92,364
+'8103,"Tantalum and articles thereof, n.e.s.; tantalum waste and scrap (excluding ash and residues ...",0,7,467,47,9,0,1,118,107,35,84,181
+'8104,"Magnesium and articles thereof, n.e.s.; magnesium waste and scrap (excluding ash and residues ...",2386,3291,3572,2714,2744,4980,11582,9480,27349,46984,52886,154940
+'8105,"Cobalt mattes and other intermediate products of cobalt metallurgy; cobalt and articles thereof, ...",89,47,218,181,160,297,1009,2969,3196,56248,93179,13560
+'8106,"Bismuth and articles thereof, n.e.s.; bismuth waste and scrap (excluding ash and residues containing ...",0,1,0,18,1,1,37,0,0,8,20,85
+'8107,"Cadmium and articles thereof, n.e.s.; cadmium waste and scrap (excluding ash and residues containing ...",3,10,6,52,39,12,17,2,0,0,9,0
+'8108,"Titanium and articles thereof, n.e.s.; titanium waste and scrap (excluding ash and residues ...",1059,710,25200,47517,1150,785,1481,1898,62701,38938,26769,30594
+'8109,"Zirconium and articles thereof, n.e.s.; zirconium waste and scrap (excluding ash and residues ...",118,17,33,17,2,2,12,7,1,3,14,10
+'8110,"Antimony and articles thereof, n.e.s.; antimony waste and scrap (excluding ash and residues ...",89,1101,3315,1148,848,1360,3454,2947,1561,493,1314,4863
+'8111,"Manganese and articles thereof, n.e.s.; manganese waste and scrap (excluding ash and residues ...",27,434,622,1022,21,17,59,0,57,204,196,772
+'8112,"""Beryllium, chromium, germanium, vanadium, gallium, hafnium """"celtium"""", indium, niobium """"columbium"""", ...",4121,4497,525,537,1694,1183,545,620,1069,727,513,855
+'8113,"Cermets and articles thereof, n.e.s.; waste and scrap of cermets (excluding ash and residues ...",1,26,18,262,37,130,7,23,132,89,101,37
+'8201,"Hand tools, the following: spades, shovels, mattocks, picks, hoes, forks and rakes, of base ...",3622,3136,4036,3083,4078,3132,2957,3046,3095,3403,4343,4502
+'8202,"Handsaws, with working parts of base metal (excluding power-operated saws); blades for saws ...",13488,12845,13496,14607,13979,13235,14088,15515,18443,17845,23924,26610
+'8203,"Files, rasps, pliers, incl. cutting pliers, pincers and tweezers for non-medical use, metal-cutting ...",5970,5484,6655,5937,4775,3673,4392,4522,5066,4546,5953,6320
+'8204,"Hand-operated spanners and wrenches, incl. torque meter wrenches (excluding tap wrenches), ...",14806,13848,12434,14162,11381,10107,11773,12675,11906,11762,13664,14193
+'8205,"Hand tools, incl. glaziers' diamonds, of base metal, n.e.s.; blowlamps and the like; vices, ...",23886,24942,28760,26694,20999,21388,23287,24890,26813,23522,32815,33625
+'8206,"Sets of two or more tools of heading 8202 to 8205, put up in sets for retail sale",3619,2708,3065,3916,2228,2253,2444,2489,2549,1818,2474,5623
+'8207,"""Tools, interchangeable, for hand tools, whether or not power-operated, or for machine tools ...",41696,46418,78019,105816,105135,72060,94270,90754,99452,97243,123887,145409
+'8208,"Knives and cutting blades, of base metal, for machines or for mechanical appliances",8776,7228,8653,9374,8784,8393,10084,9753,11131,11607,17545,20317
+'8209,"Plates, sticks, tips and the like for tools, unmounted, of sintered metal carbides or cermets",21749,20264,23358,27121,22234,21633,25024,28529,23708,19974,26375,29410
+'8210,"Hand-operated mechanical devices, of base metal, weighing <= 10 kg, used in the preparation, ...",3107,2848,3832,5138,4022,3710,5046,3385,3819,3478,4888,5027
+'8211,"Knives with cutting blades, serrated or not, incl. pruning knives, and blades therefor, of ...",2193,3046,3772,4838,2821,2901,3189,3443,4452,3894,8286,8788
+'8212,"Non-electric razors and razor blades of base metal, incl. razor blade blanks in strips",24682,23857,27676,33714,33405,40694,36666,33796,48277,45408,44310,55362
+'8213,"Scissors, tailors' shears and similar shears, and blades therefor, of base metal (excluding ...",1093,1312,2210,1951,2551,1631,1564,1324,1156,1225,1583,1791
+'8214,"Articles of cutlery, n.e.s., e.g. hair clippers, butchers' or kitchen cleavers, choppers and ...",1018,1039,1280,1235,1217,1742,1222,1519,1180,1360,1905,2469
+'8215,"Spoons, forks, ladles, skimmers, cake-servers, fish-knives, butter-knives, sugar tongs and ...",9980,10041,10554,13172,9137,7390,7584,8228,8636,8236,14178,16913
+'8301,"""Padlocks and locks """"key, combination or electrically operated"""", of base metal; clasps and ...",141290,136860,144956,152929,133147,125687,132369,143164,140837,130206,143952,149850
+'8302,"Base metal mountings, fittings and similar articles suitable for furniture, doors, staircases, ...",355244,391502,436509,512534,421925,440290,483117,523249,529831,548547,677236,728125
+'8303,"Armoured or reinforced safes, strongboxes and doors and safe deposit lockers for strongrooms, ...",3992,4403,4937,5207,4255,3080,3141,3656,3525,2850,3795,4341
+'8304,"Filing cabinets, card-index cabinets, paper trays, paper rests, pen trays, office-stamp stands ...",282,515,407,313,320,389,619,393,805,398,371,317
+'8305,"Fittings for loose-leaf binders or files, letter clips, letter corners, paper clips, indexing ...",3828,3855,3767,3662,3091,3065,2979,3554,3433,3732,4848,5043
+'8306,"Bells, gongs and the like, non-electric, of base metal (excluding musical instruments); statuettes ...",8422,6881,8355,9725,9215,10031,6979,8776,8529,13527,26691,29870
+'8307,"Flexible tubing of base metal, with or without fittings",66418,61421,87210,126164,57148,59126,65127,60729,88218,96814,129573,136493
+'8308,"Clasps, frames with clasps, buckles, buckle-clasps, hooks, eyes, eyelets and the like, of base ...",18809,19915,26908,24128,26837,26443,32304,48517,45444,45922,67443,80722
+'8309,"Stoppers, caps and lids, incl. crown corks, screw caps and pouring stoppers, capsules for bottles, ...",29760,32318,37248,40069,35981,38154,47494,61888,72156,84089,114665,149754
+'8310,"Sign-plates, nameplates, address-plates and similar plates, numbers, letters and other symbols, ...",12718,10369,10694,8694,7551,8099,7146,14469,10942,7482,8605,10365
+'8311,"Wire, rods, tubes, plates, electrodes and similar products, of base metal or of metal carbides, ...",54859,67041,71471,70850,61909,50059,55616,57024,46407,50970,60970,70743
+'8401,"""Nuclear reactors; fuel elements """"cartridges"""", non-irradiated, for nuclear reactors; machinery ...",70,11,52,116,18,547,24,33,22,65,348,476
+'8402,Steam or other vapour generating boilers (excluding central heating hot water boilers capable ...,55939,39956,66313,64936,58075,49215,45317,42846,41972,32739,59118,40549
+'8403,"Central heating boilers, non-electric; parts thereof (excluding vapour generating boilers and ...",354468,350028,387523,420804,377866,386788,458142,527769,496494,517248,625082,588584
+'8404,"Auxiliary plant for use with boilers of heading 8402 or 8403, e.g. economizers, superheaters, ...",7094,9801,10188,4637,5890,5191,15143,6539,12548,11760,14106,17807
+'8405,"Producer gas or water gas generators, with or without their purifiers; acetylene gas generators ...",2171,2793,3056,6403,3524,7370,6834,7777,5908,19192,39601,24305
+'8406,Steam turbines and other vapour turbines; parts thereof,768,1477,3856,975,2803,653,1288,880,532,282,10407,11586
+'8407,Spark-ignition reciprocating or rotary internal combustion piston engine,54461,50008,33906,28336,108040,195686,299703,299825,282733,274360,278230,217176
+'8408,"""Compression-ignition internal combustion piston engine """"diesel or semi-diesel engine""""""",240067,258293,312924,178008,132351,249544,205415,309628,264507,220860,77701,53090
+'8409,Parts suitable for use solely or principally with internal combustion piston engine of heading ...,1413080,1394882,1641325,1866604,1546363,1555057,1664240,1621947,1768131,1569554,1849198,1760992
+'8410,"Hydraulic turbines, water wheels, and regulators therefor (excluding hydraulic power engines ...",1379,3736,5286,3142,5217,8726,9541,9925,7947,10781,15527,11530
+'8411,"Turbojets, turbopropellers and other gas turbines",213570,274604,570333,637463,327115,355509,369776,469958,788763,504038,544654,731319
+'8412,"Engines and motors (excluding steam turbines, internal combustion piston engine, hydraulic ...",58652,56107,53025,59374,62291,71279,83340,110882,343024,175171,278688,420033
+'8413,"Pumps for liquids, whether or not fitted with a measuring device (excluding ceramic pumps and ...",365315,388768,467931,517746,383775,365052,444057,542885,659448,651883,856823,965931
+'8414,Air or vacuum pumps (excluding gas compound elevators and pneumatic elevators and conveyors); ...,353053,342982,379909,402702,318896,320084,373957,433560,463942,469450,610307,679734
+'8415,Air conditioning machines comprising a motor-driven fan and elements for changing the temperature ...,333353,243551,303256,265029,181767,194885,206417,317963,500008,527783,676956,859029
+'8416,"Furnace burners for liquid fuel, for pulverised solid fuel or for gas; mechanical stokers, ...",12543,11065,14644,15830,12745,10600,12804,14705,19569,14499,19926,28763
+'8417,"Industrial or laboratory furnaces and ovens, non-electric, incl. incinerators (excluding drying ...",39443,34262,42946,37617,42562,45061,53072,63185,83952,76635,69113,81672
+'8418,"Refrigerators, freezers and other refrigerating or freezing equipment, electric or other; heat ...",1810394,1960509,1992913,2057566,1721084,1740847,1802257,1970368,1966230,1912152,2519232,2615169
+'8419,"Machinery, plant or laboratory equipment whether or not electrically heated (excluding furnaces, ...",159685,175649,187217,190735,178105,178308,218469,251039,270524,271017,341784,421280
+'8420,Calendering or other rolling machines (other than for metals or glass) and cylinders therefor; ...,2784,5899,6178,5763,4398,4876,3891,4521,5111,6886,4300,6399
+'8421,"Centrifuges, incl. centrifugal dryers (excluding those for isotope separation); filtering or ...",325458,343540,423253,448906,383434,355938,377011,427660,460226,555035,664099,890464
+'8422,Dishwashing machines; machinery for cleaning or drying bottles or other containers; machinery ...,462760,503303,564268,596442,534124,553163,643248,765887,848054,887892,1155344,1187905
+'8423,"Weighing machinery, incl. weight-operated counting or checking machines (excluding balances ...",16210,17616,19352,19837,13771,14688,16691,17316,19803,19035,19339,21283
+'8424,"Mechanical appliances, whether or not hand-operated, for projecting, dispersing or spraying ...",53428,63133,73974,79569,77614,75132,105416,129130,184562,261484,409722,336698
+'8425,Pulley tackle and hoists (other than skip hoists); winches and capstans; jacks,23479,20549,22130,23374,22078,28912,24984,44066,51859,36837,46820,58391
+'8426,"Ships' derricks; cranes, incl. cable cranes (excluding wheel-mounted cranes and vehicle cranes ...",47444,75895,92494,73329,70080,47025,65330,82824,118739,82622,84451,96262
+'8427,Fork-lift trucks; other works trucks fitted with lifting or handling equipment (excluding straddle ...,13231,13273,19378,24040,12594,11786,13903,20154,28520,17416,21678,34074
+'8428,"Lifting, handling, loading or unloading machinery, e.g. lifts, escalators, conveyors, teleferics ...",118143,139547,156092,169183,147180,141011,176462,222991,288481,306107,354558,438797
+'8429,"Self-propelled bulldozers, angledozers, graders, levellers, scrapers, mechanical shovels, excavators, ...",102005,127310,257145,195878,88583,123147,132671,265516,448002,282512,382086,455822
+'8430,"Moving, grading, levelling, scraping, excavating, tamping, compacting, extracting or boring ...",49834,36999,43892,40614,79599,30495,50642,64069,64249,67238,120789,109319
+'8431,"Parts suitable for use solely or principally with the machinery of heading 8425 to 8430, n.e.s.",696776,577798,480915,561989,473852,416818,422010,486499,499971,596180,680132,757772
+'8432,"Agricultural, horticultural or forestry machinery for soil preparation or cultivation (excluding ...",62929,74511,88470,95909,82122,81424,106669,121857,142858,154292,202461,251903
+'8433,"Harvesting or threshing machinery, incl. straw or fodder balers; grass or hay mowers; machines ...",46700,59584,66937,77293,68733,60243,57921,71429,81813,85378,104320,141635
+'8434,"Milking machines and dairy machinery (excluding refrigerating or heat treatment equipment, ...",21100,17553,25266,34084,29224,26998,37916,43418,39571,45513,47480,49771
+'8435,"Presses, crushers and similar machinery used in the manufacture of wine, cider, fruit juices ...",874,1244,1795,1585,1840,1470,1770,1066,1502,1378,1334,2957
+'8436,"Agricultural, horticultural, forestry, poultry-keeping or bee-keeping machinery, incl. germination ...",52172,67247,63469,71113,80403,75951,81859,103863,121498,116801,126994,121430
+'8437,"Machines for cleaning, sorting or grading seed, grain or dried leguminous vegetables; machinery ...",190528,208813,218331,256909,254236,212406,264903,265001,241094,234110,271408,297735
+'8438,"Machinery, not specified or included elsewhere in this chapter, for the industrial preparation ...",82627,90814,108694,106362,116880,126525,140572,166480,200977,195645,218504,251217
+'8439,Machinery for making pulp of fibrous cellulosic material or for making or finishing paper or ...,3792,3362,1563,1333,1266,1130,1959,4962,3819,2581,2705,3031
+'8440,"Bookbinding machinery, incl. book-sewing machines (excluding machinery of heading 8441, general-purpose ...",1827,1192,1959,1311,1502,1024,1207,2595,2435,1811,3362,3525
+'8441,"Machinery for making up paper pulp, paper or paperboard, incl. cutting machines of all kinds, ...",23738,25985,31951,28694,36755,33315,35798,41289,51607,41297,49347,55701
+'8442,"Machinery, apparatus and equipment (other than the machine-tools of headings 8456 to 8465) ...",8403,7302,6722,10585,9791,9642,14443,16263,13354,13835,19488,18230
+'8443,"Printing machinery used for printing by means of plates, cylinders and other printing components ...",52695,47027,76139,67519,69434,62540,84577,76277,84721,64221,91452,130376
+'8444,"Machines for extruding, drawing, texturing or cutting man-made textile materials",6983,2223,5972,5777,2856,2456,2997,1637,2140,752,1072,2371
+'8445,"Machines for preparing textile fibres; spinning, doubling or twisting machines and other machinery ...",52960,30117,19283,29936,20254,23050,30356,31089,42464,32712,47335,44165
+'8446,"""Weaving machines """"looms""""""",14918,9489,10484,18214,18585,25450,26069,21045,25863,16978,21739,32606
+'8447,"Knitting machines, stitch-bonding machines and machines for making gimped yarn, tulle, lace, ...",19113,14857,25170,16239,14705,14927,20363,16288,18679,12166,19481,21696
+'8448,"Auxiliary machinery for use with machines of heading 8444, 8445, 8446 or 8447, e.g. dobbies, ...",32954,27344,35811,32793,24697,29552,30239,33417,31393,30325,50577,65807
+'8449,"Machinery for the manufacture or finishing of felt or nonwovens in the piece or in shapes, ...",504,1231,1884,872,1151,1271,1200,1183,2661,3817,6608,4357
+'8450,"Household or laundry-type washing machines, incl. machines which both wash and dry; parts thereof",735609,739299,812738,925867,922318,959901,991462,1066337,1041264,961544,1066108,1002368
+'8451,"Machinery (excluding of heading 8450) for washing, cleaning, wringing, drying, ironing, pressing ...",145317,179984,219344,266751,322404,390064,458469,576136,643055,639747,791575,740130
+'8452,"Sewing machines (other than book-sewing machines of heading 8440); furniture, bases and covers ...",18206,16211,24710,26986,18595,24724,28112,33290,43059,33903,43015,52436
+'8453,"Machinery for preparing, tanning or working hides, skins or leather or for making or repairing ...",7344,7755,9347,10175,9896,12193,15295,12842,11512,5853,7279,8113
+'8454,"Converters, ladles, ingot moulds and casting machines of a kind used in metallurgy or in metal ...",29724,47776,45402,27335,19975,16610,25268,34007,27616,26942,30117,30658
+'8455,Metal-rolling mills and rolls therefor; parts of metal-rolling mills,142956,127849,134133,119485,74139,55199,54626,76368,99117,98368,104384,109100
+'8456,"Machine tools for working any material by removal of material, by laser or other light or photon ...",41441,52818,69687,88204,98624,99466,107069,138756,134279,85345,120919,130446
+'8457,"""Machining centres, unit construction machines """"single station"""" and multi-station transfer ...",4016,4030,26000,26627,11320,8593,10374,14962,38338,34798,25033,34568
+'8458,"Lathes, incl. turning centres, for removing metal",5348,3648,36800,29872,7207,7531,8430,8888,33164,23633,37094,50088
+'8459,"Machine tools, incl. way-type unit head machines, for drilling, boring, milling, threading ...",12070,10716,14306,10555,11231,10093,10501,14295,12677,14208,17716,16973
+'8460,"Machine tools for deburring, sharpening, grinding, honing, lapping, polishing or otherwise ...",10031,11933,14227,15235,12581,13797,15394,16204,14052,15085,17153,29642
+'8461,"Machine tools for planing, shaping, slotting, broaching, gear cutting, gear grinding or gear ...",22884,22445,24943,21337,20827,22322,24928,28282,32817,27772,38848,48572
+'8462,"Machine tools, incl. presses, for working metal by forging, hammering or die-stamping; machine ...",272075,297782,303972,291258,282792,254965,282624,327052,325068,288713,397328,470693
+'8463,"Machine tools for working metal, sintered metal carbides or cermets, without removing material ...",19531,20318,15582,21730,25164,25266,31686,35592,22238,24030,35192,44111
+'8464,"Machine tools for working stone, ceramics, concrete, asbestos-cement or like mineral materials ...",14869,12395,11301,17538,14163,13552,16635,19978,21626,18512,22443,28089
+'8465,"Machine tools, incl. machines for nailing, stapling, glueing or otherwise assembling, for working ...",82590,87834,95670,81759,64782,70774,83821,102510,98907,110940,127949,155638
+'8466,Parts and accessories suitable for use solely or principally with the machine tools of heading ...,60080,66730,57788,69110,61762,59724,62496,73571,66040,62163,91550,114487
+'8467,"Tools for working in the hand, pneumatic, hydraulic or with self-contained electric or non-electric ...",26489,25342,22650,22208,17596,15518,15544,19818,22492,20832,25403,30840
+'8468,"Machinery and apparatus for soldering, brazing or welding, whether or not capable of cutting ...",7253,6607,7551,8841,5829,4461,5157,5857,5764,5361,6906,7720
+'8469,Typewriters and word-processing machines (excluding automatic data-processing machines and ...,68,80,120,136,57,242,0,0,0,0,0,0
+'8470,"""Calculating machines and pocket-size """"dimensions <= 170 mm x 100 mm x 45 mm"""" data recording, ...",7110,6345,20733,22331,8613,8895,8341,5575,33796,13242,5805,6380
+'8471,"Automatic data-processing machines and units thereof; magnetic or optical readers, machines ...",77640,84774,495738,525298,102067,79198,80462,78877,80921,72447,94031,159787
+'8472,"Office machines, e.g. hectograph or stencil duplicating machines, addressing machines, automatic ...",3440,5800,6317,4775,6856,5909,5427,4005,4769,4401,4432,4208
+'8473,"Parts and accessories (other than covers, carrying cases and the like) suitable for use solely ...",22363,23271,29948,32752,31241,28578,27912,32812,34471,40591,31114,56088
+'8474,"Machinery for sorting, screening, separating, washing, crushing, grinding, mixing or kneading ...",346552,385413,409955,436946,333266,273491,326093,409535,460975,440510,578137,665355
+'8475,"Machines for assembling electric or electronic lamps, tubes or valves or flashbulbs, in glass ...",13507,11282,29748,26970,15942,13969,18589,12152,38074,29031,59879,19014
+'8476,"Automatic goods-vending machines, e.g. postage stamp, cigarette, food or beverage machines, ...",435,339,402,472,2664,603,746,505,935,1433,2587,3929
+'8477,"Machinery for working rubber or plastics or for the manufacture of products from these materials, ...",102551,122504,137568,145866,131334,146083,169073,210588,206789,195312,232460,307012
+'8478,"Machinery for preparing or making up tobacco, not specified or included elsewhere in this chapter; ...",5657,807,2118,1400,2308,11828,2871,2993,3556,8415,9714,4802
+'8479,"Machines and mechanical appliances having individual functions, not specified or included elsewhere ...",232958,281544,319668,362714,294508,268175,345386,383181,446631,478698,577386,674949
+'8480,Moulding boxes for metal foundry; mould bases; moulding patterns; moulds for metal (other than ...,189423,189874,208942,222170,184873,212814,258146,261667,245649,233971,269111,275373
+'8481,"Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, ...",395066,451381,576438,610669,491967,444638,504040,585201,644294,604601,779284,845796
+'8482,Ball or roller bearings (excluding steel balls of heading 7326); parts thereof,115855,106229,124751,129769,127073,122810,132849,135923,116186,112545,151381,169788
+'8483,"Transmission shafts, incl. camshafts and crankshafts, and cranks; bearing housings and plain ...",273972,315220,450827,441333,322564,323653,366623,441468,551618,533038,690051,769394
+'8484,Gaskets and similar joints of metal sheeting combined with other material or of two or more ...,21745,23214,29208,33511,36800,38836,54573,65902,59044,50935,65135,65632
+'8485,Machinery parts not specified or included elsewhere in this chapter (excluding parts containing ...,0,0,0,0,0,0,0,0,0,0,0,7921
+'8486,Machines and apparatus of a kind used solely or principally for the manufacture of semiconductor ...,1154,1404,2038,2097,3218,1355,377,783,651,647,1176,1233
+'8487,"Machinery parts, n.e.s. in chapter 84 (excluding parts containing electrical connectors, insulators, ...",31789,35109,37630,35708,26711,26409,33224,40261,40170,47949,104887,113623
+'8501,Electric motors and generators (excluding generating sets),133961,137926,153035,162023,128599,125244,146410,160649,198428,222242,286509,328609
+'8502,Electric generating sets and rotary converters,234955,242220,286641,297553,250305,222870,204454,190897,370071,288639,422291,690187
+'8503,"Parts suitable for use solely or principally with electric motors and generators, electric ...",97320,81922,120814,134909,110437,106964,98677,172064,283288,322062,396525,617771
+'8504,"Electrical transformers, static converters, e.g. rectifiers, and inductors; parts thereof",730431,754371,953493,804010,835604,877561,728298,736488,837715,933460,1103008,1518813
+'8505,Electromagnets (excluding magnets for medical use); permanent magnets and articles intended ...,1938,3288,6352,5898,9373,8864,15169,29220,8126,4030,16523,42038
+'8506,"Primary cells and primary batteries, electrical; parts thereof (excluding spent)",2960,3016,3819,2986,2130,1997,1763,1684,2868,2505,3418,4930
+'8507,"Electric accumulators, incl. separators therefor, whether or not square or rectangular; parts ...",227456,247262,314855,299297,222061,226423,298561,386687,408485,359339,519007,571427
+'8508,"Vacuum cleaners, incl. dry cleaners and wet vacuum cleaners",44907,56669,86694,94190,69885,45901,45475,42253,47463,53367,76127,108000
+'8509,"Electromechanical domestic appliances, with self-contained electric motor; parts thereof (excluding ...",41633,52722,60738,61587,47848,26323,30044,33166,38989,37427,61731,61692
+'8510,"Electric shavers, hair clippers and hair-removing appliances, with self-contained electric ...",1783,1181,2307,2170,987,1878,1517,3277,5554,5129,5984,6681
+'8511,Electrical ignition or starting equipment of a kind used for spark-ignition or compression-ignition ...,86965,118791,290448,292849,120907,124517,133083,137126,272113,224980,258956,273271
+'8512,"Electrical lighting or signalling equipment (excluding lamps of heading 8539), windscreen wipers, ...",142015,151877,188647,222801,212309,222620,256549,280988,271928,247825,270780,285881
+'8513,"Portable electric lamps designed to function by their own source of energy, e.g. dry batteries, ...",2343,2082,2252,3002,1779,1641,1476,1466,1872,2692,1896,3914
+'8514,"Industrial or laboratory electric furnaces and ovens, incl. those functioning by induction ...",61444,73765,64367,45410,45331,38860,37817,49772,53985,45264,63613,73493
+'8515,"Electric, incl. electrically heated gas, laser or other light or photon beam, ultrasonic, electron ...",46246,50077,50195,53573,42633,44514,45878,49641,59498,60122,62580,67630
+'8516,Electric instantaneous or storage water heaters and immersion heaters; electric space-heating ...,856478,919128,1044195,1175819,872987,851019,942079,1047813,1191537,1219127,1602037,1482881
+'8517,"Telephone sets, incl. telephones for cellular networks or for other wireless networks; other ...",108507,146457,215200,244604,179123,224257,196182,195254,232608,116444,157928,305588
+'8518,Microphones and stands therefor (excluding cordless microphones with built-in transmitter); ...,4513,4870,9108,10156,5107,7037,6854,6374,7920,8657,10696,18274
+'8519,Sound recording or sound reproducing apparatus,433,437,432,1043,313,260,324,198,360,510,517,1109
+'8521,"Video recording or reproducing apparatus, whether or not incorporating a video tuner (excluding ...",2178,3019,4171,11192,1514,2178,1426,1357,1690,1499,2385,2102
+'8522,Parts and accessories suitable for use solely or principally with sound reproducing and recording ...,1176,1308,187,106,74,90,325,92,124,52,72,172
+'8523,"""Discs, tapes, solid-state non-volatile storage devices, """"smart cards"""" and other media for ...",59921,55969,43642,43465,36788,31599,20437,19167,19056,18897,31227,36597
+'8524,"Records, tapes and other recorded media for sound or other similarly recorded phenomena, incl. ...",0,0,0,0,0,0,0,0,0,0,0,1187
+'8525,"Transmission apparatus for radio-broadcasting or television, whether or not incorporating reception ...",7418,10509,34707,53302,20137,19033,45889,25619,30405,30272,29156,53096
+'8526,"Radar apparatus, radio navigational aid apparatus and radio remote control apparatus",9047,20502,47829,33911,25003,16445,15464,14079,23480,22000,19977,57410
+'8527,"Reception apparatus for radio-broadcasting, whether or not combined, in the same housing, with ...",2755,2402,1701,1185,1818,3450,855,672,658,648,1840,2212
+'8528,"Monitors and projectors, not incorporating television reception apparatus; reception apparatus ...",1871521,2164166,1764743,1961549,1623590,1414612,1471499,1489484,1348930,1135499,1376908,982404
+'8529,Parts suitable for use solely or principally with transmission and reception apparatus for ...,50237,121092,68100,51600,43374,54783,48374,43839,43669,36847,37674,47103
+'8530,"Electrical signalling, safety or traffic control equipment for railways, tramways, roads, inland ...",7468,8006,6798,5113,7559,5593,6856,6296,12645,7104,9976,11170
+'8531,"Electric sound or visual signalling apparatus, e.g. bells, sirens, indicator panels, burglar ...",433934,172313,30885,30971,25957,24408,21361,24037,32888,28211,31384,41130
+'8532,"""Electrical capacitors, fixed, variable or adjustable """"pre-set""""; parts thereof""",4176,3761,6631,5912,5336,3824,3705,6795,4175,3589,5400,6545
+'8533,"Electrical resistors, incl. rheostats and potentiometers (excluding heating resistors); parts ...",6166,5411,6806,6796,5030,6598,6897,6221,6564,8331,9667,9200
+'8534,Printed circuits,5843,2928,6778,6776,4907,5556,6503,7452,15567,9514,11542,11387
+'8535,"Electrical apparatus for switching or protecting electrical circuits, or for making connections ...",69607,82113,107469,104553,99821,108990,104145,105271,85600,88979,89042,104226
+'8536,"Electrical apparatus for switching or protecting electrical circuits, or for making connections ...",506488,526926,602552,594980,484740,447185,462927,495419,563097,569388,702332,786335
+'8537,"Boards, panels, consoles, desks, cabinets and other bases, equipped with two or more apparatus ...",388076,442973,698417,677706,471110,424093,461625,490508,514298,514292,604028,686983
+'8538,"Parts suitable for use solely or principally with the apparatus of heading 8535, 8536 or 8537, ...",146684,147677,164792,176198,151486,128301,134988,145083,154037,144165,182001,212071
+'8539,"Electric filament or discharge lamps, incl. sealed beam lamp units and ultraviolet or infra-red ...",29355,31394,39667,35496,26353,21320,19227,19911,25278,21117,28508,35997
+'8540,"Thermionic, cold cathode or photo-cathode valves and tubes, e.g. vacuum or vapour or gas filled ...",359,386,658,1719,293,352,665,634,718,448,701,959
+'8541,"Diodes, transistors and similar semiconductor devices; photosensitive semiconductor devices, ...",13512,7731,48709,131045,20690,15728,11777,24604,178842,171229,134330,266375
+'8542,Electronic integrated circuits; parts thereof,17493,20076,20692,17561,16500,16544,19567,23437,18703,16853,27966,41382
+'8543,"Electrical machines and apparatus, having individual functions, n.e.s. in chapter 85 and parts ...",50867,54318,79580,79454,50763,46450,56493,50120,53504,66423,87491,97582
+'8544,"""Insulated """"incl. enamelled or anodised"""" wire, cable """"incl. coaxial cable"""" and other insulated ...",2313849,2381382,2937680,2870067,1947090,1767523,1921538,2142588,2269845,2210627,3184129,3648039
+'8545,"Carbon electrodes, carbon brushes, lamp carbons, battery carbons and other articles of graphite ...",5581,5756,7934,6059,6861,4921,5514,6825,10507,6192,23302,28259
+'8546,Electrical insulators of any material (excluding insulating fittings),11838,15410,19266,16825,12988,15354,13212,14446,16153,18098,16089,16047
+'8547,"Insulating fittings for electrical machines, appliances or equipment, being fittings wholly ...",31929,34808,33711,31942,30708,34197,37667,33695,26120,22995,29848,35485
+'8548,"Waste and scrap of primary cells, primary batteries and electric accumulators; spent primary ...",246,2680,1201,1261,744,1079,347,184,509,280,16567,19567
+'8549,Electrical and electronic waste and scrap,0,0,0,0,0,0,0,0,0,0,0,2755
+'8601,Rail locomotives powered from an external source of electricity or by electric accumulators,5,12,65,171,70,101,169,226,119,0,0,23
+'8602,Rail locomotives (excluding those powered from an external source of electricity or by accumulators); ...,0,8694,22072,30704,0,275,0,0,160,7190,2034,0
+'8603,"Self-propelled railway or tramway coaches, vans and trucks (excluding those of heading 8604)",89824,97173,4,1,39134,11752,38901,15029,31696,4000,25509,47319
+'8604,"Railway or tramway maintenance or service vehicles, whether or not self-propelled, e.g., workshops, ...",15,13,3049,7854,1639,0,23,4873,1518,2046,576,7341
+'8605,"Railway or tramway passenger coaches, luggage vans, post office coaches and other special purpose ...",350,0,39593,0,16688,107,85,17,199,2783,10891,15934
+'8606,Railway or tramway goods vans and wagons (excluding self-propelled and luggage vans and post ...,3866,941,163,154,340,530,838,332,3122,25100,63069,51491
+'8607,"Parts of railway or tramway locomotives or rolling stock, n.e.s.",8643,10442,18156,23525,21578,27271,30117,41244,80444,71140,95923,114228
+'8608,"Railway or tramway track fixtures and fittings (excluding sleepers of wood, concrete or steel, ...",4199,1792,4719,4205,7430,7143,10170,10595,11593,10619,10467,17721
+'8609,"Containers, incl. containers for the transport of fluids, specially designed and equipped for ...",8279,7950,8793,8140,8023,3556,5001,6830,14141,22859,32263,29943
+'8701,Tractors (other than tractors of heading 8709),369038,400851,424213,481043,427644,657078,762144,1338240,1355036,1034037,1556591,1882468
+'8702,"Motor vehicles for the transport of >= 10 persons, incl. driver",1043760,1024679,1108848,1127819,1198717,1503498,1617904,1792443,2058999,1535775,1269816,1485616
+'8703,"Motor cars and other motor vehicles principally designed for the transport of persons, incl. ...",6485592,6069128,7012825,7460019,6899721,8356130,11814903,12441971,12096068,9636838,9573494,9350959
+'8704,"Motor vehicles for the transport of goods, incl. chassis with engine and cab",3963070,3385633,3921171,4243758,4248871,4578994,4820353,5309800,4914009,4197162,5354546,5544328
+'8705,Special purpose motor vehicles (other than those principally designed for the transport of ...,107570,188307,149193,178204,155468,105229,107731,191070,233547,174413,196668,205003
+'8706,"Chassis fitted with engines, for tractors, motor vehicles for the transport of ten or more ...",385,1781,353,448,1834,2686,649,12165,8493,6342,2217,826
+'8707,"Bodies, incl. cabs, for tractors, motor vehicles for the transport of ten or more persons, ...",52958,137315,186809,107248,46722,44062,56583,80536,85971,68928,92847,101881
+'8708,"Parts and accessories for tractors, motor vehicles for the transport of ten or more persons, ...",3371038,3401767,4255354,4501968,3803447,3868045,4112744,4533407,4867675,4408623,5783942,6542891
+'8709,"Works trucks, self-propelled, not fitted with lifting or handling equipment, of the type used ...",1315,1794,949,2637,1307,1313,3062,4806,4528,2652,3745,3415
+'8711,"Motorcycles, incl. mopeds, and cycles fitted with an auxiliary motor, with or without side-cars; ...",14878,15331,15346,12864,1240,1806,1003,4410,15075,45798,64439,75667
+'8712,"Bicycles and other cycles, incl. delivery tricycles, not motorised",28404,31852,48929,58633,60678,49747,30223,37879,49051,53261,80253,88417
+'8713,"Carriages for disabled persons, whether or not motorised or otherwise mechanically propelled ...",598,1222,1253,4708,1715,4190,6064,3855,2767,2480,2813,3647
+'8714,"Parts and accessories for motorcycles and bicycles and for carriages for disabled persons, ...",20396,17191,19329,19904,10139,12676,13704,13920,14268,13737,21745,21236
+'8715,"Baby carriages and parts thereof, n.e.s.",768,369,482,638,522,643,679,756,712,1051,971,1833
+'8716,"Trailers and semi-trailers; other vehicles, not mechanically propelled (excluding railway and ...",199980,307915,315180,389269,380926,427607,441850,641921,633601,527348,769546,957237
+'8801,"Balloons and dirigibles; gliders, hang gliders and other non-powered aircraft",5,231,1,6,1,173,30,0,27,551,435,532
+'8802,"""Powered aircraft """"e.g. helicopters and aeroplanes""""; spacecraft, incl. satellites, and suborbital ...",28392,98431,203984,182771,79492,72691,879028,264140,292660,261938,810951,356354
+'8803,"Parts of aircraft and spacecraft of heading 8801 or 8802, n.e.s.",306584,400020,572914,596504,586358,616918,655069,653369,903552,624307,591789,0
+'8804,"Parachutes, incl. dirigible parachutes and paragliders, and rotochutes; parts thereof and accessories ...",44,63,36,76,124,83,152,215,663,111,335,900
+'8805,Aircraft launching gear (excluding motor winches for launching gliders); deck-arrestor or similar ...,8600,1941,267,1385,22781,27666,138,164,131,13521,4147,12086
+'8806,Unmanned aircraft,0,0,0,0,0,0,0,0,0,0,0,1005320
+'8807,"Parts of aircraft and spacecraft of heading 8801, 8802 or 8806, n.e.s.",0,0,0,0,0,0,0,0,0,0,0,612905
+'8901,"Cruise ships, excursion boats, ferry-boats, cargo ships, barges and similar vessels for the ...",817314,393180,526881,655272,394314,507871,680591,502345,664945,520020,744012,568482
+'8902,Fishing vessels; factory ships and other vessels for processing or preserving fishery products ...,22245,29161,200809,52985,196810,118034,270929,45526,154792,367318,509999,269375
+'8903,Yachts and other vessels for pleasure or sports; rowing boats and canoes,254346,230957,306603,213355,79016,106178,132633,158977,238159,185426,344238,429057
+'8904,Tugs and pusher craft,53918,42998,144157,302182,173507,115602,135093,149520,102186,154588,213170,306833
+'8905,"Light-vessels, fire-floats, dredgers, floating cranes, and other vessels the navigability of ...",46148,92940,6168,86625,93071,35670,44919,9236,19859,67653,41360,20607
+'8906,"Vessels, incl. warships and lifeboats (excluding rowing boats and other vessels of heading ...",72454,17127,15575,159317,44112,60263,34343,43822,18878,132426,65802,47714
+'8907,"Rafts, tanks, coffer-dams, landing stages, buoys, beacons and other floating structures (excluding ...",4692,2358,11665,5359,15902,6367,9745,8538,7081,19614,17127,19160
+'8908,Vessels and other floating structures for breaking up,0,0,14066,1,52,0,0,0,0,5,1,0
+'9001,Optical fibres and optical fibre bundles; optical fibre cables (excluding made up of individually ...,4776,5236,6941,12363,9828,14440,19681,18088,13724,14987,20932,19829
+'9002,"Lenses, prisms, mirrors and other optical elements, of any material, mounted, being parts of ...",603,475,1125,3035,1203,744,1218,1164,2135,2368,3449,2695
+'9003,"Frames and mountings for spectacles, goggles or the like, and parts thereof, n.e.s.",1916,3205,4038,4304,5791,6526,7201,6893,7579,6505,8346,9432
+'9004,"Spectacles, goggles and the like, corrective, protective or other (excluding spectacles for ...",5549,6271,8881,8498,8128,11977,8487,8063,7342,11504,8927,19161
+'9005,"Binoculars, monoculars, astronomical and other optical telescopes, and mountings therefor; ...",1090,2220,840,760,7820,14096,49951,7104,1688,320,130,4656
+'9006,"Photographic cameras, photographic flashlight apparatus and flashbulbs (excluding discharge ...",260,312,744,484,1283,692,1638,1329,1929,1947,3033,2386
+'9007,"Cinematographic cameras and projectors, whether or not incorporating sound recording or reproducing ...",582,578,1042,6666,4945,6004,8240,5118,4533,4869,5983,2433
+'9008,"Image projectors, and photographic enlargers and reducers (excluding cinematographic)",76,287,113,95,69,90,17,20,13,9,169,39
+'9010,"Apparatus and equipment for photographic or cinematographic laboratories, not elsewhere specified ...",1207,913,1089,908,687,778,529,484,518,720,574,730
+'9011,"Optical microscopes, incl. those for photomicrography, cinephotomicrography or microprojection ...",860,1187,1889,2073,1155,2149,1644,1863,2092,1616,1810,5355
+'9012,"Electron microscopes, proton microscopes and diffraction apparatus",308,240,734,767,645,758,533,164,1136,489,497,1260
+'9013,Liquid crystal devices not constituting articles provided for more specifically in other heading; ...,13716,20207,14087,18976,50822,30925,22343,26055,28833,37849,16003,63944
+'9014,Direction finding compasses; other navigational instruments and appliances (excluding radio ...,4000,10504,21700,11820,13207,10511,7901,12483,77417,72643,43130,79637
+'9015,"Surveying, incl. photogrammetrical surveying, hydrographic, oceanographic, hydrological, meteorological ...",8362,14007,7231,19603,18816,10559,8325,22452,39036,12716,26568,36018
+'9016,"Balances of a sensitivity of 50 mg or better, with or without weights",391,407,402,481,489,551,736,830,885,803,933,1525
+'9017,"Drawing, marking-out or mathematical calculating instruments, e.g. drafting machines, pantographs, ...",2549,2683,4964,6642,3589,3676,3726,4220,4832,4432,4311,4947
+'9018,"Instruments and appliances used in medical, surgical, dental or veterinary sciences, incl. ...",106279,121832,292075,326338,178184,175834,204390,227181,403435,470932,513394,517055
+'9019,Mechano-therapy appliances; massage apparatus; psychological aptitude-testing apparatus; ozone ...,14724,12126,20221,18420,14203,13607,16127,14558,14595,79950,60936,42032
+'9020,Breathing appliances and gas masks (excluding protective masks having neither mechanical parts ...,1246,1599,2561,2576,3475,2535,4758,2169,14529,48028,14833,18104
+'9021,"Orthopaedic appliances, incl. crutches, surgical belts and trusses; splints and other fracture ...",53586,58749,79353,87317,78860,82074,78039,94360,106263,86962,132427,153894
+'9022,"Apparatus based on the use of X-rays or of alpha, beta or gamma radiations, whether or not ...",6462,12732,19694,17277,16019,10973,15848,18101,23680,37113,48059,38014
+'9023,"Instruments, apparatus and models designed for demonstrational purposes, e.g. in education ...",9749,9373,6885,7308,6961,8834,5982,6626,8640,6971,7432,6171
+'9024,"Machines and appliances for testing the hardness, strength, compressibility, elasticity or ...",11662,10725,11975,10203,10125,9000,15706,13248,14791,13289,17580,18018
+'9025,"Hydrometers, areometers and similar floating instruments, thermometers, pyrometers, barometers, ...",11273,9003,10548,11172,10130,9697,12975,14355,15141,27210,19654,21234
+'9026,"Instruments and apparatus for measuring or checking the flow, level, pressure or other variables ...",15383,18799,22362,24731,25039,26335,25862,33249,38536,45814,58127,72811
+'9027,"Instruments and apparatus for physical or chemical analysis, e.g. polarimeters, refractometers, ...",14778,25481,24424,31454,36207,26997,27079,30845,33437,44980,54414,56572
+'9028,"Gas, liquid or electricity supply or production meters, incl. calibrating meters therefor",32331,46867,79703,68225,56063,58423,68848,73603,78404,71060,82865,98030
+'9029,"Revolution counters, production counters, taximeters, milometers, pedometers and the like (excluding ...",16067,15212,14081,12325,9572,8558,10146,9133,8775,9540,15130,11671
+'9030,"Oscilloscopes, spectrum analysers and other instruments and apparatus for measuring or checking ...",16367,38428,28579,34325,16432,12305,13781,10800,17204,12775,13393,21331
+'9031,"Measuring or checking instruments, appliances and machines not elsewhere specified in chapter ...",23250,32493,59148,59198,34169,47659,42607,56025,69637,64699,80251,96075
+'9032,"Regulating or controlling instruments and apparatus (excluding taps, cocks and valves of heading ...",68362,72348,103918,117861,95623,99059,121869,140195,138094,120179,145061,163360
+'9033,"Parts and accessories for machines, appliances, instruments or other apparatus in chapter 90, ...",268,432,755,764,5262,3120,2854,3869,3868,4490,12604,12338
+'9101,"Wrist-watches, pocket-watches and other watches, incl. stop-watches, with case of precious ...",2018,2517,1504,3045,2916,2334,3540,9937,10925,9853,14255,9322
+'9102,"Wrist-watches, pocket-watches and other watches, incl. stop-watches (excluding of precious ...",11203,12254,14694,23946,24578,25044,34234,34721,26930,17269,23236,19257
+'9103,"Clocks with watch movements (excluding wrist-watches, pocket-watches and other watches of heading ...",367,286,496,679,346,315,347,338,372,235,768,750
+'9104,"Instrument panel clocks and clocks of a similar type for vehicles, aircraft, vessels and other ...",184,188,331,1008,698,208,244,303,392,279,315,488
+'9105,"Clocks (excluding wrist-watches, pocket-watches and other watches of heading 9101 or 9102, ...",2090,2376,2088,2600,1929,1760,2025,2062,2883,2261,4192,4257
+'9106,"Time of day recording apparatus and apparatus for measuring, recording or otherwise indicating ...",2118,2264,2172,254,134,157,75,368,182,223,392,712
+'9107,Time switches with clock or watch movement or with synchronous motor,428,809,2757,3873,3914,3718,4573,4845,2697,4252,6116,4552
+'9108,"Watch movements, complete and assembled",128,60,153,127,72,119,14,217,149,4,320,141
+'9109,"Clock movements, complete and assembled (excluding watch movements)",46,69,175,64,62,51,36,11,126,73,154,97
+'9110,"Complete, unassembled or partly assembled watch or clock movements or movement sets; incomplete ...",4,5,6,0,0,5,0,1,57,1,6,12
+'9111,"Cases for wrist-watches, pocket-watches and other watches, incl. stop-watches, of heading 9101 ...",7,4,65,5,48,30,6,5,8,9,57,7
+'9112,"Clock and watch cases and parts thereof, n.e.s. (excluding for wrist-watches, pocket-watches ...",24,19,34,34,4,3,4,8,6,0,102,136
+'9113,"Watch straps, watch bands and watch bracelets, and parts thereof, n.e.s.",126,36,42,47,115,265,548,91,147,57,911,1296
+'9114,"Clock or watch parts, n.e.s.",196,96,61,198,99,185,239,50,96,120,105,155
+'9201,"Pianos, incl. automatic; harpsichords and other keyboard stringed instruments",77,116,485,262,118,66,74,69,66,519,249,94
+'9202,"String musical instruments, e.g. guitars, violins, and harps (excluding with keyboard)",445,517,565,494,409,442,504,640,488,763,1476,1337
+'9205,"""Wind musical instruments """"e.g. clarinets, trumpets, bagpipes, keyboard pipe organs, harmoniums ...",144,134,167,174,59,39,29,56,84,39,348,228
+'9206,"Percussion musical instruments, e.g. drums, xylophones, cymbals, castanets, maracas",8008,8330,7832,8812,8268,8798,8585,10305,10173,9238,11472,12512
+'9207,"Musical instruments, the sound of which is produced, or must be amplified, electrically, e.g. ...",192,120,134,240,44,39,85,77,99,38,582,1138
+'9208,"Musical boxes, fairground organs, mechanical street organs, mechanical singing birds, musical ...",23,10,15,17,72,41,28,76,97,98,169,93
+'9209,"Parts and accessories for musical instruments, e.g. mechanisms for musical boxes, cards, discs ...",205,185,217,209,195,135,178,79,150,163,582,1097
+'9301,"Military weapons, incl. sub-machine guns (excluding revolvers and pistols of heading 9302 and ...",0,2019,0,0,8067,2550,0,0,0,0,0,0
+'9302,Revolvers and pistols (excluding those of heading 9303 or 9304 and sub-machine guns for military ...,14029,15144,28431,15570,23016,26891,27234,26393,39898,85767,152830,128713
+'9303,"Firearms and similar devices which operate by the firing of an explosive charge, e.g. sporting ...",72946,105601,155353,142235,117532,138456,125229,135493,149147,291660,454477,304951
+'9304,"Spring, air or gas guns and pistols, truncheons and other non-firearms (excluding swords, cutlasses, ...",16111,19520,23285,20034,16180,15225,16488,17272,15471,23060,30774,30266
+'9305,"Parts and accessories for weapons and the like of heading 9301 to 9304, n.e.s.",19298,21485,33798,31744,25404,22972,18646,21865,26887,36458,56259,52753
+'9306,"Bombs, grenades, torpedos, mines, missiles, cartridges and other ammunition and projectiles ...",11663,14909,34849,49934,73922,122729,45182,73461,83926,76371,163225,158267
+'9307,"Swords, cutlasses, bayonets, lances and similar arms and parts thereof, and scabbards and sheaths ...",44,18,71,112,16,15,12,13,20,225,243,379
+'9401,"Seats, whether or not convertible into beds, and parts thereof, n.e.s. (excluding medical, ...",632131,646219,738527,789532,746084,787745,849981,956004,1294052,1162942,1462201,1623956
+'9402,"Medical, surgical, dental or veterinary furniture, e.g. operating tables, examination tables, ...",26610,32409,53823,45978,29820,32151,36902,43989,62739,113502,94040,115680
+'9403,"Furniture and parts thereof, n.e.s. (excluding seats and medical, surgical, dental or veterinary ...",894530,1113035,1377270,1498324,1350890,1281477,1305119,1488049,1762848,1751199,2210538,2472474
+'9404,"Mattress supports (excluding spring interiors for seats); articles of bedding and similar furnishing, ...",105109,106909,142252,153058,129744,132849,168405,198698,296185,398940,459731,420107
+'9405,"Lamps and lighting fittings, incl. searchlights and spotlights, and parts thereof, n.e.s; illuminated ...",237956,247002,322839,337856,247779,256148,232099,232016,248366,231702,296513,332884
+'9406,"Prefabricated buildings, whether or not complete or already assembled",213839,275087,294605,230853,249030,168572,167839,211843,204675,238764,265331,295625
+'9503,"""Tricycles, scooters, pedal cars and similar wheeled toys; dolls' carriages; dolls; other toys; ...",23706,25836,31199,37958,29104,30687,34944,32829,44710,43772,83336,108683
+'9504,"Video game consoles and machines, articles for funfair, table or parlour games, incl. pintables, ...",2373,2965,7427,13819,7692,5925,5223,6512,7016,8048,13451,14576
+'9505,"Festival, carnival or other entertainment articles, incl. conjuring tricks and novelty jokes, ...",1264,2191,2185,2527,1190,1548,1607,1299,1151,1309,3488,5823
+'9506,"Articles and equipment for general physical exercise, gymnastics, athletics, other sports, ...",38441,49839,63606,61089,63683,57296,68803,76027,69436,51377,56180,69820
+'9507,"Fishing rods, fish-hooks and other line fishing tackle n.e.s; fish landing nets, butterfly ...",423,625,625,643,678,353,392,295,346,332,613,1020
+'9508,"Roundabouts, swings, shooting galleries and other fairground amusements; travelling circuses ...",15075,16974,16601,20624,15370,12093,14161,22036,25888,24032,26517,40863
+'9601,"Worked ivory, bone, tortoiseshell, horn, antlers, coral, mother-of-pearl and other animal carving ...",10,9,27,23,10,9,49,53,46,15,25,46
+'9602,Worked vegetable or mineral carving material and articles of these materials n.e.s; moulded ...,259,131,158,136,328,186,357,233,584,216,768,1365
+'9603,"Brooms, brushes, incl. brushes constituting parts of machines, appliances or vehicles, hand-operated ...",29472,36837,45936,52196,45517,46496,49372,51224,58828,65585,76614,84493
+'9604,Hand sieves and hand riddles (excluding colanders),189,181,248,447,489,157,64,234,289,276,221,302
+'9605,"Travel sets for personal toilet, sewing or shoe or clothes cleaning (excluding manicure sets)",209,146,3734,5866,1201,1155,1203,232,19794,4554,7956,18873
+'9606,"Buttons, press-fasteners, snap-fasteners and press studs, button moulds and other parts of ...",26474,32607,35300,38039,40877,33393,34629,35888,34655,27641,42329,44700
+'9607,Slide fasteners and parts thereof,39729,40847,49572,58497,50594,48366,46113,45293,38439,35968,49475,50756
+'9608,"Ball-point pens; felt tipped and other porous-tipped pens and markers; fountain pens, stylograph ...",5749,5550,6874,9397,8674,8647,8119,10158,10571,7208,10952,13826
+'9609,"Pencils, crayons, pencil leads, pastels, drawing charcoals, writing or drawing chalks and tailors' ...",4286,5051,5277,6232,4308,4631,5560,5343,3602,3283,3701,4965
+'9610,"Slates and boards, with writing or drawing surfaces, whether or not framed",2360,2513,2841,3254,1986,3328,2067,2104,3561,4797,3891,5972
+'9611,"Hand-operated date, sealing or numbering stamps, and the like; hand-operated composing sticks ...",741,1035,523,788,682,393,658,800,905,615,1419,2298
+'9612,"Typewriter or similar ribbons, inked or otherwise prepared for giving impressions, whether ...",3785,1013,1098,1041,1130,1256,1425,1493,1761,1292,2210,3518
+'9613,"Cigarette lighters and other lighters, whether or not mechanical or electrical and parts thereof, ...",3646,3094,2183,3132,5213,2223,2914,3086,4784,6801,9380,8061
+'9614,"Smoking pipes, incl. pipe bowls, cigar or cigarette holders, and parts thereof, n.e.s.",2053,2674,2603,4073,5465,6412,8143,9357,8001,12198,16358,9632
+'9615,"Combs, hair-slides and the like; hairpins; curling pins, curling grips, hair-curlers and the ...",2188,2685,2090,2282,2143,2034,1557,1476,1705,1940,2326,3767
+'9616,"Scent sprays and similar toilet sprays, and mounts and heads therefor; powder puffs and pads ...",1771,1661,2966,2264,2066,2093,2156,2474,2281,2082,1698,2667
+'9617,"Vacuum flasks and other vacuum vessels, and parts thereof (excluding glass inners)",303,535,1409,1738,2300,2935,3902,4583,5011,4492,4783,6060
+'9618,"Tailors' dummies and other lay figures, automata and other animated displays used for shop ...",5219,6771,7529,9252,9425,9380,9473,8576,8683,5583,8386,10164
+'9619,"Sanitary towels (pads) and tampons, napkins and napkin liners for babies, and similar articles, ...",0,653110,825805,897662,788455,691249,694653,719236,728543,716954,710998,876081
+'9620,"Monopods, bipods, tripods and similar articles",0,0,0,0,0,0,121,524,1401,664,673,558
+'9701,"Paintings, e.g. oil paintings, watercolours and pastels, and drawings executed entirely by ...",3954,1801,14634,3256,3172,6446,8554,15995,11546,10382,9912,14682
+'9702,"Original engravings, prints and lithographs",0,31,0,5,24,8,0,36,0,1,17,13
+'9703,"Original sculptures and statuary, in any material",386,201,451,389,616,903,364,3383,847,333,1670,1585
+'9704,"Postage or revenue stamps, stamp-postmarks, first-day covers, postal stationery, stamped paper ...",0,0,0,0,0,0,0,0,0,0,21,18
+'9705,"Collections and collector's pieces of zoological, botanical, mineralogical, anatomical, historical, ...",259,1,41,279,322,355,310,204,1730,231,169,368
+'9706,Antiques of > 100 years old,0,4,0,77,1,0,0,56,0,0,4,0
+'9999,Commodities not elsewhere specified,2115195,2008052,2117550,2618302,2104940,1780355,2343732,2564885,2731162,2216271,2880399,4079798
